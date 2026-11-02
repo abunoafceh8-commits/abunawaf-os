@@ -109,6 +109,15 @@ write_csv("keywords.csv", ["الكلمة", "النية", "الرواج", "الص
 for f in ["index.html", "app.css", "app.js", "static-api.js"]:
     shutil.copy(os.path.join(STATIC_SRC, f), os.path.join(SITE, f))
 
+# حقن إعدادات قاعدة البيانات الحيّة (Supabase) داخل static-api.js
+SB_URL = os.environ.get("SB_URL", "https://kneluxgbulzvnedjarsf.supabase.co")
+SB_KEY = os.environ.get("SB_KEY",
+    "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImtuZWx1eGdidWx6dm5lZGphcnNmIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTMxMjU2ODQsImV4cCI6MjEwODcwMTY4NH0.bXFvwS4kHmAhI1Jn3ivcfqLl76ygJoXgTVjQVNSDaBM")
+_sap = os.path.join(SITE, "static-api.js")
+_src = open(_sap, encoding="utf-8").read().replace("__SB_URL__", SB_URL).replace("__SB_KEY__", SB_KEY)
+open(_sap, "w", encoding="utf-8").write(_src)
+print("→ قاعدة البيانات:", SB_URL)
+
 html = open(os.path.join(SITE, "index.html"), encoding="utf-8").read()
 inject = (
     '<script>window.STATIC_MODE=true;'

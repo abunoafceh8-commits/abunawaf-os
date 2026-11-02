@@ -1,46 +1,33 @@
-# النشر — الحالة والخطوات
+# النشر — الحالة الفعلية (محدّثة)
 
-## ✅ ما هو منشور الآن (حقيقي ويعمل)
-| المكوّن | الحالة |
-|---|---|
-| الواجهة الكاملة (8 وحدات) | منشورة على **GitHub Pages** عبر HTTPS |
-| البيانات (عملاء/كلمات/تدقيق SEO/أدوات) | ملفات JSON/CSV تُولَّد آلياً |
-| **الخادم المجدول** | **GitHub Actions** يشغّل محرّكات الجمع والزحف كل 12 ساعة أو يدوياً، ثم ينشر |
-| التحديث اليدوي الفوري | Actions → «Run workflow» |
+## ✅ يعمل الآن على الإنترنت (رابط حقيقي)
+| المكوّن | المكان | الحالة |
+|---|---|---|
+| الواجهة (8 وحدات) | GitHub Pages → `https://abunoafceh8-commits.github.io/abunawaf-os/` | ✅ |
+| المحرّك المجدول (صيد + كلمات + بناء) | GitHub Actions كل 12 ساعة / يدوياً | ✅ نُفِّذ فعلياً |
+| **قاعدة البيانات الحيّة** | Supabase Postgres `kneluxgbulzvnedjarsf` | ✅ 26 عميلاً · 1,212 كلمة |
+| **خادم Deno Edge** | `.../functions/v1/api/{health,expand,read-url,stats}` | ✅ يعمل |
+| النسخ الاحتياطي المحلي | FastAPI + Uvicorn (`_app/server/app.py`) | ✅ يعمل على أي جهاز |
 
-الرابط: https://abunoafceh8-commits.github.io/abunawaf-os/
+## مفتاح الفريق
+`abunawaf-2026` — يُطلب عند أول كتابة، ويُخزَّن في المتصفح. غيّره من `SUPABASE.md`.
 
-## ⚠️ ما لم يُنشر: خادم FastAPI المباشر
-سببان تقنيان موثّقان:
-1. **مفتاح Vercel المرفق غير صالح** — رفضه `api.vercel.com` بكل نقاط النهاية:
-   `{"error":{"code":"forbidden","message":"Not authorized","invalidToken":true}}`
-   (تم اختباره بـ3 صيغ ترويسة، وبـ`api.v0.dev` أيضاً.)
-2. الميزات التي تحتاج خادماً دائماً (زحف لحظي، قراءة أي رابط، تشغيل صيد من الواجهة)
-   لا تعمل على الاستضافة الثابتة — لكن **النتيجة نفسها متاحة** لأن Actions يشغّل نفس الكود.
-
-## كيف تنشر الخادم في 3 دقائق (عند توفّر مفتاح صالح)
-### Vercel
+## ⚠️ Vercel
+مفتاح Vercel المرفق مرفوض من Vercel: `{"error":{"code":"forbidden","invalidToken":true}}`
+(جُرِّب على `/v2/user`, `/v9/projects`, `/v3/user`, `?token=`, و`api.v0.dev`).
+لتفعيل Vercel لاحقاً: أنشئ توكن جديداً ثم:
 ```bash
-cd _app
-npx vercel link --yes --token $VERCEL_TOKEN
-npx vercel --prod --token $VERCEL_TOKEN
+cd _app && npx vercel --prod --token $NEW_TOKEN
 ```
-`vercel.json` جاهز (يتضمن `includeFiles` لكل البيانات والأصول).
+`vercel.json` جاهز. لكن **لا حاجة له** — الخادم الديناميكي يعمل الآن عبر Supabase Edge Functions،
+وقاعدة البيانات عبر PostgREST، والجدولة عبر GitHub Actions.
 
-### أو أي خادم Linux / Render / Railway / Fly
+## أوامر مفيدة
 ```bash
-pip install -r requirements.txt
+# إعادة بناء المخطط كاملاً
+python3 supabase_setup.py
+# تحديث البيانات ثم إعادة بناء الموقع
+SITE_OUT=/path/to/repo python3 refresh_data.py
+# تشغيل الخادم المحلي الكامل
 python -m uvicorn server.app:app --host 0.0.0.0 --port 8000
 ```
-
-### أو Cloudflare Tunnel (بدون استضافة جديدة)
-```bash
-python -m uvicorn server.app:app --port 8000 &
-cloudflared tunnel --url http://localhost:8000
-```
-
-## ما الذي يتغيّر عند تشغيل الخادم؟
-- زر «⚡ صيد جديد» يعمل لحظياً بدل توجيهك إلى Actions.
-- «⌕ اقرأ وقيّم» يحلّل أي رابط عميل بـ trafilatura.
-- «⟳ إعادة الزحف الآن» يفحص ant.xo.je لحظياً.
-- الإضافة اليدوية تُخزَّن في قاعدة البيانات بدل `localStorage`.

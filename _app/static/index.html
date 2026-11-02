@@ -28,6 +28,10 @@
     <div class="aside-foot">
       <div><span class="dot"></span><span id="healthTxt">جارٍ الفحص…</span></div>
       <div style="margin-top:6px">ant.xo.je · الرياض</div>
+      <div style="margin-top:8px;padding-top:8px;border-top:1px solid var(--line)">
+        <div style="display:flex;align-items:center;gap:6px"><span class="dot" id="dbDot"></span><span id="dbTxt">قاعدة البيانات: جارٍ الاتصال…</span></div>
+        <div id="dbMeta" style="margin-top:4px;opacity:.75;font-size:11px"></div>
+      </div>
     </div>
   </aside>
 
@@ -88,6 +92,7 @@
           <select id="leadTier"><option value="">كل الأولويات</option><option>ساخن</option><option>دافئ</option><option>مراقبة</option></select>
           <select id="leadPlatform"><option value="">كل المنصات</option></select>
           <select id="leadService"><option value="">كل الخدمات</option></select>
+          <select id="leadStatusF"><option value="">كل الحالات</option><option>جديد</option><option>تم التواصل</option><option>قيد المتابعة</option><option>تمت الخدمة</option><option>مرفوض</option></select>
           <label style="font-size:12px;color:var(--muted);display:flex;align-items:center;gap:6px">
             <input type="checkbox" id="leadRaw"> إظهار النتائج الخام
           </label>
@@ -110,9 +115,9 @@
         <table>
           <thead><tr>
             <th>الأولوية</th><th>الدرجة</th><th>العميل / المنشور</th><th>المنصة</th>
-            <th>الخدمة</th><th>الإشارات</th><th>الرابط المباشر</th>
+            <th>الخدمة</th><th>الإشارات</th><th>الحالة</th><th>الرابط المباشر</th>
           </tr></thead>
-          <tbody id="leadRows"><tr><td colspan="7"><div class="empty">جارٍ التحميل…</div></td></tr></tbody>
+          <tbody id="leadRows"><tr><td colspan="8"><div class="empty">جارٍ التحميل…</div></td></tr></tbody>
         </table>
       </div>
       <div class="card" style="margin-top:16px">
@@ -282,5 +287,15 @@
 
 <div class="toast" id="toast"></div>
 <script src="app.js"></script>
+  <!-- درج تفاصيل العميل/الملاحظات -->
+  <div id="drawer" style="position:fixed;inset:0;background:rgba(4,8,16,.66);backdrop-filter:blur(3px);display:none;z-index:70">
+    <div style="position:absolute;top:0;left:0;height:100%;width:min(520px,94vw);background:var(--panel,#0d1524);border-left:1px solid var(--line,#1b2740);padding:18px;overflow:auto">
+      <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:12px">
+        <h3 style="margin:0;font-size:16px">تفاصيل العميل</h3>
+        <button class="btn sm" onclick="closeDrawer()">✕ إغلاق</button>
+      </div>
+      <div id="drawerBody"></div>
+    </div>
+  </div>
 </body>
 </html>

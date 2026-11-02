@@ -2,7 +2,16 @@
 const $ = (s, r = document) => r.querySelector(s);
 const $$ = (s, r = document) => [...r.querySelectorAll(s)];
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, m => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[m]));
-const api = async (u, o) => { const r = await fetch(u, o); if (!r.ok) throw new Error((await r.text()).slice(0, 200)); return r.json(); };
+const api = async (u, o) => {
+  const r = await fetch(u, o);
+  if (!r.ok) {
+    const raw = (await r.text()).slice(0, 400);
+    let msg = raw, needKey = false;
+    try { const j = JSON.parse(raw); msg = j.error || raw; needKey = !!j.needKey || /مفتاح/.test(msg); } catch (e) { needKey = /مفتاح/.test(raw); }
+    const err = new Error(msg); err.needKey = needKey; throw err;
+  }
+  return r.json();
+};
 const num = n => (n ?? 0).toLocaleString("en-US");
 const dt = s => (s || "").replace("T", " ").replace(/\+00:00|Z$/, "").slice(0, 16);
 function toast(msg) { const t = $("#toast"); t.textContent = msg; t.classList.add("show"); clearTimeout(t._t); t._t = setTimeout(() => t.classList.remove("show"), 3200); }
@@ -99,6 +108,7 @@ async function loadLeads() {
   if ($("#leadPlatform").value) p.set("platform", $("#leadPlatform").value);
   if ($("#leadService").value) p.set("service", $("#leadService").value);
   if ($("#leadQ").value) p.set("q", $("#leadQ").value);
+  if ($("#leadStatusF") && $("#leadStatusF").value) p.set("status", $("#leadStatusF").value);
   p.set("include_raw", $("#leadRaw").checked);
   try {
     const d = await api("/api/leads?" + p);
@@ -120,15 +130,17 @@ async function loadLeads() {
         <td><span class="chip">${esc(x.platform)}</span>${x.kind ? `<br><span class="chip ${x.kind === "منافس" ? "warn" : x.kind === "استغاثة منشورة" ? "ok" : "cy"}" style="margin-top:3px">${esc(x.kind)}</span>` : ""}</td>
         <td style="font-size:12px">${esc(x.service)}</td>
         <td>${(x.signals || []).slice(0, 3).map(s => `<span class="sig">${esc(s)}</span>`).join("") || "<span class='sig'>—</span>"}</td>
-        <td><a class="btn sm" href="${esc(x.url)}" target="_blank" rel="noopener">فتح ↗</a></td>
-      </tr>`).join("") : `<tr><td colspan="7"><div class="empty">لا نتائج بهذه الفلاتر</div></td></tr>`;
+        <td>${statusCell(x)}</td>
+        <td><a class="btn sm" href="${esc(x.url)}" target="_blank" rel="noopener">فتح ↗</a>
+            <button class="btn sm" style="margin-top:4px" onclick="openDrawer('${esc(x.db_id || x.id)}')">💬</button></td>
+      </tr>`).join("") : `<tr><td colspan="8"><div class="empty">لا نتائج بهذه الفلاتر</div></td></tr>`;
     $("#leadSources").innerHTML = (d.sources || []).map(s => `<tr>
       <td>${esc(s.query)}</td><td class="mono" style="max-width:320px;overflow:hidden;text-overflow:ellipsis">${esc(s.q)}</td>
       <td><span class="chip ${s.status === "ok" ? "ok" : "bad"}">${esc(s.status)}</span></td>
       <td class="num">${s.found}</td></tr>`).join("") || "<tr><td colspan=4 class='empty'>—</td></tr>";
-  } catch (e) { $("#leadRows").innerHTML = `<tr><td colspan="7"><div class="empty">${esc(e.message)}</div></td></tr>`; }
+  } catch (e) { $("#leadRows").innerHTML = `<tr><td colspan="8"><div class="empty">${esc(e.message)}</div></td></tr>`; }
 }
-["leadTier", "leadPlatform", "leadService", "leadRaw"].forEach(id => $("#" + id).onchange = loadLeads);
+["leadTier", "leadPlatform", "leadService", "leadRaw", "leadStatusF"].forEach(id => $("#" + id).onchange = loadLeads);
 $("#leadQ").oninput = (() => { let t; return () => { clearTimeout(t); t = setTimeout(loadLeads, 350); }; })();
 
 async function runHarvest() {
@@ -152,7 +164,6 @@ async function runHarvest() {
   } catch (e) { b.disabled = false; b.textContent = "⚡ صيد جديد"; toast("فشل: " + e.message); }
 }
 async function readUrl() {
-  if (window.STATIC_MODE) { toast("قراءة الروابط (trafilatura) تحتاج الخادم — متاحة في نسخة FastAPI"); return; }
   const u = $("#readUrl").value.trim();
   if (!u) return;
   const out = $("#readOut");
@@ -180,7 +191,11 @@ function prefillLead(url, score, service) {
 function openLeadModal() { $("#leadModal").classList.add("open"); }
 async function saveLead() {
   const body = { name: $("#mName").value, url: $("#mUrl").value, platform: $("#mPlatform").value, service: $("#mService").value, score: $("#mScore").value, note: $("#mNote").value };
-  try { await api("/api/leads/add", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) }); $("#leadModal").classList.remove("open"); toast("تمت الإضافة ✓"); loadLeads(); }
+  try {
+    const res = await withKey(() => api("/api/leads/add", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body) }));
+    $("#leadModal").classList.remove("open"); toast(res && res.warn ? res.warn : "تمت الإضافة وحُفظت في قاعدة البيانات ✓");
+    loadLeads(); if (window.DB) window.DB.refresh(true);
+  }
   catch (e) { toast("خطأ: " + e.message); }
 }
 
@@ -400,3 +415,95 @@ if (window.STATIC_MODE && window.BUILD_STAMP) {
 }
 loadDash();
 setTimeout(() => { loadLeads(); loadKw(); loadTools(false); loadSocial(); }, 400);
+
+/* ─────────── الحالة والملاحظات (قاعدة بيانات حيّة) ─────────── */
+const STATUSES = ["جديد", "تم التواصل", "قيد المتابعة", "تمت الخدمة", "مرفوض"];
+const ST_COLOR = { "جديد": "cy", "تم التواصل": "warn", "قيد المتابعة": "warn", "تمت الخدمة": "ok", "مرفوض": "bad" };
+const rowById = (id) => (LEADS.leads || []).find(x => String(x.db_id || x.id) === String(id)) || {};
+
+function statusCell(x) {
+  const id = esc(x.db_id || x.id), st = x.status || "جديد";
+  const opts = STATUSES.map(s => `<option ${s === st ? "selected" : ""}>${s}</option>`).join("");
+  const dis = x.db_id ? "" : "disabled title='غير محفوظ في قاعدة البيانات بعد'";
+  return `<select class="stsel" data-id="${id}" ${dis}
+    style="background:#0e1726;color:#dbe6f6;border:1px solid #24314a;border-radius:8px;padding:4px 6px;font-size:12px;min-width:104px"
+    onchange="changeStatus(this.dataset.id,this.value)">${opts}</select>`;
+}
+
+function askKey(msg) {
+  const k = prompt((msg || "مفتاح الفريق مطلوب لهذه العملية") + "\n(المفتاح الافتراضي: abunawaf-2026)", window.DB && window.DB.key() || "");
+  if (k) window.DB.setKey(k.trim());
+  return !!k;
+}
+const withKey = async (fn) => {
+  try { return await fn(); }
+  catch (e) {
+    if (e.needKey || /مفتاح/.test(e.message || "")) {
+      if (!askKey("مفتاح الفريق غير صحيح")) throw new Error("أُلغيت العملية");
+      return await fn();
+    }
+    throw e;
+  }
+};
+
+async function changeStatus(id, status) {
+  try {
+    await withKey(() => api("/api/leads/set-status", {
+      method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ id, status })
+    }));
+    const row = rowById(id); if (row) row.status = status;
+    toast(`تم تحديث الحالة إلى «${status}» ✔`);
+    if (window.DB) window.DB.refresh(true);
+  } catch (e) { toast("تعذّر التحديث: " + e.message); }
+}
+
+async function openDrawer(id) {
+  const row = rowById(id);
+  const d = $("#drawer"); d.style.display = "block";
+  $("#drawerBody").innerHTML = `
+    <div style="margin-bottom:12px">
+      <div style="font-weight:700;line-height:1.5">${esc(row.title || "—")}</div>
+      <div style="margin-top:6px;display:flex;gap:6px;flex-wrap:wrap">
+        <span class="chip">${esc(row.platform || "—")}</span>
+        <span class="chip">${esc(row.service || "—")}</span>
+        <span class="score-pill ${row.score >= 75 ? "s-hot" : row.score >= 55 ? "s-warm" : "s-watch"}">${row.score || 0}</span>
+        ${row.owner ? `<span class="chip ok">المسؤول: ${esc(row.owner)}</span>` : ""}
+      </div>
+      <div style="margin-top:8px"><a class="btn sm" href="${esc(row.url || "#")}" target="_blank" rel="noopener">فتح الرابط المباشر ↗</a></div>
+      <div style="margin-top:10px;font-size:12px;color:var(--muted,#8fa3bf)">${esc(row.snippet || "")}</div>
+    </div>
+    <div style="border-top:1px solid var(--line,#1b2740);padding-top:10px;margin-bottom:8px">
+      <div style="font-size:13px;margin-bottom:8px">الملاحظات</div>
+      <div id="noteList" style="font-size:12px;max-height:220px;overflow:auto">جارٍ التحميل…</div>
+      <textarea id="noteText" placeholder="أضف ملاحظة (من كلّم الشخص؟ ماذا ردّ؟ الخطوة التالية…)"
+        style="width:100%;height:70px;margin-top:8px;background:#0e1726;color:#dbe6f6;border:1px solid #24314a;border-radius:8px;padding:8px;font-family:inherit"></textarea>
+      <div style="display:flex;gap:6px;margin-top:6px">
+        <input id="noteAuthor" placeholder="اسمك" value="${esc(localStorage.getItem("abunawaf_author") || "")}"
+          style="flex:1;background:#0e1726;color:#dbe6f6;border:1px solid #24314a;border-radius:8px;padding:6px">
+        <button class="btn sm primary" onclick="addNote('${esc(id)}')">حفظ الملاحظة</button>
+      </div>
+    </div>`;
+  loadNotes(id);
+}
+
+async function loadNotes(id) {
+  const box = $("#noteList"); if (!box) return;
+  try {
+    const list = await api("/api/notes?lead_id=" + encodeURIComponent(id));
+    box.innerHTML = (list || []).length ? list.map(n => `<div style="padding:6px 0;border-bottom:1px solid rgba(36,49,74,.6)">
+        <b>${esc(n.author || "الفريق")}</b> <span style="opacity:.6">· ${esc(dt(n.created_at))}</span>
+        <div style="margin-top:3px">${esc(n.body)}</div></div>`).join("") : "<div class='empty'>لا ملاحظات بعد</div>";
+  } catch (e) { box.innerHTML = `<div class="empty">${esc(e.message)}</div>`; }
+}
+
+async function addNote(id) {
+  const t = ($("#noteText").value || "").trim(); if (!t) return toast("اكتب الملاحظة أولاً");
+  const author = ($("#noteAuthor").value || "الفريق").trim();
+  localStorage.setItem("abunawaf_author", author);
+  try {
+    await withKey(() => api("/api/notes", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ lead_id: id, body: t, author }) }));
+    $("#noteText").value = ""; toast("حُفظت الملاحظة ✔"); loadNotes(id); if (window.DB) window.DB.refresh(true);
+  } catch (e) { toast("تعذّر الحفظ: " + e.message); }
+}
+
+function closeDrawer() { $("#drawer").style.display = "none"; }
