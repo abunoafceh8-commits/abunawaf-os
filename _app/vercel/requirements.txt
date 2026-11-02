@@ -1,0 +1,7 @@
+fastapi
+httpx
+beautifulsoup4
+lxml
+pycryptodome
+scikit-learn
+trafilatura
