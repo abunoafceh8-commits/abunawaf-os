@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-11-02T21:09:13",
+  "generated_at": "2026-11-02T21:41:36",
   "engine": "Bing SERP عبر r.jina.ai (قارئ صفحات)",
   "queries": 70,
   "ok_queries": 70,
@@ -1338,30 +1338,6 @@
    "signals": [],
    "query": "X: يهددني",
    "id": "a6fc47f17a"
-  },
-  {
-   "title": "Macros and VBA | Microsoft Community Hub",
-   "url": "https://techcommunity.microsoft.com/discussions/excelgeneral/macros-and-vba/4071107",
-   "snippet": "Feb 28, 2024· The easiest way to bypass this warning and restore the old \" Enable Content \" security warning is to locate the file in …",
-   "platform": "ويب",
-   "kind": "منشور/موضوع",
-   "service": "استعادة حساب موقوف",
-   "score": 39,
-   "signals": [],
-   "query": "X: حسابي موقوف",
-   "id": "3471a42112"
-  },
-  {
-   "title": "Enable Office Macros in 2026: Yellow vs Red Warnings & MOTW Fixes",
-   "url": "https://windowsforum.com/news/enable-office-macros-in-2026-yellow-vs-red-warnings-mark-of-the-web-fixes.435412/",
-   "snippet": "Jul 7, 2026· Microsoft Office users can enable trusted macros in 2026 by using the yellow Enable Content bar for ordinary trusted …",
-   "platform": "ويب",
-   "kind": "منشور/موضوع",
-   "service": "استعادة حساب موقوف",
-   "score": 39,
-   "signals": [],
-   "query": "X: حسابي موقوف",
-   "id": "1dd11780bc"
   },
   {
    "title": "Signing in using license id and key? - Malwarebytes for Windows …",
@@ -5650,100 +5626,124 @@
    "id": "1b7ea9c996"
   },
   {
-   "title": "Macros from the internet are blocked by default in Office",
-   "url": "https://learn.microsoft.com/en-us/microsoft-365-apps/security/internet-macros-blocked",
-   "snippet": "Jul 17, 2026· To unblock macros in a file, like one from the internet or an email attachment, remove the Mark of the Web on your …",
+   "title": "Double Screen Doors - Wide Entry Ventilation | Lowe's",
+   "url": "https://www.lowes.com/pl/exterior-doors/screen-doors/double-door/4294858074-2864716512?msockid=15b0091b802a65e02301111e81b16499",
+   "snippet": "Add beauty, ventilation, and convenience to your home with double door screen doors from Lowe’s. Designed for durability and ease …",
    "platform": "ويب",
    "kind": "صفحة",
    "service": "استعادة حساب موقوف",
    "score": 7,
    "signals": [],
    "query": "X: حسابي موقوف",
-   "id": "d9229de3c8"
+   "id": "f46dd47a7c"
   },
   {
-   "title": "How to enable macros blocked by Microsoft - Microsoft Q&A",
-   "url": "https://learn.microsoft.com/en-us/answers/questions/5904232/how-to-enable-macros-blocked-by-microsoft",
-   "snippet": "May 27, 2026· Even if the file is unblocked and stored in a Trusted Location, macros can still be blocked due to security policies or …",
+   "title": "8 Best Decorative Screen Doors (November 2026) Complete Guide",
+   "url": "https://www.talkofthehouse.com/best-decorative-screen-doors/",
+   "snippet": "Sep 2, 2026· Find the best decorative screen doors for your home. Our team tested 8 options for airflow, curb appeal, and style in …",
    "platform": "ويب",
    "kind": "صفحة",
    "service": "استعادة حساب موقوف",
    "score": 7,
    "signals": [],
    "query": "X: حسابي موقوف",
-   "id": "49a87d9a48"
+   "id": "9a681cb9b8"
   },
   {
-   "title": "Enable Office macros in 2026: yellow vs red warnings, Mark of the Web ...",
-   "url": "https://techdows.com/enable-office-macros-in-2026-yellow-vs-red-warnings-mark-of-the-web-fixes.html",
-   "snippet": "1 day ago· To enable Office macros, select Enable Content on the yellow Security Warning bar, or, if a red Security Risk banner …",
+   "title": "Double Door - Screen - Exterior Doors - The Home Depot",
+   "url": "https://www.homedepot.com/b/Doors-Windows-Exterior-Doors/Double-Door/Screen/N-5yc1vZas82Z1z0o1fuZ1z0sfqq",
+   "snippet": "Get free shipping on qualified Screen, Double Door Exterior Doors products or Buy Online Pick Up in Store today in the Doors & …",
    "platform": "ويب",
    "kind": "صفحة",
    "service": "استعادة حساب موقوف",
    "score": 7,
    "signals": [],
    "query": "X: حسابي موقوف",
-   "id": "0b8a98cf3e"
+   "id": "f30092d346"
   },
   {
-   "title": "Excel Macros Blocked: Source Is Untrusted - Univik",
-   "url": "https://univik.com/blog/excel-macros-blocked-source-untrusted.html",
-   "snippet": "4 days ago· Excel Macros Blocked: What Triggers the SECURITY RISK Banner? Microsoft's page on blocked internet macros says …",
+   "title": "Aluminum Double door Screen Doors at Lowes.com",
+   "url": "https://www.lowes.com/pl/exterior-doors/screen-doors/aluminum/double-door/4294858074-4294965691-2864716512?msockid=15b0091b802a65e02301111e81b16499",
+   "snippet": "Screen doors help improve airflow and make patios, side doors and front entries more comfortable to use. Compare style, material, …",
    "platform": "ويب",
    "kind": "صفحة",
    "service": "استعادة حساب موقوف",
    "score": 7,
    "signals": [],
    "query": "X: حسابي موقوف",
-   "id": "f592cbb75a"
+   "id": "3f9e31ec85"
   },
   {
-   "title": "How to fix “Microsoft has blocked macros” (2 simple ways)",
-   "url": "https://exceloffthegrid.com/unblock-macros-downloaded-from-the-internet/",
-   "snippet": "Oct 10, 2022· You are probably here because you’ve seen a warning message: Microsoft has blocked macros from running because …",
+   "title": "Double Screen Door Exterior Doors You'll Love | Wayfair",
+   "url": "https://www.wayfair.com/home-improvement/sb2/double-screen-door-exterior-doors-c1869662-a126048~450651-a136113~450667.html?msockid=15b0091b802a65e02301111e81b16499",
+   "snippet": "Shop Wayfair for all the best Double Screen Door Exterior Doors. Enjoy Free Shipping on most stuff, even big stuff.",
    "platform": "ويب",
    "kind": "صفحة",
    "service": "استعادة حساب موقوف",
    "score": 7,
    "signals": [],
    "query": "X: حسابي موقوف",
-   "id": "1864410cdc"
+   "id": "0144d9b4f2"
   },
   {
-   "title": "How to Unblock Macros from a Trusted Source in Microsoft Office",
-   "url": "https://www.wps.com/office-quick-solution/excel-data-problems/how-to-unblock-macros-from-a-trusted-source-in-microsoft-office/",
-   "snippet": "Sep 28, 2026· Learn how to easily unblock macros in Microsoft Office by removing the Mark of the Web, configuring Trusted …",
+   "title": "Screen Doors - The Home Depot",
+   "url": "https://www.homedepot.com/b/Doors-Windows-Exterior-Doors-Screen-Doors/N-5yc1vZbaed",
+   "snippet": "Choose from a variety of screen door types, including sliding, retractable, hinged, and magnetic options. Select from different …",
    "platform": "ويب",
    "kind": "صفحة",
    "service": "استعادة حساب موقوف",
    "score": 7,
    "signals": [],
    "query": "X: حسابي موقوف",
-   "id": "98e608c6ec"
+   "id": "febab76b1d"
   },
   {
-   "title": "How to Enable Macros in Microsoft Office Without the Security Block",
-   "url": "https://www.technobezz.com/how-to-enable-macros-in-microsoft-office",
-   "snippet": "Sep 2, 2026· This is the current fix for a trusted Office file that Windows marked as coming from the internet, such as a browser …",
+   "title": "Best Double Screen Doors for Exterior Installations",
+   "url": "https://upgradeblueprint.org/best-double-screen-doors-exterior/",
+   "snippet": "Double screen doors for exterior use provide convenient airflow while keeping insects out. This guide highlights five top options, …",
    "platform": "ويب",
    "kind": "صفحة",
    "service": "استعادة حساب موقوف",
    "score": 7,
    "signals": [],
    "query": "X: حسابي موقوف",
-   "id": "dd953cb788"
+   "id": "5fa32f171f"
   },
   {
-   "title": "Safely Enable or Unblock Macros in Microsoft Word - WPS Office",
-   "url": "https://www.wps.com/office-quick-solution/excel-data-problems/safely-enable-or-unblock-macros-in-microsoft-word/",
-   "snippet": "Sep 20, 2026· When files are downloaded from the internet or transferred from another PC, Windows tags them with a 'Mark of the …",
+   "title": "Best Exterior Double Screen Doors for Easy, Wide Open ...",
+   "url": "https://screwandsaw.org/best-double-screen-doors-exterior/",
+   "snippet": "Use this guide to pick the best fit for your home’s entryways and climate. The following table highlights five strong choices for exterior …",
    "platform": "ويب",
    "kind": "صفحة",
    "service": "استعادة حساب موقوف",
    "score": 7,
    "signals": [],
    "query": "X: حسابي موقوف",
-   "id": "f10d1fd8a5"
+   "id": "6d8a378be2"
+  },
+  {
+   "title": "Decorative Front Screen Doors - Wayfair",
+   "url": "https://www.wayfair.com/keyword.php?keyword=decorative+front+screen+doors&msockid=15b0091b802a65e02301111e81b16499",
+   "snippet": "Shop Wayfair for the best Decorative Front Screen Doors. Enjoy Free Shipping on most stuff, even big stuff.",
+   "platform": "ويب",
+   "kind": "صفحة",
+   "service": "استعادة حساب موقوف",
+   "score": 7,
+   "signals": [],
+   "query": "X: حسابي موقوف",
+   "id": "98953e9b01"
+  },
+  {
+   "title": "Custom Flat Paneled Double Screen Doors - The Porch Store",
+   "url": "https://porchstore.com/store/doors/double-doors/paneled-style-double-doors/",
+   "snippet": "For our screen door joinery we use a mortise and tenon to insure the strongest and most authentic mechanical construction. We …",
+   "platform": "ويب",
+   "kind": "صفحة",
+   "service": "استعادة حساب موقوف",
+   "score": 7,
+   "signals": [],
+   "query": "X: حسابي موقوف",
+   "id": "bf865f6171"
   },
   {
    "title": "GoDaddy Stock Price | GDDY Stock Quote, News, and History",
