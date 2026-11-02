@@ -1,0 +1,20 @@
+{
+  "generated_at": "2026-11-02T20:54Z",
+  "accounts": [
+    {"platform": "Telegram", "handle": "@KSA_hack01", "url": "https://t.me/KSA_hack01", "role": "القناة الأساسية / الأسرع", "checked": 200, "note": "يُستخدم كقناة تحويل رئيسية في كل الصفحات"},
+    {"platform": "Snapchat", "handle": "ant_ceh", "url": "https://www.snapchat.com/add/ant_ceh", "role": "قناة ثانوية", "checked": 200, "note": "الاسم الظاهر: Elias ABU-NAWAF"},
+    {"platform": "Instagram", "handle": "ksa_hack01", "url": "https://www.instagram.com/ksa_hack01", "role": "بديل", "checked": 429, "note": "إنستقرام يحجب الطلبات الآلية (429) — يحتاج فحصاً يدوياً وحالة الحساب"},
+    {"platform": "TikTok", "handle": "@ksa_hack01", "url": "https://www.tiktok.com/@ksa_hack01", "role": "بديل", "checked": 200, "note": "الصفحة تُحمّل عبر JavaScript فقط — لا تظهر بيانات للزواحف"},
+    {"platform": "X (Twitter)", "handle": "@Ksa_hack2", "url": "https://twitter.com/ksa_hack2", "role": "بديل", "checked": 200, "note": "الاسم الظاهر: خبير تقني | ابونواف 'ABU-NAWAF'"},
+    {"platform": "Facebook", "handle": "61554330014413", "url": "https://www.facebook.com/profile.php?id=61554330014413", "role": "بديل", "checked": 400, "note": "رجّع 400 Error — الرابط قد يكون معطلاً أو محجوباً"},
+    {"platform": "GitHub", "handle": "elias0878", "url": "https://github.com/elias0878", "role": "معرض الأعمال التقني", "checked": 200, "note": "33 مستودعاً، 2 متابع، انضم 2023-06-13، آخر تحديث 2026-10-10"},
+    {"platform": "GitHub Pages", "handle": "accounts", "url": "https://elias0878.github.io/accounts/", "role": "صفحة تجميع الحسابات", "checked": 200, "note": "ابونواف (الياس) | هكر أخلاقي | مقدم خدمات تقنية"}
+  ],
+  "snapchat_aliases": ["https://www.snapchat.com/@ksa.hack01"],
+  "gaps": [
+    "لا يوجد بريد إلكتروني رسمي ظاهر في أي صفحة (نموذج تواصل واحد فقط)",
+    "لا يوجد توثيق (Verification) على أي منصة",
+    "فيسبوك معطّل (400) لكنه ما زال مُدرجاً في sameAs داخل Schema وعلى صفحة التواصل",
+    "لا يوجد حساب YouTube أو LinkedIn رغم أنهما يرفعان الثقة بـ E-E-A-T"
+  ]
+}

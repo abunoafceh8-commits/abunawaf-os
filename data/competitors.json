@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-11-02",
+  "source": "بحث ويب مباشر (Bing/DuckDuckGo) عن الكلمات: هكر اخلاقي، استرجاع حساب، فك باند سناب، ابتزاز إلكتروني",
+  "competitors": [
+    {"name": "متجر يحيى (yahyaplus.com)", "type": "خدمة فك باند + محتوى SEO", "strength": "مقالات طويلة محسّنة لـ SEO + وعد ضمان سنة + صفحات FAQ بـ Schema", "weakness": "لا يقدّم أدوات، لا وجود لحسابات سوشيال قوية", "url": "https://yahyaplus.com/blog/fak-band-snapchat", "threat": "عالٍ"},
+    {"name": "التحونس (altahonos.com)", "type": "خدمة مكافحة الابتزاز", "strength": "صفحات مخصصة لكل نية بحث + شهادات عملاء + رقم دولي ظاهر + دعم 24/7", "weakness": "موقع كبير لكن هويته غير سعودية محلياً", "url": "https://www.altahonos.com/ar/i-m-being-blackmailed", "threat": "عالٍ"},
+    {"name": "antiextortion.net", "type": "مكافحة ابتزاز (تعليقات مفتوحة)", "strength": "178 تعليقاً من ضحايا = محتوى UGC هائل يلتقط نية البحث فوراً", "weakness": "تصميم قديم، لا Schema، لا أدوات", "url": "https://www.antiextortion.net/", "threat": "متوسط"},
+    {"name": "بصمة أمان (secprint.sa)", "type": "سمعة رقمية + إزالة تسريبات", "strength": "هوية سعودية واضحة + خدمات إزالة محتوى", "weakness": "محتوى تعليمي فقط، لا حجز أو تسعير", "url": "https://www.secprint.sa/protect-from-blackmail/", "threat": "متوسط"},
+    {"name": "حسابات X للهكر الأخلاقي (@PiersJames، @FoodCabbie، @PPadmanabhan، @Marcusbuaiz)", "type": "منافسون أفراد على X", "strength": "نشر مستمر مع هاشتاقات ترند سعودية لاصطياد البحث", "weakness": "لا موقع ولا Schema ولا أدوات — ومصداقيتهم ضعيفة (نفس قوالب النص)", "url": "https://x.com/piersjames", "threat": "عالٍ على منصة X"},
+    {"name": "حسابات سناب شات للاسترجاع (@syl_nrydh)", "type": "منافس على سناب", "strength": "رقم واتساب مباشر في البايو + موقع mohandess", "weakness": "لا محتوى ولا ثقة موثقة", "url": "https://www.snapchat.com/add/syl_nrydh", "threat": "متوسط"},
+    {"name": "مواقع محتوى (mustaqilat / tikane10 / techmadar)", "type": "منافسون على SEO المعلوماتي", "strength": "يلتقطون الباحث عن الحل ويحوّلونه لاحقاً", "weakness": "بلا خدمة فعلية", "url": "https://tech.mustaqilat.com/recover-blocked-snapchat-account/", "threat": "عالٍ على كلمات «كيف»"}
+  ],
+  "gaps_for_abunawaf": [
+    "لا يوجد محتوى «كيف أفعلها بنفسي» يجذب الباحث قبل شرائه للخدمة — أكبر ثغرة تنافسية",
+    "لا توجد صفحات مخصصة لكل منصة (سناب/انستقرام/تيك توك/X) — المنافسون يملكون صفحات لكل نية",
+    "لا يوجد نظام تقييمات/شهادات عملاء مرئي بـ Schema (Review/AggregateRating) — يقلل الظهور الغني",
+    "سرعة الرد على منشورات الضحايا على X: المنافسون يردون خلال دقائق بالتعليقات"
+  ]
+}
