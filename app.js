@@ -151,13 +151,7 @@ async function runHarvest() {
   }
   const b = $("#harvestBtn"); b.disabled = true; b.innerHTML = `<span class="spin"></span> يعمل…`;
   try {
-    const r0 = await api("/api/leads/refresh", { method: "POST" });
-    if (r0 && r0.message) {
-      b.disabled = false; b.textContent = "⚡ صيد جديد";
-      toast(r0.message);
-      if (r0.actions) setTimeout(() => window.open(r0.actions, "_blank"), 700);
-      return;
-    }
+    await api("/api/leads/refresh", { method: "POST" });
     const poll = setInterval(async () => {
       const s = await api("/api/leads/status");
       $("#harvestStatus").textContent = s.job.running ? "جارٍ قراءة المصادر الحقيقية…" : "";
