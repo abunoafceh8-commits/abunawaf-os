@@ -97,9 +97,9 @@
           <select id="leadWindow" title="النافذة الزمنية">
             <option value="">كل الأوقات</option>
             <option value="24">آخر 24 ساعة</option>
-            <option value="48" selected>آخر 48 ساعة</option>
+            <option value="48">آخر 48 ساعة</option>
             <option value="72">آخر 72 ساعة</option>
-            <option value="168">آخر 7 أيام</option>
+            <option value="168" selected>آخر 7 أيام (الأعلى إنتاجاً)</option>
             <option value="720">آخر 30 يوماً</option>
           </select>
           <select id="leadFocus" title="التركيز على منصة">
@@ -148,7 +148,7 @@
             <button class="btn sm" onclick="copyXLinks()">⧉ نسخ كل الروابط</button>
           </div>
         </div>
-        <p class="hint" style="margin:6px 0 10px">روابط بحث X مبنية على النافذة المختارة (since:) — تفتح بحساب الفريق وتُظهر المنشورات الجديدة فوراً بدل انتظار نسخ محرّكات البحث.</p>
+        <p class="hint" style="margin:6px 0 10px">⚠️ فهرس Bing/Yahoo يتأخر أياماً قبل أرشفة منشورات X، لذلك النافذة القصيرة (24–48 ساعة) تعطي نتائج أقل. روابط بحث X مبنية على النافذة المختارة (since:) — تفتح بحساب الفريق وتُظهر المنشورات الجديدة فوراً بدل انتظار نسخ محرّكات البحث.</p>
         <div id="xReadyList" style="display:flex;flex-wrap:wrap;gap:6px;max-height:220px;overflow:auto">جارٍ التحميل…</div>
       </div>
       <div class="card" id="candCard" style="margin-top:16px;border-color:rgba(251,191,36,.35)">
@@ -328,7 +328,7 @@
 </div>
 
 <div class="toast" id="toast"></div>
-<script>window.STATIC_MODE=true;window.BUILD_STAMP="2026-11-06 15:40 UTC";window.ACTIONS_URL="https://github.com/abunoafceh8-commits/abunawaf-os/actions";</script>
+<script>window.STATIC_MODE=true;window.BUILD_STAMP="2026-11-06 16:28 UTC";window.ACTIONS_URL="https://github.com/abunoafceh8-commits/abunawaf-os/actions";</script>
 <script src="static-api.js"></script>
 <script src="app.js"></script>
   <!-- درج تفاصيل العميل/الملاحظات -->

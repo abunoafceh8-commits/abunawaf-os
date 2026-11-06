@@ -129,6 +129,8 @@ async function loadLeads() {
       winChip.textContent = w
         ? `ضمن ${w} ساعة: ${inWin}` + (older ? ` · أقدم: ${older}` : "") + (und ? ` · بلا تاريخ: ${und}` : "")
         : `الكل: ${d.count}`;
+      const cn = $("#candCount");
+      if (cn && !String(cn.textContent).includes("مرشح")) cn.textContent = "…";
       winChip.className = "chip " + (inWin > 0 ? "ok" : "warn");
     }
     const xc = $("#leadXCount");
