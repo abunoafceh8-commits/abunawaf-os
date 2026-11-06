@@ -1,0 +1,17 @@
+{
+ "meta": {
+  "generated_at": "2026-11-06T14:06:19+00:00",
+  "window_hours": 48,
+  "focus": "all",
+  "queries": 14,
+  "raw_results": 138,
+  "unique_found": 102,
+  "x_discovered": 0,
+  "x_expired_outside_window": 0,
+  "unique_leads": 0,
+  "hot": 0,
+  "engine": "Bing(متصفح) + Google News RSS + X Syndication",
+  "elapsed_s": 37
+ },
+ "items": []
+}

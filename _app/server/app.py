@@ -384,7 +384,7 @@ def merge_manual(leads):
 def api_leads(tier: Optional[str] = None, platform: Optional[str] = None,
               service: Optional[str] = None, q: Optional[str] = None,
               min_score: int = 0, limit: int = 500, include_raw: bool = False,
-              window: Optional[int] = None, fresh_only: bool = False):
+              window: Optional[int] = None, fresh_only: bool = False, focus: Optional[str] = None):
     d = load("leads_raw.json", {"meta": {}, "leads": [], "all": [], "sources": []})
     base = d.get("leads", [])
     if include_raw:
@@ -403,6 +403,8 @@ def api_leads(tier: Optional[str] = None, platform: Optional[str] = None,
     if q:
         qq = q.lower()
         res = [l for l in res if qq in (l.get("title", "") + l.get("snippet", "") + l.get("url", "")).lower()]
+    if focus and focus.lower() == "x":
+        res = [l for l in res if "X" in l.get("platform", "")]
     if window:
         res = [l for l in res if l.get("age_hours") is None or l["age_hours"] <= window]
     if fresh_only:
