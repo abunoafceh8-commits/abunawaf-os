@@ -410,7 +410,11 @@ def api_leads(tier: Optional[str] = None, platform: Optional[str] = None,
     if fresh_only:
         res = [l for l in res if l.get("fresh")]
     res = [l for l in res if l.get("score", 0) >= min_score]
-    res.sort(key=lambda x: (-x.get("score", 0), x.get("age_hours") if x.get("age_hours") is not None else 9999))
+    def _key(x):
+        a = x.get("age_hours")
+        grp = 0 if (a is not None and window and a <= window) else (2 if a is None else 1)
+        return (grp, -x.get("score", 0), a if a is not None else 10**6)
+    res.sort(key=_key)
     facets = {
         "platforms": sorted({l["platform"] for l in base}),
         "services": sorted({l["service"] for l in base}),

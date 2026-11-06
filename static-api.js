@@ -119,7 +119,13 @@
         query: "قاعدة البيانات", fromDb: true
       });
     });
-    return out.sort((a, b) => (b.score || 0) - (a.score || 0));
+    const win = Number(params.window || 0);
+    return out.sort((a, b) => {
+      const g = r => (r.age_hours !== undefined && r.age_hours !== null && win && r.age_hours <= win) ? 0
+                   : (r.age_hours === undefined || r.age_hours === null ? 2 : 1);
+      const d = g(a) - g(b);
+      return d !== 0 ? d : (b.score || 0) - (a.score || 0);
+    });
   }
 
   /* ─────────── Leads ─────────── */
