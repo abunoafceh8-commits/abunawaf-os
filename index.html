@@ -107,8 +107,12 @@
             <option value="x">𝕏 X فقط</option>
           </select>
           <select id="leadStatusF"><option value="">كل الحالات</option><option>جديد</option><option>تم التواصل</option><option>قيد المتابعة</option><option>تمت الخدمة</option><option>مرفوض</option></select>
+          <label style="font-size:12px;color:var(--muted);display:flex;align-items:center;gap:6px"
+                 title="منشورات بلا تاريخ معروف (حسابات X، بعض المنتديات)">
+            <input type="checkbox" id="leadUndated"> بلا تاريخ
+          </label>
           <label style="font-size:12px;color:var(--muted);display:flex;align-items:center;gap:6px">
-            <input type="checkbox" id="leadRaw"> إظهار النتائج الخام
+            <input type="checkbox" id="leadRaw"> النتائج الخام
           </label>
           <button class="btn primary" onclick="runHarvest()" id="harvestBtn">⚡ صيد جديد</button>
         </div>
@@ -146,6 +150,17 @@
         </div>
         <p class="hint" style="margin:6px 0 10px">روابط بحث X مبنية على النافذة المختارة (since:) — تفتح بحساب الفريق وتُظهر المنشورات الجديدة فوراً بدل انتظار نسخ محرّكات البحث.</p>
         <div id="xReadyList" style="display:flex;flex-wrap:wrap;gap:6px;max-height:220px;overflow:auto">جارٍ التحميل…</div>
+      </div>
+      <div class="card" id="candCard" style="margin-top:16px;border-color:rgba(251,191,36,.35)">
+        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px">
+          <h3 style="margin:0">🧪 مرشحون آليون (تحت الفرز) <span class="chip cy" id="candCount">—</span></h3>
+          <div style="display:flex;gap:6px;align-items:center;font-size:12px;color:var(--muted)">
+            <span>ضمن النافذة المختارة فقط</span>
+            <button class="btn sm" onclick="loadCandidates()">↻ تحديث</button>
+          </div>
+        </div>
+        <p class="hint" style="margin:6px 0 10px">منشورات X حقيقية بعمر محسوب التقطها المحرك ولم تبلغ عتبة التحقق. راجعها يدوياً — كل صف فيه زر «فتح» و«كعميل».</p>
+        <div id="candList" style="max-height:320px;overflow:auto"><span class="empty">جارٍ التحميل…</span></div>
       </div>
       <div class="card" style="margin-top:16px">
         <h3>حالة مصادر الصيد</h3>
@@ -313,7 +328,7 @@
 </div>
 
 <div class="toast" id="toast"></div>
-<script>window.STATIC_MODE=true;window.BUILD_STAMP="2026-11-06 14:48 UTC";window.ACTIONS_URL="https://github.com/abunoafceh8-commits/abunawaf-os/actions";</script>
+<script>window.STATIC_MODE=true;window.BUILD_STAMP="2026-11-06 15:40 UTC";window.ACTIONS_URL="https://github.com/abunoafceh8-commits/abunawaf-os/actions";</script>
 <script src="static-api.js"></script>
 <script src="app.js"></script>
   <!-- درج تفاصيل العميل/الملاحظات -->

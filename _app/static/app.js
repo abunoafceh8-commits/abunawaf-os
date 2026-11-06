@@ -111,6 +111,7 @@ async function loadLeads() {
   if ($("#leadStatusF") && $("#leadStatusF").value) p.set("status", $("#leadStatusF").value);
   if ($("#leadWindow") && $("#leadWindow").value) p.set("window", $("#leadWindow").value);
   if ($("#leadFocus") && $("#leadFocus").value === "x") p.set("focus", "x");
+  if ($("#leadUndated") && $("#leadUndated").checked) p.set("undated", "1");
   p.set("include_raw", $("#leadRaw").checked);
   try {
     const d = await api("/api/leads?" + p);
@@ -122,13 +123,13 @@ async function loadLeads() {
     const winChip = $("#leadWindowChip");
     if (winChip) {
       const w = $("#leadWindow") ? $("#leadWindow").value : "";
-      const used = meta2.window_used_hours;
-      const inside = f2.inside_window ?? 0;
+      const inWin = d.leads.filter(x => x.age_hours != null && +w > 0 && x.age_hours <= +w).length;
+      const older = d.leads.filter(x => x.age_hours != null && +w > 0 && x.age_hours > +w).length;
+      const und = d.leads.filter(x => x.age_hours == null).length;
       winChip.textContent = w
-        ? `ضمن ${w} ساعة: ${d.leads.filter(x => x.age_hours != null && x.age_hours <= +w).length} من ${d.count}` +
-          (meta2.widened && used ? ` · الملف مبني على ${Math.round(used / 24)} يوم` : "")
-        : `ضمن 48 ساعة: ${inside}`;
-      winChip.className = "chip " + (meta2.widened ? "warn" : "ok");
+        ? `ضمن ${w} ساعة: ${inWin}` + (older ? ` · أقدم: ${older}` : "") + (und ? ` · بلا تاريخ: ${und}` : "")
+        : `الكل: ${d.count}`;
+      winChip.className = "chip " + (inWin > 0 ? "ok" : "warn");
     }
     const xc = $("#leadXCount");
     if (xc) {
@@ -161,10 +162,11 @@ async function loadLeads() {
       <td class="num">${s.found}</td></tr>`).join("") || "<tr><td colspan=4 class='empty'>—</td></tr>";
   } catch (e) { $("#leadRows").innerHTML = `<tr><td colspan="9"><div class="empty">${esc(e.message)}</div></td></tr>`; }
 }
-["leadTier", "leadPlatform", "leadService", "leadRaw", "leadStatusF", "leadWindow", "leadFocus"].forEach(id => {
-  const el = $("#" + id); if (el) el.onchange = () => { loadLeads(); loadXReady(); };
+["leadTier", "leadPlatform", "leadService", "leadRaw", "leadUndated", "leadStatusF", "leadWindow", "leadFocus"].forEach(id => {
+  const el = $("#" + id); if (el) el.onchange = () => { loadLeads(); loadXReady(); loadCandidates(); };
 });
 loadXReady();
+loadCandidates();
 $("#leadQ").oninput = (() => { let t; return () => { clearTimeout(t); t = setTimeout(loadLeads, 350); }; })();
 
 async function runHarvest() {
@@ -469,6 +471,37 @@ async function loadXReady() {
     }).join("");
   } catch (e) { box.innerHTML = `<span class="empty">${esc(e.message)}</span>`; }
 }
+async function loadCandidates() {
+  const box = $("#candList"); if (!box) return;
+  const w = ($("#leadWindow") && $("#leadWindow").value) || "";
+  try {
+    const d = await api("/api/candidates?min_score=20" + (w ? "&window=" + w : "&window=48"));
+    $("#candCount").textContent = `${d.count} مرشح` + (w ? ` · ضمن ${w} ساعة` : "");
+    if (!d.items.length) { box.innerHTML = `<span class="empty">لا مرشحين في هذه النافذة — جرّب نافذة أوسع.</span>`; return; }
+    box.innerHTML = `<table style="width:100%"><thead><tr>
+      <th>العمر</th><th>الحساب</th><th>المنشور</th><th>النقاط</th><th>إجراء</th></tr></thead><tbody>` +
+      d.items.map(it => `<tr>
+        <td>${ageChip(it.age_hours)}</td>
+        <td><a href="https://x.com/${esc(it.author)}" target="_blank" rel="noopener">@${esc(it.author)}</a></td>
+        <td style="max-width:520px">${esc((it.text || "").slice(0, 160))}</td>
+        <td><b>${it.score}</b></td>
+        <td style="white-space:nowrap">
+          <a class="btn sm" href="${esc(it.url)}" target="_blank" rel="noopener">فتح ↗</a>
+          <button class="btn sm" onclick='addCandidate(${JSON.stringify(it).replace(/'/g, "&#39;")})'>+ كعميل</button>
+        </td></tr>`).join("") + `</tbody></table>`;
+  } catch (e) { box.innerHTML = `<span class="empty">${esc(e.message)}</span>`; }
+}
+async function addCandidate(it) {
+  try {
+    await api("/api/leads", { method: "POST", body: JSON.stringify({
+      url: it.url, title: `@${it.author}: ${(it.text || "").slice(0, 120)}`,
+      snippet: it.text || "", platform: "X (تويتر)", service: "استعادة حساب مسروق",
+      score: it.score, note: "أُضيف من المرشحين الآليين"
+    }) });
+    toast("تمت إضافة المرشح كعميل ✓");
+  } catch (e) { toast("تعذّر: " + e.message); }
+}
+
 function copyXLinks() {
   if (!XQ) return;
   const w = ($("#leadWindow") && $("#leadWindow").value) || 48;

@@ -76,8 +76,10 @@ print("→ tools / social / competitors")
 json.dump(get("/api/tools"), open(f"{DATA_OUT}/tools.json", "w"), ensure_ascii=False)
 json.dump(get("/api/social"), open(f"{DATA_OUT}/social.json", "w"), ensure_ascii=False)
 shutil.copy(os.path.join(BASE, "data", "competitors.json"), f"{DATA_OUT}/competitors.json")
-if os.path.exists(os.path.join(BASE, "data", "x_queries.json")):
-    shutil.copy(os.path.join(BASE, "data", "x_queries.json"), f"{DATA_OUT}/x_queries.json")
+for _f in ("x_queries.json", "x_candidates.json"):
+    _p = os.path.join(BASE, "data", _f)
+    if os.path.exists(_p):
+        shutil.copy(_p, f"{DATA_OUT}/{_f}")
 
 # ── التقرير ──
 for cand in [os.path.join(BASE, "report_source.md"),

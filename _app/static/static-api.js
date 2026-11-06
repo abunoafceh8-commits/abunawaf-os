@@ -151,7 +151,10 @@
     rows.forEach(r => { f.statuses[r.status] = (f.statuses[r.status] || 0) + 1; });
     f.total = rows.length; f.raw_total = (d.all || []).length;
     f.meta = d.meta || {};
-    f.inside_window = rows.filter(r => r.age_hours != null && r.age_hours <= 48).length;
+    const winSel = +(params.get("window") || d.meta?.window_hours || 48);
+    f.inside_window = rows.filter(r => r.age_hours != null && r.age_hours <= winSel).length;
+    f.older_count = rows.filter(r => r.age_hours != null && r.age_hours > winSel).length;
+    f.undated_count = rows.filter(r => r.age_hours == null).length;
     f.x_total = rows.filter(r => (r.platform || "").includes("X")).length;
     const tier = params.get("tier"), plat = params.get("platform"), svc = params.get("service"),
           q = params.get("q"), st = params.get("status"), win = +(params.get("window") || 0),
@@ -162,7 +165,14 @@
     if (st) rows = rows.filter(r => r.status === st);
     if (q) { const qq = q.toLowerCase(); rows = rows.filter(r => ((r.title || "") + (r.snippet || "") + r.url).toLowerCase().includes(qq)); }
     if (focus === "x") rows = rows.filter(r => (r.platform || "").includes("X"));
-    if (win) rows = rows.filter(r => r.age_hours == null || r.age_hours <= win);
+    if (win) {
+      const keepUndated = params.get("undated") === "1" || params.get("undated") === "true";
+      rows = rows.filter(r => (r.age_hours != null && r.age_hours <= win) || (keepUndated && r.age_hours == null));
+    }
+    rows = rows.slice().sort((a, b) => {
+      const ka = a.age_hours == null ? 1e6 : a.age_hours, kb = b.age_hours == null ? 1e6 : b.age_hours;
+      return ka !== kb ? ka - kb : (b.score || 0) - (a.score || 0);
+    });
     const min = +(params.get("min_score") || 0);
     rows = rows.filter(r => (r.score || 0) >= min);
     const limit = +(params.get("limit") || 500);
@@ -256,6 +266,16 @@
     "/api/db/stats": async () => { await refreshRemote(true); return { on: SB_ON, stats: REMOTE.stats, error: REMOTE.err, rows: REMOTE.rows.length }; },
     "/api/leads": (p) => leadsResponse(p),
     "/api/leads/status": () => j("overview.json").then(o => ({ job: { running: false, error: null }, last_run: o.leads.generated_at, static: true })),
+    "/api/candidates": async (u) => {
+      const params = new URL(u, location.origin).searchParams;
+      const d = await j("x_candidates.json").catch(() => ({ cands: [] }));
+      const win = +(params.get("window") || 0), min = +(params.get("min_score") || 20);
+      const items = (d.cands || []).filter(c => !c.web && c.age != null && c.score >= min && c.author && (!win || c.age <= win))
+        .map(c => ({ id: c.id, author: c.author, score: c.score, age_hours: Math.round(c.age * 10) / 10,
+                     text: c.text || "", url: `https://x.com/${c.author}/status/${c.id}`, signals: c.signals || [] }))
+        .sort((a, b) => a.age_hours - b.age_hours);
+      return { count: items.length, window: win || null, generated_at: d.generated_at, items: items.slice(0, 120) };
+    },
     "/api/leads/refresh": () => ({ status: "static", message: "التحديث الحي يحتاج خادماً. شغّل سير العمل من GitHub Actions.", actions: window.ACTIONS_URL }),
     "/api/leads/add": (p, body) => addLead(body),
     "/api/leads/set-status": (p, body) => { const b = JSON.parse(body || "{}"); return setStatus(b.id, b.status, b.owner, b.notes); },

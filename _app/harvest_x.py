@@ -24,8 +24,12 @@ WINDOW = int(os.environ.get("WINDOW_HOURS", "48"))
 FOCUS = os.environ.get("FOCUS", "x").lower()          # x | all
 MAXQ = int(os.environ.get("MAX_QUERIES", "0")) or None
 USE_BING = os.environ.get("USE_BING", "0") == "1"
-MAX_ENRICH = int(os.environ.get("MAX_ENRICH", "260"))
+MAX_ENRICH = int(os.environ.get("MAX_ENRICH", "800"))
+TIME_BUDGET = int(os.environ.get("TIME_BUDGET", "900"))
 MIN_LEADS = int(os.environ.get("MIN_LEADS", "18"))
+SCORE_MIN = int(os.environ.get("SCORE_MIN", "50"))
+SCORE_MIN_WEB = int(os.environ.get("SCORE_MIN_WEB", "42"))
+KEEP_ARCHIVE = int(os.environ.get("KEEP_ARCHIVE", "300"))
 AUTO_WIDEN = os.environ.get("AUTO_WIDEN", "1") == "1"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36")
@@ -49,6 +53,20 @@ DIALECT = [
     "محتاج مساعدة بخصوص حسابي", "ضايع حسابي", "علّقوا حسابي ظلم",
     "حسابي بالايقاف", "موقعي مخترق", "متجري تهكر",
 ]
+EXTRA = ["اخترقوا حسابي", "تهكر حسابي", "سرقوا حسابي", "مبتزني", "يهددني بصوري",
+         "انتحل شخصيتي", "حسابي مسروق ساعدوني", "كيف ارجع حسابي", "وش الحل حسابي مقفل",
+         "قفلوا حسابي", "علّقوا حسابي", "حسابي بالايقاف", "ابتزوني",
+         "صورة خاصة تهديد", "حسابي في الانستقرام مسروق", "تم تهكير حسابي",
+         "حسابي انسرق مني", "استرجاع حساب مسروق", "تم اختراق حسابي في",
+         "سنابي انسرق", "انستقرامي انسرق", "تيك توكي انسرق", "واتسابي مخترق",
+         "ابتزني شخص", "يهددني بنشر", "حسابي مقفل ولا اعرف السبب",
+         "قفلوا حسابي بدون سبب", "ارسلوا لي رسالة تهديد", "انتحل شخصيتي وحساب مزيف",
+         "شخص يهددني بنشر صوري", "حسابي في الانستقرام مقفل", "سنابي محظور",
+         "حسابي بالتيك توك موقوف", "احد يعرف شخص يرجع حساب", "مين يرجع حساب",
+         "ابي شخص يرجع حسابي", "في احد يسترجع حسابات", "احد يفك باند",
+         "ابحث عن هاكر", "مطلوب هاكر", "من يقدر يرجع حسابي", "ابي احد يهكر حساب",
+         "شخص يسترجع حساب سناب", "ابغى استرجع حسابي من الهكر", "احد يساعدني في اختراق حساب"]
+
 HASHTAGS = [
     "#حسابي_مسروق", "#تم_اختراق_حسابي", "#اختراق_حسابي", "#حسابي_مخترق",
     "#ابتزاز_الكتروني", "#ابتزاز", "#فك_باند", "#سناب_مقفل", "#حسابي_موقوف",
@@ -57,40 +75,46 @@ HASHTAGS = [
 QUESTION = ["كيف", "الحل", "مساعدة", "تكفون", "ضروري", "وش اسوي", "احد يفيدني", "استفسار"]
 
 
+SERVICES = ["حسابي", "سنابي", "انستقرامي", "انستا", "تيك توكي", "تلجرامي", "واتسابي",
+            "ايميلي", "جيميلي", "حسابي في تويتر", "حسابي في انستقرام", "حسابي في سناب",
+            "حسابي في التيك توك", "حسابي في تلجرام", "حساب البلايستيشن", "حسابي في ستيم",
+            "حسابي في روبلوكس", "حسابي في فيسبوك", "حسابي في الفيس", "حسابي في كاشير",
+            "حسابي في ديسكورد", "حسابي في لينكد ان", "حسابي في الاب ستو", "حسابي في قوقل بلاي"]
+STATES = ["مسروق", "مخترق", "مقفل", "موقوف", "محظور", "مبند", "معلّق", "مهكر",
+          "مسروق ومقفل", "تهكر", "انسرق", "اخترقوه", "قفلوه", "وقفلوه ظلم", "ما اقدر ادخل"]
+ASKS = ["كيف ارجع حسابي المسروق", "كيف استرجع حسابي المخترق", "كيف افك الباند عن حسابي",
+        "كيف ارجع سنابي المقفل", "كيف ارجع انستقرامي الموقوف", "كيف استعيد حسابي",
+        "احد يقدر يرجع حسابي", "احد يفك لي باند", "ابحث عن شخص يسترجع الحسابات",
+        "مين يساعدني في استرجاع حسابي", "وش حل الحساب المقفل", "حسابي موقوف ظلم كيف ارجعه",
+        "سرقوا حسابي وش اسوي", "هكروا حسابي وش الحل", "مبتزني شخص وش اسوي",
+        "يهددني بنشر صوري وش اسوي", "انتحل شخصيتي وسوى حساب مزيف",
+        "حسابي مسروق من فترة ولا احد يساعدني", "الحقوني حسابي انسرق اليوم",
+        "تكفون احد يساعدني حسابي مقفل", "حسابي انسرق قبل كم يوم",
+        "حسابي تهكر وطلعت منه", "حسابي في الانستقرام انسرق", "سنابي تهكر اليوم"]
+
+
 def build_queries_rss():
     """استعلامات مقتبسة دقيقة — الأنسب لمحرك Bing RSS (أعلى إنتاجية وجودة)."""
     qs = []
-    for t in CORE:
-        qs.append(f'"{t}"')
-    for t in DIALECT:
-        qs.append(f'"{t}"')
-    for t in ["اخترقوا حسابي", "تهكر حسابي", "سرقوا حسابي", "مبتزني", "يهددني بصوري",
-              "انتحل شخصيتي", "سنابي مقفل", "انستقرامي موقوف", "تيك توكي موقوف",
-              "حسابي مسروق ساعدوني", "كيف ارجع حسابي", "وش الحل حسابي مقفل",
-              "قفلوا حسابي", "علّقوا حسابي", "حسابي بالايقاف", "ابتزوني",
-              "صورة خاصة تهديد", "حسابي في الانستقرام مسروق", "تم تهكير حسابي",
-              "حسابي انسرق مني", "احد يهكر حساب", "استرجاع حساب مسروق",
-              "تم اختراق حسابي في", "اخترقوا حسابي", "سنابي انسرق", "انستقرامي انسرق",
-              "تيك توكي انسرق", "واتسابي مخترق", "ابتزني شخص", "يهددني بنشر",
-              "حسابي مقفل ولا اعرف السبب", "قفلوا حسابي بدون سبب", "ارسلوا لي رسالة تهديد",
-              "حسابي تهكر ورجعت", "انتحل شخصيتي وحساب مزيف", "شخص يهددني بنشر صوري",
-              "حسابي في الانستقرام مقفل", "سنابي محظور", "حسابي بالتيك توك موقوف",
-              # نية شراء مباشرة (أعلى قيمة تجارية)
-              "احد يعرف شخص يرجع حساب", "مين يرجع حساب", "ابي شخص يرجع حسابي",
-              "في احد يسترجع حسابات", "احد يفك باند", "ابحث عن هاكر", "مطلوب هاكر",
-              "من يقدر يرجع حسابي", "ابي احد يهكر حساب", "شخص يسترجع حساب سناب",
-              "ابغى استرجع حسابي من الهكر", "احد يساعدني في اختراق حساب"]:
-        qs.append(f'"{t}"')
-    for h in HASHTAGS:
-        qs.append(h)
-    for t in CORE[:22]:
-        qs.append(t)                      # بلا تنصيص لتغطية أوسع
-    seen, out = set(), []
-    for q in qs:
-        q = q.strip()
-        if q and q not in seen:
-            seen.add(q); out.append(q)
-    return out
+
+    def add(q):
+        q = (q or "").strip()
+        if q and q not in qs:
+            qs.append(q)
+
+    # 1) عبارات أساسية + لهجية (أعلى أولوية)
+    for t in CORE: add(f'"{t}"')
+    for t in DIALECT: add(f'"{t}"')
+    # 2) خدمات × حالات — 24 × 15 = 360 توليفة (بعد التنقية)
+    for s in SERVICES:
+        for st in STATES:
+            add(f'"{s} {st}"')
+    # 3) صيغ سؤال حقيقية
+    for t in ASKS: add(f'"{t}"')
+    # 4) هاشتاقات ومنشورات بلا تنصيص
+    for h in HASHTAGS: add(h)
+    for t in EXTRA: add(f'"{t}"')
+    return qs
 
 
 def build_queries():
@@ -181,7 +205,7 @@ def proximity_ok(text):
     """يشترط أن تكون كلمة الخطر قريبة من كلمة (حساب/منصة/صورة) — يمنع الأخبار والنكات."""
     for w in DISTRESS:
         for m in re.finditer(w, text):
-            seg = text[max(0, m.start() - 38): m.end() + 38]
+            seg = text[max(0, m.start() - 55): m.end() + 55]
             if any(a in seg for a in ACCOUNT_WORDS):
                 return True
     return False
@@ -461,7 +485,7 @@ async def main():
 
     print(f"→ خام: {len(pool)} · منشورات X: {len(x_status)} · حسابات X: {len(x_profile)}", flush=True)
 
-    leads, expired = [], 0
+    leads, expired, cands = [], 0, []
 
     # 4) إثراء منشورات X + فلترة زمنية دقيقة (مرتّبة بالأحدث أولاً)
     def _age(u):
@@ -485,7 +509,9 @@ async def main():
         author = (det or {}).get("author") or ""
         if author.lower() in NOISE_AUTHORS:
             continue
-        if sc < 50:
+        cands.append({"id": tid, "author": author, "score": sc, "age": age, "signals": sig,
+                      "text": (text or "")[:220], "title": (title or "")[:120]})
+        if sc < SCORE_MIN:
             continue
         leads.append({
             "id": tid, "title": (title or "")[:180].replace("\n", " "),
@@ -521,7 +547,9 @@ async def main():
         hours = item.get("hours_old")
         text = f'{item["title"]} {item["snippet"]}'
         sc, sig = score_text(text, "ويب", hours)
-        if sc < 50: continue
+        cands.append({"id": hashlib.md5(u.encode()).hexdigest()[:10], "author": "", "score": sc,
+                      "age": hours, "signals": sig, "text": text[:220], "title": item["title"][:120], "web": True})
+        if sc < SCORE_MIN_WEB: continue
         leads.append({
             "id": hashlib.md5(u.encode()).hexdigest()[:10], "title": (item["title"] or u)[:180],
             "url": item["url"], "snippet": item["snippet"][:400],
@@ -550,29 +578,27 @@ async def main():
             seen_txt.add(txt_key)
         uniq.append(l)
 
-    # ── تطبيق النافذة الزمنية + التوسيع التلقائي عند قلّة النتائج ──
+    # ── النافذة الزمنية: تُحترم حرفياً ولا يُخلط شيء خارجها ──
     def in_window(l, w):
         a = l.get("age_hours")
         return a is not None and a <= w
 
-    inside = [l for l in uniq if in_window(l, WINDOW)]
-    outside = [l for l in uniq if not in_window(l, WINDOW)]
-    expired = len(outside)
-    window_used, widened = WINDOW, False
-    final = list(inside)
-    if AUTO_WIDEN and len(inside) < MIN_LEADS:
-        for w in [72, 168, 336]:
-            if w <= WINDOW: continue
-            need = MIN_LEADS - len(final)
-            if need <= 0: break
-            add = [l for l in outside if (l.get("age_hours") or 1e9) <= w][:need]
-            if add:
-                final += add
-                window_used = w
-                widened = True
-            if len(final) >= MIN_LEADS: break
-    final.sort(key=lambda x: (-x["score"], x.get("age_hours") if x.get("age_hours") is not None else 9999))
-    # تنقية نهائية مضمونة (نفس الرابط/المعرّف يُحذف)
+    fresh = [l for l in uniq if in_window(l, WINDOW)]
+    older = [l for l in uniq if l.get("age_hours") is not None and l["age_hours"] > WINDOW]
+    undated = [l for l in uniq if l.get("age_hours") is None]
+
+    def sk(x):
+        return (x.get("age_hours") if x.get("age_hours") is not None else 10**6, -x["score"])
+
+    fresh.sort(key=sk)
+    older.sort(key=sk)
+    for l in fresh:
+        l["fresh"] = True
+    for l in older + undated:
+        l["fresh"] = False
+
+    # الملف يحتفظ بالجميع بأعمار حقيقية؛ التصفية تحصل في الخادم/الواجهة بدقة
+    final = fresh + older + undated
     dedup, seen_urls, seen_ids = [], set(), set()
     for l in final:
         u = norm(l["url"])
@@ -581,26 +607,78 @@ async def main():
         if u in seen_urls or (tid and tid in seen_ids):
             continue
         seen_urls.add(u)
-        if tid: seen_ids.add(tid)
-        a = l.get("age_hours")
-        l["fresh"] = bool(a is not None and a <= WINDOW)
+        if tid:
+            seen_ids.add(tid)
         dedup.append(l)
     final = dedup
 
+    # ── أرشيف تراكمي: لا نفقد نتائج الجولات السابقة (تُعاد أعمارها للآن) ──
+    prev_path = os.path.join(DATA, "leads_raw.json")
+    added_prev = 0
+    if KEEP_ARCHIVE and os.path.exists(prev_path):
+        try:
+            prev = json.load(open(prev_path, encoding="utf-8"))
+            pmeta = prev.get("meta", {})
+            pgen = pmeta.get("generated_at")
+            delta_h = 0.0
+            if pgen:
+                try:
+                    delta_h = (NOW - datetime.fromisoformat(pgen)).total_seconds() / 3600
+                except Exception:
+                    delta_h = 0.0
+            have = {norm(l["url"]) for l in final}
+            have_ids = {re.search(r"/status/(\d+)", l["url"]).group(1)
+                        for l in final if re.search(r"/status/(\d+)", l["url"])}
+            pool_prev = []
+            for l in prev.get("leads", []):
+                u = norm(l.get("url", ""))
+                if not u or u in have:
+                    continue
+                m2 = re.search(r"/status/(\d+)", u)
+                if m2 and m2.group(1) in have_ids:
+                    continue
+                ca = l.get("created_at") or ""
+                age = l.get("age_hours")
+                if ca:
+                    try:
+                        age = (NOW - datetime.fromisoformat(ca.replace("Z", "+00:00"))).total_seconds() / 3600
+                    except Exception:
+                        pass
+                elif age is not None:
+                    age = age + delta_h
+                if age is not None and age > 720:
+                    continue
+                l = dict(l)
+                l["age_hours"] = round(age, 1) if age is not None else None
+                l["fresh"] = bool(age is not None and age <= WINDOW)
+                pool_prev.append(l)
+            pool_prev.sort(key=lambda x: (x.get("age_hours") if x.get("age_hours") is not None else 10**6, -x.get("score", 0)))
+            final = final + pool_prev[:KEEP_ARCHIVE]
+            added_prev = len(pool_prev[:KEEP_ARCHIVE])
+        except Exception as e:
+            print("archive skip:", e, flush=True)
+
     meta = {
         "generated_at": NOW.isoformat(timespec="seconds"),
-        "window_hours": WINDOW, "window_used_hours": window_used, "widened": widened,
-        "inside_window": len(inside), "focus": FOCUS,
-        "queries": len(queries), "raw_results": len(pool),
+        "window_hours": WINDOW, "window_used_hours": WINDOW, "widened": False,
+        "inside_window": sum(1 for l in final if l.get("fresh")),
+        "older_count": sum(1 for l in final if l.get("age_hours") is not None and not l.get("fresh")),
+        "undated_count": sum(1 for l in final if l.get("age_hours") is None),
+        "focus": FOCUS,
+        "queries": len(rss_queries) + len(queries),
+        "raw_results": len(pool),
         "x_status_found": len(x_status), "x_profiles_found": len(x_profile),
-        "expired_outside_window": expired,
-        "unique_leads": len(final), "hot": sum(1 for l in final if l["score"] >= 75),
+        "unique_leads": len(final), "from_archive": added_prev, "hot": sum(1 for l in final if l["score"] >= 75),
         "x_leads": sum(1 for l in final if l["platform"] == "X (تويتر)"),
-        "engine": "Yahoo + Bing(متصفح) + Google News RSS + X Syndication",
+        "engine": "Bing RSS + Yahoo + Google News + X Syndication",
         "elapsed_s": round(time.time() - t0),
     }
     os.makedirs(DATA, exist_ok=True)
     json.dump({"meta": meta, "leads": final}, open(os.path.join(DATA, "leads_raw.json"), "w", encoding="utf-8"),
+              ensure_ascii=False, indent=1)
+    cands.sort(key=lambda c: -c["score"])
+    json.dump({"generated_at": NOW.isoformat(timespec="seconds"), "total": len(cands),
+               "cands": cands[:600]}, open(os.path.join(DATA, "x_candidates.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)
     json.dump(build_x_links(), open(os.path.join(DATA, "x_queries.json"), "w", encoding="utf-8"),
               ensure_ascii=False, indent=1)

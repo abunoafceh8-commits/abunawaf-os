@@ -277,6 +277,29 @@ def api_x_queries(window: int = 48):
     return d
 
 
+@app.get("/api/candidates")
+def api_candidates(window: Optional[int] = None, min_score: int = 20, limit: int = 120):
+    """مرشحون آليون من منشورات X (تحت الفرز) — بعمر حقيقي وروابط مباشرة."""
+    d = load("x_candidates.json", {"cands": []})
+    rows = []
+    for c in d.get("cands", []):
+        if c.get("web"):
+            continue
+        a = c.get("age")
+        if a is None or c.get("score", 0) < min_score or not c.get("author"):
+            continue
+        if window and a > window:
+            continue
+        rows.append({
+            "id": c["id"], "author": c["author"], "score": c["score"],
+            "age_hours": round(a, 1), "text": c.get("text", ""),
+            "url": f'https://x.com/{c["author"]}/status/{c["id"]}',
+            "signals": c.get("signals", []),
+        })
+    rows.sort(key=lambda r: r["age_hours"])
+    return {"count": len(rows), "window": window, "generated_at": d.get("generated_at"), "items": rows[:limit]}
+
+
 @app.get("/api/seo/audit")
 def api_audit(refresh: bool = False):
     now = time.time()
@@ -384,7 +407,8 @@ def merge_manual(leads):
 def api_leads(tier: Optional[str] = None, platform: Optional[str] = None,
               service: Optional[str] = None, q: Optional[str] = None,
               min_score: int = 0, limit: int = 500, include_raw: bool = False,
-              window: Optional[int] = None, fresh_only: bool = False, focus: Optional[str] = None):
+              window: Optional[int] = None, fresh_only: bool = False, focus: Optional[str] = None,
+              undated: bool = False):
     d = load("leads_raw.json", {"meta": {}, "leads": [], "all": [], "sources": []})
     base = d.get("leads", [])
     if include_raw:
@@ -405,15 +429,18 @@ def api_leads(tier: Optional[str] = None, platform: Optional[str] = None,
         res = [l for l in res if qq in (l.get("title", "") + l.get("snippet", "") + l.get("url", "")).lower()]
     if focus and focus.lower() == "x":
         res = [l for l in res if "X" in l.get("platform", "")]
+    # النافذة الزمنية: صارمة — تُقبل فقط الحالات التي عمرها معروف وضمن النافذة
     if window:
-        res = [l for l in res if l.get("age_hours") is None or l["age_hours"] <= window]
+        strict = [l for l in res if l.get("age_hours") is not None and l["age_hours"] <= window]
+        if undated:
+            strict += [l for l in res if l.get("age_hours") is None]
+        res = strict
     if fresh_only:
         res = [l for l in res if l.get("fresh")]
     res = [l for l in res if l.get("score", 0) >= min_score]
     def _key(x):
         a = x.get("age_hours")
-        grp = 0 if (a is not None and window and a <= window) else (2 if a is None else 1)
-        return (grp, -x.get("score", 0), a if a is not None else 10**6)
+        return (a if a is not None else 10**6, -x.get("score", 0))
     res.sort(key=_key)
     facets = {
         "platforms": sorted({l["platform"] for l in base}),
@@ -423,7 +450,9 @@ def api_leads(tier: Optional[str] = None, platform: Optional[str] = None,
                   "مراقبة": sum(1 for l in base if l["tier"] == "مراقبة")},
         "total": len(base), "raw_total": len(d.get("all", [])),
         "x_total": sum(1 for l in base if "X" in l.get("platform", "")),
-        "inside_window": sum(1 for l in base if l.get("fresh")),
+        "inside_window": sum(1 for l in base if l.get("age_hours") is not None and l["age_hours"] <= (window or d.get("meta", {}).get("window_hours", 48))),
+        "older_count": sum(1 for l in base if l.get("age_hours") is not None and l["age_hours"] > (window or d.get("meta", {}).get("window_hours", 48))),
+        "undated_count": sum(1 for l in base if l.get("age_hours") is None),
         "meta": d.get("meta", {}),
     }
     return {"meta": d.get("meta", {}), "sources": d.get("sources", []),
