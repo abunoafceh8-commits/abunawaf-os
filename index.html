@@ -31,6 +31,8 @@
       <div style="margin-top:8px;padding-top:8px;border-top:1px solid var(--line)">
         <div style="display:flex;align-items:center;gap:6px"><span class="dot" id="dbDot"></span><span id="dbTxt">قاعدة البيانات: جارٍ الاتصال…</span></div>
         <div id="dbMeta" style="margin-top:4px;opacity:.75;font-size:11px"></div>
+        <a href="https://abunawaf-os.vercel.app/" target="_blank" rel="noopener"
+           style="display:inline-block;margin-top:8px;font-size:11px;color:#7dd3fc;text-decoration:none">🖥 الخادم المباشر (FastAPI) ↗</a>
       </div>
     </div>
   </aside>
@@ -92,6 +94,18 @@
           <select id="leadTier"><option value="">كل الأولويات</option><option>ساخن</option><option>دافئ</option><option>مراقبة</option></select>
           <select id="leadPlatform"><option value="">كل المنصات</option></select>
           <select id="leadService"><option value="">كل الخدمات</option></select>
+          <select id="leadWindow" title="النافذة الزمنية">
+            <option value="">كل الأوقات</option>
+            <option value="24">آخر 24 ساعة</option>
+            <option value="48" selected>آخر 48 ساعة</option>
+            <option value="72">آخر 72 ساعة</option>
+            <option value="168">آخر 7 أيام</option>
+            <option value="720">آخر 30 يوماً</option>
+          </select>
+          <select id="leadFocus" title="التركيز على منصة">
+            <option value="x">X فقط</option>
+            <option value="">كل المنصات</option>
+          </select>
           <select id="leadStatusF"><option value="">كل الحالات</option><option>جديد</option><option>تم التواصل</option><option>قيد المتابعة</option><option>تمت الخدمة</option><option>مرفوض</option></select>
           <label style="font-size:12px;color:var(--muted);display:flex;align-items:center;gap:6px">
             <input type="checkbox" id="leadRaw"> إظهار النتائج الخام
@@ -108,6 +122,8 @@
           <button class="btn sm" onclick="openLeadModal()">+ إضافة عميل يدوياً</button>
           <span class="chip" id="leadCount">—</span>
           <span class="chip ok" id="leadMeta">—</span>
+          <span class="chip cy" id="leadWindowChip">—</span>
+          <span class="chip" id="leadXCount">—</span>
           <span class="hint" id="harvestStatus"></span>
         </div>
       </div>
@@ -115,10 +131,21 @@
         <table>
           <thead><tr>
             <th>الأولوية</th><th>الدرجة</th><th>العميل / المنشور</th><th>المنصة</th>
-            <th>الخدمة</th><th>الإشارات</th><th>الحالة</th><th>الرابط المباشر</th>
+            <th>الخدمة</th><th>العمر</th><th>الإشارات</th><th>الحالة</th><th>الرابط المباشر</th>
           </tr></thead>
-          <tbody id="leadRows"><tr><td colspan="8"><div class="empty">جارٍ التحميل…</div></td></tr></tbody>
+          <tbody id="leadRows"><tr><td colspan="9"><div class="empty">جارٍ التحميل…</div></td></tr></tbody>
         </table>
+      </div>
+      <div class="card" id="xReadyCard" style="margin-top:16px;border-color:rgba(56,189,248,.35)">
+        <div style="display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px">
+          <h3 style="margin:0">𝕏 بحث X الجاهز <span class="chip cy" id="xReadyCount">—</span></h3>
+          <div style="display:flex;gap:6px;align-items:center;font-size:12px;color:var(--muted)">
+            <span>النافذة:</span><b id="xReadyWin">48 ساعة</b>
+            <button class="btn sm" onclick="copyXLinks()">⧉ نسخ كل الروابط</button>
+          </div>
+        </div>
+        <p class="hint" style="margin:6px 0 10px">روابط بحث X مبنية على النافذة المختارة (since:) — تفتح بحساب الفريق وتُظهر المنشورات الجديدة فوراً بدل انتظار نسخ محرّكات البحث.</p>
+        <div id="xReadyList" style="display:flex;flex-wrap:wrap;gap:6px;max-height:220px;overflow:auto">جارٍ التحميل…</div>
       </div>
       <div class="card" style="margin-top:16px">
         <h3>حالة مصادر الصيد</h3>
@@ -286,7 +313,7 @@
 </div>
 
 <div class="toast" id="toast"></div>
-<script>window.STATIC_MODE=true;window.BUILD_STAMP="2026-11-06 13:08 UTC";window.ACTIONS_URL="https://github.com/abunoafceh8-commits/abunawaf-os/actions";</script>
+<script>window.STATIC_MODE=true;window.BUILD_STAMP="2026-11-06 14:31 UTC";window.ACTIONS_URL="https://github.com/abunoafceh8-commits/abunawaf-os/actions";</script>
 <script src="static-api.js"></script>
 <script src="app.js"></script>
   <!-- درج تفاصيل العميل/الملاحظات -->

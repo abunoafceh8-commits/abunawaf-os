@@ -35,7 +35,7 @@ def keywords_age_days():
 
 
 if __name__ == "__main__":
-    ok1 = run("صيد العملاء", "harvest_leads.py")
+    ok1 = run("صيد العملاء (X + ويب)", "harvest_x.py", timeout=2400)
     try:
         age = keywords_age_days()
     except Exception:

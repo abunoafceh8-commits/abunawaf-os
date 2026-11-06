@@ -109,12 +109,32 @@ async function loadLeads() {
   if ($("#leadService").value) p.set("service", $("#leadService").value);
   if ($("#leadQ").value) p.set("q", $("#leadQ").value);
   if ($("#leadStatusF") && $("#leadStatusF").value) p.set("status", $("#leadStatusF").value);
+  if ($("#leadWindow") && $("#leadWindow").value) p.set("window", $("#leadWindow").value);
+  if ($("#leadFocus") && $("#leadFocus").value === "x") p.set("focus", "x");
   p.set("include_raw", $("#leadRaw").checked);
   try {
     const d = await api("/api/leads?" + p);
     LEADS = d;
     $("#leadCount").textContent = `${d.count} نتيجة`;
     $("#leadMeta").textContent = `آخر صيد: ${dt(d.meta.generated_at)}`;
+    const f2 = d.facets || {};
+    const meta2 = f2.meta || {};
+    const winChip = $("#leadWindowChip");
+    if (winChip) {
+      const w = $("#leadWindow") ? $("#leadWindow").value : "";
+      const used = meta2.window_used_hours;
+      const inside = f2.inside_window ?? 0;
+      winChip.textContent = w
+        ? `ضمن ${w} ساعة: ${d.leads.filter(x => x.age_hours != null && x.age_hours <= +w).length} من ${d.count}` +
+          (meta2.widened && used ? ` · الملف مبني على ${Math.round(used / 24)} يوم` : "")
+        : `ضمن 48 ساعة: ${inside}`;
+      winChip.className = "chip " + (meta2.widened ? "warn" : "ok");
+    }
+    const xc = $("#leadXCount");
+    if (xc) {
+      const xn = d.leads.filter(x => (x.platform || "").includes("X")).length;
+      xc.textContent = `X: ${xn} · منشور X مفحوص: ${meta2.x_status_found ?? "—"}`;
+    }
     const f = d.facets;
     if (!$("#leadPlatform").dataset.filled) {
       $("#leadPlatform").innerHTML = `<option value="">كل المنصات</option>` + f.platforms.map(x => `<option>${esc(x)}</option>`).join("");
@@ -129,29 +149,42 @@ async function loadLeads() {
           <span class="lead-snip">${esc(x.snippet || "")}</span></td>
         <td><span class="chip">${esc(x.platform)}</span>${x.kind ? `<br><span class="chip ${x.kind === "منافس" ? "warn" : x.kind === "استغاثة منشورة" ? "ok" : "cy"}" style="margin-top:3px">${esc(x.kind)}</span>` : ""}</td>
         <td style="font-size:12px">${esc(x.service)}</td>
+        <td>${ageChip(x)}</td>
         <td>${(x.signals || []).slice(0, 3).map(s => `<span class="sig">${esc(s)}</span>`).join("") || "<span class='sig'>—</span>"}</td>
         <td>${statusCell(x)}</td>
         <td><a class="btn sm" href="${esc(x.url)}" target="_blank" rel="noopener">فتح ↗</a>
             <button class="btn sm" style="margin-top:4px" onclick="openDrawer('${esc(x.db_id || x.id)}')">💬</button></td>
-      </tr>`).join("") : `<tr><td colspan="8"><div class="empty">لا نتائج بهذه الفلاتر</div></td></tr>`;
+      </tr>`).join("") : `<tr><td colspan="9"><div class="empty">لا نتائج بهذه الفلاتر — جرّب توسيع النافذة الزمنية</div></td></tr>`;
     $("#leadSources").innerHTML = (d.sources || []).map(s => `<tr>
       <td>${esc(s.query)}</td><td class="mono" style="max-width:320px;overflow:hidden;text-overflow:ellipsis">${esc(s.q)}</td>
       <td><span class="chip ${s.status === "ok" ? "ok" : "bad"}">${esc(s.status)}</span></td>
       <td class="num">${s.found}</td></tr>`).join("") || "<tr><td colspan=4 class='empty'>—</td></tr>";
-  } catch (e) { $("#leadRows").innerHTML = `<tr><td colspan="8"><div class="empty">${esc(e.message)}</div></td></tr>`; }
+  } catch (e) { $("#leadRows").innerHTML = `<tr><td colspan="9"><div class="empty">${esc(e.message)}</div></td></tr>`; }
 }
-["leadTier", "leadPlatform", "leadService", "leadRaw", "leadStatusF"].forEach(id => $("#" + id).onchange = loadLeads);
+["leadTier", "leadPlatform", "leadService", "leadRaw", "leadStatusF", "leadWindow", "leadFocus"].forEach(id => {
+  const el = $("#" + id); if (el) el.onchange = () => { loadLeads(); loadXReady(); };
+});
+loadXReady();
 $("#leadQ").oninput = (() => { let t; return () => { clearTimeout(t); t = setTimeout(loadLeads, 350); }; })();
 
 async function runHarvest() {
   if (window.STATIC_MODE) {
-    toast("التحديث الحي يعمل عبر GitHub Actions — سأفتح لك صفحة التشغيل");
+    const wsel = ($("#leadWindow") && $("#leadWindow").value) || 48;
+    toast(`الصيد الكامل (نافذة ${wsel} ساعة، تركيز X) يعمل على GitHub Actions — سأفتح الصفحة`);
     setTimeout(() => window.open(window.ACTIONS_URL || "https://github.com/abunoafceh8-commits/abunawaf-os/actions", "_blank"), 700);
     return;
   }
   const b = $("#harvestBtn"); b.disabled = true; b.innerHTML = `<span class="spin"></span> يعمل…`;
   try {
-    await api("/api/leads/refresh", { method: "POST" });
+    const w = ($("#leadWindow") && $("#leadWindow").value) || 48;
+    const fo = ($("#leadFocus") && $("#leadFocus").value) || "x";
+    const r0 = await api(`/api/leads/refresh?window=${w}&focus=${fo}`, { method: "POST" });
+    if (r0 && r0.message) {
+      b.disabled = false; b.textContent = "⚡ صيد جديد";
+      toast(r0.message);
+      if (r0.actions) setTimeout(() => window.open(r0.actions, "_blank"), 700);
+      return;
+    }
     const poll = setInterval(async () => {
       const s = await api("/api/leads/status");
       $("#harvestStatus").textContent = s.job.running ? "جارٍ قراءة المصادر الحقيقية…" : "";
@@ -415,6 +448,47 @@ if (window.STATIC_MODE && window.BUILD_STAMP) {
 }
 loadDash();
 setTimeout(() => { loadLeads(); loadKw(); loadTools(false); loadSocial(); }, 400);
+
+/* ─────────── بحث X الجاهز ─────────── */
+let XQ = null;
+async function loadXReady() {
+  const box = $("#xReadyList"); if (!box) return;
+  try {
+    if (!XQ) XQ = await api("/api/x-queries");
+    const w = ($("#leadWindow") && $("#leadWindow").value) || 48;
+    const key = ["24","48","72","168","720"].includes(String(w)) ? String(w) : "48";
+    $("#xReadyWin").textContent = key >= 168 ? `${Math.round(key/24)} يوم` : `${key} ساعة`;
+    $("#xReadyCount").textContent = `${XQ.items.length} عبارة`;
+    const order = { "نية شراء": 0, "عبارة": 1, "هاشتاق": 2, "لهجة": 3 };
+    const items = XQ.items.slice().sort((a, b) => (order[a.type] ?? 9) - (order[b.type] ?? 9));
+    box.innerHTML = items.map(it => {
+      const url = (it.links && it.links[key]) || (it.links && it.links["48"]) || "#";
+      const cls = it.type === "نية شراء" ? "ok" : it.type === "هاشتاق" ? "cy" : "";
+      return `<a class="chip ${cls}" href="${esc(url)}" target="_blank" rel="noopener"
+        style="text-decoration:none;padding:6px 10px" title="${esc(it.type)} — يفتح بحث X">𝕏 ${esc(it.term)} ↗</a>`;
+    }).join("");
+  } catch (e) { box.innerHTML = `<span class="empty">${esc(e.message)}</span>`; }
+}
+function copyXLinks() {
+  if (!XQ) return;
+  const w = ($("#leadWindow") && $("#leadWindow").value) || 48;
+  const key = String(["24","48","72","168","720"].includes(String(w)) ? w : 48);
+  const txt = XQ.items.map(i => `${i.term} → ${i.links[key]}`).join("\n");
+  navigator.clipboard.writeText(txt).then(() => toast("نُسخت جميع روابط بحث X ✓"));
+}
+
+/* ─────────── عمر المنشور ─────────── */
+function ageChip(x) {
+  const h = x.age_hours;
+  if (h === null || h === undefined) return `<span class="sig">—</span>`;
+  const fresh = h <= (+(($("#leadWindow") || {}).value || 48));
+  let txt;
+  if (h < 1) txt = "الآن";
+  else if (h < 24) txt = `${Math.round(h)} ساعة`;
+  else if (h < 48) txt = `${(h / 24).toFixed(1)} يوم`;
+  else txt = `${Math.round(h / 24)} يوم`;
+  return `<span class="chip ${fresh ? "ok" : "warn"}" title="${x.created_at || ""}">${txt}</span>`;
+}
 
 /* ─────────── الحالة والملاحظات (قاعدة بيانات حيّة) ─────────── */
 const STATUSES = ["جديد", "تم التواصل", "قيد المتابعة", "تمت الخدمة", "مرفوض"];

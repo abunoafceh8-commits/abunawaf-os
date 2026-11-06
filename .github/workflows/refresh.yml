@@ -9,6 +9,14 @@ on:
         description: "أعد جمع كلمات البحث الآن (1 = نعم)"
         required: false
         default: "0"
+      window_hours:
+        description: "النافذة الزمنية بالساعات (24 / 48 / 72 / 168 / 720)"
+        required: false
+        default: "48"
+      focus:
+        description: "التركيز (x = X فقط، all = كل المصادر)"
+        required: false
+        default: "x"
 
 permissions:
   contents: write
@@ -40,6 +48,9 @@ jobs:
         env:
           SITE_OUT: ${{ github.workspace }}
           FORCE_KEYWORDS: ${{ github.event.inputs.force_keywords || '0' }}
+          WINDOW_HOURS: ${{ github.event.inputs.window_hours || '48' }}
+          FOCUS: ${{ github.event.inputs.focus || 'x' }}
+          MIN_LEADS: "18"
         run: python refresh_data.py
 
       - name: حفظ التغييرات

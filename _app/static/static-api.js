@@ -144,13 +144,19 @@
     f.statuses = {};
     rows.forEach(r => { f.statuses[r.status] = (f.statuses[r.status] || 0) + 1; });
     f.total = rows.length; f.raw_total = (d.all || []).length;
+    f.meta = d.meta || {};
+    f.inside_window = rows.filter(r => r.age_hours != null && r.age_hours <= 48).length;
+    f.x_total = rows.filter(r => (r.platform || "").includes("X")).length;
     const tier = params.get("tier"), plat = params.get("platform"), svc = params.get("service"),
-          q = params.get("q"), st = params.get("status");
+          q = params.get("q"), st = params.get("status"), win = +(params.get("window") || 0),
+          focus = params.get("focus") || "";
     if (tier) rows = rows.filter(r => r.tier === tier);
     if (plat) rows = rows.filter(r => r.platform === plat);
     if (svc) rows = rows.filter(r => r.service === svc);
     if (st) rows = rows.filter(r => r.status === st);
     if (q) { const qq = q.toLowerCase(); rows = rows.filter(r => ((r.title || "") + (r.snippet || "") + r.url).toLowerCase().includes(qq)); }
+    if (focus === "x") rows = rows.filter(r => (r.platform || "").includes("X"));
+    if (win) rows = rows.filter(r => r.age_hours == null || r.age_hours <= win);
     const min = +(params.get("min_score") || 0);
     rows = rows.filter(r => (r.score || 0) >= min);
     const limit = +(params.get("limit") || 500);
@@ -263,6 +269,7 @@
       const x = await j("expansions.json");
       return x[seed] || { seed, merged: [], count: 0, raw: { google: [], bing: [] }, note: "لم تُجمَّع بعد — جرّب بذرة أخرى" };
     },
+    "/api/x-queries": () => j("x_queries.json"),
     "/api/seo/audit": () => j("audit.json"),
     "/api/seo/fixes": () => j("fixes.json"),
     "/api/tools": () => j("tools.json"),

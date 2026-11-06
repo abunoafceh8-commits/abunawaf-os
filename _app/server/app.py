@@ -260,6 +260,23 @@ def crawl_site():
             "checks": checks, "pages": pages, "issues": issues, "scores": scores}
 
 
+@app.get("/api/x-queries")
+def api_x_queries(window: int = 48):
+    """روابط بحث X الجاهزة بنافذة زمنية (since:) لكل العبارات."""
+    d = load("x_queries.json")
+    if not d:
+        try:
+            import harvest_x
+            d = harvest_x.build_x_links()
+            save("x_queries.json", d)
+        except Exception as e:
+            raise HTTPException(500, f"تعذّر توليد روابط X: {e}")
+    if window:
+        d = dict(d)
+        d["window"] = window
+    return d
+
+
 @app.get("/api/seo/audit")
 def api_audit(refresh: bool = False):
     now = time.time()
@@ -366,7 +383,8 @@ def merge_manual(leads):
 @app.get("/api/leads")
 def api_leads(tier: Optional[str] = None, platform: Optional[str] = None,
               service: Optional[str] = None, q: Optional[str] = None,
-              min_score: int = 0, limit: int = 500, include_raw: bool = False):
+              min_score: int = 0, limit: int = 500, include_raw: bool = False,
+              window: Optional[int] = None, fresh_only: bool = False):
     d = load("leads_raw.json", {"meta": {}, "leads": [], "all": [], "sources": []})
     base = d.get("leads", [])
     if include_raw:
@@ -385,8 +403,12 @@ def api_leads(tier: Optional[str] = None, platform: Optional[str] = None,
     if q:
         qq = q.lower()
         res = [l for l in res if qq in (l.get("title", "") + l.get("snippet", "") + l.get("url", "")).lower()]
+    if window:
+        res = [l for l in res if l.get("age_hours") is None or l["age_hours"] <= window]
+    if fresh_only:
+        res = [l for l in res if l.get("fresh")]
     res = [l for l in res if l.get("score", 0) >= min_score]
-    res.sort(key=lambda x: -x.get("score", 0))
+    res.sort(key=lambda x: (-x.get("score", 0), x.get("age_hours") if x.get("age_hours") is not None else 9999))
     facets = {
         "platforms": sorted({l["platform"] for l in base}),
         "services": sorted({l["service"] for l in base}),
@@ -394,23 +416,28 @@ def api_leads(tier: Optional[str] = None, platform: Optional[str] = None,
                   "دافئ": sum(1 for l in base if l["tier"] == "دافئ"),
                   "مراقبة": sum(1 for l in base if l["tier"] == "مراقبة")},
         "total": len(base), "raw_total": len(d.get("all", [])),
+        "x_total": sum(1 for l in base if "X" in l.get("platform", "")),
+        "inside_window": sum(1 for l in base if l.get("fresh")),
+        "meta": d.get("meta", {}),
     }
     return {"meta": d.get("meta", {}), "sources": d.get("sources", []),
             "facets": facets, "count": len(res), "leads": res[:limit]}
 
 
 @app.post("/api/leads/refresh")
-def api_leads_refresh():
+def api_leads_refresh(window: int = 48, focus: str = "x", min_leads: int = 18):
     if LEAD_JOB["running"]:
         return {"status": "already_running", "started": LEAD_JOB["started"]}
-    script = os.path.join(BASE_DIR, "harvest_leads.py")
+    script = os.path.join(BASE_DIR, "harvest_x.py")
 
     def run():
         LEAD_JOB.update({"running": True, "started": datetime.now(timezone.utc).isoformat(timespec="seconds"),
                          "log": [], "error": None})
         try:
             import subprocess, sys
-            p = subprocess.run([sys.executable, script], cwd=BASE_DIR, capture_output=True, text=True, timeout=1800)
+            env = dict(os.environ, WINDOW_HOURS=str(window), FOCUS=focus, MIN_LEADS=str(min_leads))
+            p = subprocess.run([sys.executable, script], cwd=BASE_DIR, capture_output=True, text=True,
+                               timeout=1800, env=env)
             LEAD_JOB["log"] = (p.stdout or "").strip().splitlines()[-40:]
             if p.returncode != 0:
                 LEAD_JOB["error"] = (p.stderr or "")[-500:]
