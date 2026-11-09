@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-11-09T00:57:05+00:00",
+  "generated_at": "2026-11-09T13:02:41+00:00",
   "window_hours": 48,
   "window_used_hours": 48,
   "widened": false,
@@ -9,15 +9,15 @@
   "undated_count": 13,
   "focus": "x",
   "queries": 632,
-  "raw_results": 317,
+  "raw_results": 1329,
   "x_status_found": 100,
-  "x_profiles_found": 1,
+  "x_profiles_found": 3,
   "unique_leads": 33,
   "from_archive": 29,
   "hot": 11,
   "x_leads": 21,
   "engine": "Bing RSS + Yahoo + Google News + X Syndication",
-  "elapsed_s": 250
+  "elapsed_s": 251
  },
  "leads": [
   {
@@ -35,7 +35,7 @@
     "ضمير شخصي"
    ],
    "query": "site:x.com هكروا حسابي",
-   "age_hours": 16.8,
+   "age_hours": 28.9,
    "created_at": "2026-11-08T08:06:15.000Z",
    "author": "Al3sh103",
    "action": "راقب المنشور",
@@ -43,9 +43,9 @@
   },
   {
    "id": "2118867369141690639",
-   "title": "حسابي محظور من الاكسبلور وش الحل؟",
+   "title": "الملكة شهد on X: \"حسابي محظور من الاكسبلور وش الحل؟\"",
    "url": "https://x.com/pinx5s/status/2118867369141690639",
-   "snippet": "حسابي محظور من الاكسبلور وش الحل؟",
+   "snippet": "الملكة شهد on X: \"حسابي محظور من الاكسبلور وش الحل؟\"",
    "platform": "X (تويتر)",
    "kind": "منشور/موضوع",
    "service": "استعادة حساب مسروق",
@@ -56,9 +56,9 @@
     "ضمير شخصي"
    ],
    "query": "\"حسابي محظور\"",
-   "age_hours": 48.2,
-   "created_at": "2026-11-07T00:45:22.000Z",
-   "author": "pinx5s",
+   "age_hours": 60.3,
+   "created_at": "",
+   "author": "",
    "action": "راقب المنشور",
    "fresh": false
   },
@@ -76,10 +76,32 @@
     "هكر",
     "ضمير شخصي"
    ],
-   "query": "site:x.com \"هكروا حسابي\"",
-   "age_hours": 58.5,
+   "query": "\"هكروا حسابي\"",
+   "age_hours": 70.6,
    "created_at": "2026-11-06T14:25:55.000Z",
    "author": "fawaz_dr",
+   "action": "راقب المنشور",
+   "fresh": false
+  },
+  {
+   "id": "2118247335474196940",
+   "title": "@moh19si_ لازم يستقيل عشان الكتلان متعصبين  عادى يسرقوا صوره مره ثانيه",
+   "url": "https://x.com/mostafa_sasa342/status/2118247335474196940",
+   "snippet": "@moh19si_ لازم يستقيل عشان الكتلان متعصبين  عادى يسرقوا صوره مره ثانيه",
+   "platform": "X (تويتر)",
+   "kind": "منشور/موضوع",
+   "service": "استعادة حساب مسروق",
+   "score": 51,
+   "tier": "مراقبة",
+   "signals": [
+    "سرقوا",
+    "وهمي",
+    "ضمير شخصي"
+   ],
+   "query": "\"حساب وهمي\"",
+   "age_hours": 101.4,
+   "created_at": "2026-11-05T07:41:34.000Z",
+   "author": "mostafa_sasa342",
    "action": "راقب المنشور",
    "fresh": false
   },
@@ -98,7 +120,7 @@
     "ضمير شخصي"
    ],
    "query": "site:x.com \"حسابي مقفل\"",
-   "age_hours": 59.5,
+   "age_hours": 71.6,
    "created_at": "2026-11-06T13:29:11.000Z",
    "author": "x_lla12",
    "action": "راقب المنشور",
@@ -121,7 +143,7 @@
     "ضمير شخصي"
    ],
    "query": "site:x.com هكروا حسابي",
-   "age_hours": 67.0,
+   "age_hours": 79.1,
    "created_at": "2026-11-06T05:55:44.000Z",
    "author": "dullhime",
    "action": "ردّ عام مهذّب + عرض مساعدة مجانية أولاً",
@@ -142,7 +164,7 @@
     "ضمير شخصي"
    ],
    "query": "\"هكروا حسابي\"",
-   "age_hours": 72.9,
+   "age_hours": 85.0,
    "created_at": "2026-11-06T00:04:49.000Z",
    "author": "TheycaIImeZura",
    "action": "راقب المنشور",
@@ -165,7 +187,7 @@
     "واتساب"
    ],
    "query": "\"التحقق بخطوتين\"",
-   "age_hours": 87.4,
+   "age_hours": 99.5,
    "created_at": "2026-11-05T09:31:00.000Z",
    "author": "Ebrahim_Tech",
    "action": "ردّ عام مهذّب + عرض مساعدة مجانية أولاً",
@@ -187,31 +209,9 @@
     "ضمير شخصي"
    ],
    "query": "\"حسابي مقفل\"",
-   "age_hours": 88.5,
+   "age_hours": 100.6,
    "created_at": "2026-11-05T08:25:48.000Z",
    "author": "v_ur888",
-   "action": "راقب المنشور",
-   "fresh": false
-  },
-  {
-   "id": "2118247335474196940",
-   "title": "@moh19si_ لازم يستقيل عشان الكتلان متعصبين  عادى يسرقوا صوره مره ثانيه",
-   "url": "https://x.com/mostafa_sasa342/status/2118247335474196940",
-   "snippet": "@moh19si_ لازم يستقيل عشان الكتلان متعصبين  عادى يسرقوا صوره مره ثانيه",
-   "platform": "X (تويتر)",
-   "kind": "منشور/موضوع",
-   "service": "استعادة حساب مسروق",
-   "score": 51,
-   "tier": "مراقبة",
-   "signals": [
-    "سرقوا",
-    "وهمي",
-    "ضمير شخصي"
-   ],
-   "query": "\"حساب وهمي\"",
-   "age_hours": 89.3,
-   "created_at": "2026-11-05T07:41:34.000Z",
-   "author": "mostafa_sasa342",
    "action": "راقب المنشور",
    "fresh": false
   },
@@ -230,7 +230,7 @@
     "واتساب"
    ],
    "query": "news",
-   "age_hours": 106.5,
+   "age_hours": 118.6,
    "created_at": "",
    "action": "ردّ على الموضوع أو تواصل عبر القناة المذكورة",
    "fresh": false
@@ -250,7 +250,7 @@
     "ضمير شخصي"
    ],
    "query": "site:x.com حسابي محظور",
-   "age_hours": 113.8,
+   "age_hours": 125.9,
    "created_at": "2026-11-04T07:08:32.000Z",
    "author": "essamelansy92",
    "action": "راقب المنشور",
@@ -271,7 +271,7 @@
     "ضمير شخصي"
    ],
    "query": "\"يهددني ويرسل صوري\"",
-   "age_hours": 163.2,
+   "age_hours": 175.3,
    "created_at": "",
    "author": "",
    "action": "راقب المنشور",
@@ -293,7 +293,7 @@
     "واتساب"
    ],
    "query": "\"فك حظر\"",
-   "age_hours": 175.0,
+   "age_hours": 187.0,
    "created_at": "2026-11-01T18:00:00.000Z",
    "author": "ZDA99",
    "action": "راقب المنشور",
@@ -314,7 +314,7 @@
     "تهكر"
    ],
    "query": "site:x.com \"متجري تهكر\"",
-   "age_hours": 176.3,
+   "age_hours": 188.4,
    "created_at": "2026-11-01T16:41:23.000Z",
    "author": "lil_hamoor",
    "action": "راقب المنشور",
@@ -336,7 +336,7 @@
     "ضمير شخصي"
    ],
    "query": "site:x.com تم اختراق حسابي",
-   "age_hours": 182.2,
+   "age_hours": 194.3,
    "created_at": "2026-11-01T10:42:34.000Z",
    "author": "TawfikTobruk",
    "action": "راقب المنشور",
@@ -359,7 +359,7 @@
     "ضمير شخصي"
    ],
    "query": "\"تهكر حسابي\"",
-   "age_hours": 185.7,
+   "age_hours": 197.8,
    "created_at": "2026-11-01T07:16:42.000Z",
    "author": "Mahmood83057971",
    "action": "ردّ عام مهذّب + عرض مساعدة مجانية أولاً",
@@ -383,7 +383,7 @@
     "ضمير شخصي"
    ],
    "query": "site:x.com \"حسابي انسرق\"",
-   "age_hours": 187.8,
+   "age_hours": 199.9,
    "created_at": "2026-11-01T05:09:15.000Z",
    "author": "Osama11",
    "action": "ردّ عام مهذّب + عرض مساعدة مجانية أولاً",
@@ -404,7 +404,7 @@
     "ضمير شخصي"
    ],
    "query": "\"حسابي مخترق\"",
-   "age_hours": 292.8,
+   "age_hours": 304.9,
    "created_at": "2026-10-27T20:07:54.000Z",
    "author": "qpwc7",
    "action": "راقب المنشور",
@@ -428,7 +428,7 @@
     "ضمير شخصي"
    ],
    "query": "\"اخترقوا حسابي\"",
-   "age_hours": 505.6,
+   "age_hours": 517.7,
    "created_at": "",
    "author": "",
    "action": "ردّ عام مهذّب + عرض مساعدة مجانية أولاً",
@@ -449,7 +449,7 @@
     "ضمير شخصي"
    ],
    "query": "\"حسابي مخترق\"",
-   "age_hours": 581.5,
+   "age_hours": 593.5,
    "created_at": "2026-10-15T19:29:57.000Z",
    "author": "ALI_M2025_",
    "action": "راقب المنشور",
