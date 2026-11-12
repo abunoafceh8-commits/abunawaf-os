@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-11-11T12:59:51+00:00",
+  "generated_at": "2026-11-12T01:02:06+00:00",
   "window_hours": 48,
   "window_used_hours": 48,
   "widened": false,
@@ -9,15 +9,15 @@
   "undated_count": 17,
   "focus": "x",
   "queries": 632,
-  "raw_results": 347,
-  "x_status_found": 0,
+  "raw_results": 593,
+  "x_status_found": 1,
   "x_profiles_found": 1,
   "unique_leads": 39,
   "from_archive": 39,
   "hot": 12,
   "x_leads": 23,
   "engine": "Bing RSS + Yahoo + Google News + X Syndication",
-  "elapsed_s": 225
+  "elapsed_s": 202
  },
  "leads": [
   {
@@ -35,7 +35,7 @@
     "ضمير شخصي"
    ],
    "query": "site:x.com هكروا حسابي",
-   "age_hours": 76.9,
+   "age_hours": 88.9,
    "created_at": "2026-11-08T08:06:15.000Z",
    "author": "Al3sh103",
    "action": "راقب المنشور",
@@ -56,7 +56,7 @@
     "ضمير شخصي"
    ],
    "query": "site:x.com حسابي محظور",
-   "age_hours": 108.3,
+   "age_hours": 120.3,
    "created_at": "",
    "author": "",
    "action": "راقب المنشور",
@@ -77,7 +77,7 @@
     "ضمير شخصي"
    ],
    "query": "\"هكروا حسابي\"",
-   "age_hours": 118.6,
+   "age_hours": 130.6,
    "created_at": "2026-11-06T14:25:55.000Z",
    "author": "fawaz_dr",
    "action": "راقب المنشور",
@@ -98,7 +98,7 @@
     "ضمير شخصي"
    ],
    "query": "site:x.com \"حسابي مقفل\"",
-   "age_hours": 119.5,
+   "age_hours": 131.5,
    "created_at": "2026-11-06T13:29:11.000Z",
    "author": "x_lla12",
    "action": "راقب المنشور",
@@ -121,7 +121,7 @@
     "ضمير شخصي"
    ],
    "query": "site:x.com هكروا حسابي",
-   "age_hours": 127.1,
+   "age_hours": 139.1,
    "created_at": "2026-11-06T05:55:44.000Z",
    "author": "dullhime",
    "action": "ردّ عام مهذّب + عرض مساعدة مجانية أولاً",
@@ -142,7 +142,7 @@
     "ضمير شخصي"
    ],
    "query": "\"هكروا حسابي\"",
-   "age_hours": 132.9,
+   "age_hours": 145.0,
    "created_at": "2026-11-06T00:04:49.000Z",
    "author": "TheycaIImeZura",
    "action": "راقب المنشور",
@@ -165,7 +165,7 @@
     "واتساب"
    ],
    "query": "\"التحقق بخطوتين\"",
-   "age_hours": 147.5,
+   "age_hours": 159.5,
    "created_at": "2026-11-05T09:31:00.000Z",
    "author": "Ebrahim_Tech",
    "action": "ردّ عام مهذّب + عرض مساعدة مجانية أولاً",
@@ -187,7 +187,7 @@
     "ضمير شخصي"
    ],
    "query": "\"حسابي مقفل\"",
-   "age_hours": 148.6,
+   "age_hours": 160.6,
    "created_at": "2026-11-05T08:25:48.000Z",
    "author": "v_ur888",
    "action": "راقب المنشور",
@@ -209,7 +209,7 @@
     "ضمير شخصي"
    ],
    "query": "\"حساب وهمي\"",
-   "age_hours": 149.3,
+   "age_hours": 161.3,
    "created_at": "2026-11-05T07:41:34.000Z",
    "author": "mostafa_sasa342",
    "action": "راقب المنشور",
@@ -230,7 +230,7 @@
     "واتساب"
    ],
    "query": "news",
-   "age_hours": 166.6,
+   "age_hours": 178.6,
    "created_at": "",
    "action": "ردّ على الموضوع أو تواصل عبر القناة المذكورة",
    "fresh": false
@@ -250,7 +250,7 @@
     "ضمير شخصي"
    ],
    "query": "site:x.com حسابي محظور",
-   "age_hours": 173.9,
+   "age_hours": 185.9,
    "created_at": "2026-11-04T07:08:32.000Z",
    "author": "essamelansy92",
    "action": "راقب المنشور",
@@ -271,7 +271,7 @@
     "ضمير شخصي"
    ],
    "query": "\"يهددني ويرسل صوري\"",
-   "age_hours": 223.3,
+   "age_hours": 235.3,
    "created_at": "",
    "author": "",
    "action": "راقب المنشور",
@@ -293,7 +293,7 @@
     "واتساب"
    ],
    "query": "\"فك حظر\"",
-   "age_hours": 235.0,
+   "age_hours": 247.0,
    "created_at": "2026-11-01T18:00:00.000Z",
    "author": "ZDA99",
    "action": "راقب المنشور",
@@ -314,7 +314,7 @@
     "تهكر"
    ],
    "query": "site:x.com \"متجري تهكر\"",
-   "age_hours": 236.3,
+   "age_hours": 248.3,
    "created_at": "2026-11-01T16:41:23.000Z",
    "author": "lil_hamoor",
    "action": "راقب المنشور",
@@ -336,7 +336,7 @@
     "ضمير شخصي"
    ],
    "query": "site:x.com تم اختراق حسابي",
-   "age_hours": 242.3,
+   "age_hours": 254.3,
    "created_at": "2026-11-01T10:42:34.000Z",
    "author": "TawfikTobruk",
    "action": "راقب المنشور",
@@ -359,7 +359,7 @@
     "ضمير شخصي"
    ],
    "query": "\"تهكر حسابي\"",
-   "age_hours": 245.7,
+   "age_hours": 257.8,
    "created_at": "2026-11-01T07:16:42.000Z",
    "author": "Mahmood83057971",
    "action": "ردّ عام مهذّب + عرض مساعدة مجانية أولاً",
@@ -383,7 +383,7 @@
     "ضمير شخصي"
    ],
    "query": "site:x.com \"حسابي انسرق\"",
-   "age_hours": 247.8,
+   "age_hours": 259.9,
    "created_at": "2026-11-01T05:09:15.000Z",
    "author": "Osama11",
    "action": "ردّ عام مهذّب + عرض مساعدة مجانية أولاً",
@@ -404,7 +404,7 @@
     "ضمير شخصي"
    ],
    "query": "\"حسابي مخترق\"",
-   "age_hours": 352.9,
+   "age_hours": 364.9,
    "created_at": "2026-10-27T20:07:54.000Z",
    "author": "qpwc7",
    "action": "راقب المنشور",
@@ -426,7 +426,7 @@
     "ضمير شخصي"
    ],
    "query": "\"ينشر صوري\"",
-   "age_hours": 473.7,
+   "age_hours": 485.7,
    "created_at": "",
    "author": "",
    "action": "راقب المنشور",
@@ -447,7 +447,7 @@
     "ضمير شخصي"
    ],
    "query": "\"حسابي موقوف\"",
-   "age_hours": 546.5,
+   "age_hours": 558.6,
    "created_at": "2026-10-19T18:27:06.000Z",
    "author": "1iNoah",
    "action": "راقب المنشور",
@@ -471,7 +471,7 @@
     "ضمير شخصي"
    ],
    "query": "\"اخترقوا حسابي\"",
-   "age_hours": 565.7,
+   "age_hours": 577.7,
    "created_at": "",
    "author": "",
    "action": "ردّ عام مهذّب + عرض مساعدة مجانية أولاً",
@@ -492,7 +492,7 @@
     "ضمير شخصي"
    ],
    "query": "\"حسابي مخترق\"",
-   "age_hours": 641.5,
+   "age_hours": 653.5,
    "created_at": "2026-10-15T19:29:57.000Z",
    "author": "ALI_M2025_",
    "action": "راقب المنشور",
