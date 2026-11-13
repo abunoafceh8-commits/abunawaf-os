@@ -1,753 +1,753 @@
 {
- "generated_at": "2026-11-12T13:01:56+00:00",
+ "generated_at": "2026-11-13T00:58:53+00:00",
  "count": 68,
  "items": [
   {
    "term": "حسابي مسروق",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "حسابي مخترق",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "تم اختراق حسابي",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%AA%D9%85%20%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%AA%D9%85%20%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%AA%D9%85%20%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%AA%D9%85%20%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%AA%D9%85%20%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%AA%D9%85%20%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%AA%D9%85%20%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%AA%D9%85%20%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%AA%D9%85%20%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%AA%D9%85%20%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "حسابي مقفل",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "حسابي موقوف",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "حسابي محظور",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AD%D8%B8%D9%88%D8%B1%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AD%D8%B8%D9%88%D8%B1%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AD%D8%B8%D9%88%D8%B1%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AD%D8%B8%D9%88%D8%B1%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AD%D8%B8%D9%88%D8%B1%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AD%D8%B8%D9%88%D8%B1%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AD%D8%B8%D9%88%D8%B1%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AD%D8%B8%D9%88%D8%B1%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AD%D8%B8%D9%88%D8%B1%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%AD%D8%B8%D9%88%D8%B1%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "حسابي انسرق",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "سرقوا حسابي",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%B3%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%B3%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%B3%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%B3%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%B3%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%B3%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%B3%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%B3%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%B3%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%B3%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "هكروا حسابي",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D9%87%D9%83%D8%B1%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%87%D9%83%D8%B1%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%87%D9%83%D8%B1%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%87%D9%83%D8%B1%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%87%D9%83%D8%B1%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%87%D9%83%D8%B1%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%87%D9%83%D8%B1%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%87%D9%83%D8%B1%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%87%D9%83%D8%B1%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%87%D9%83%D8%B1%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "اخترقوا حسابي",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "فك باند",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "فك حظر",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D9%81%D9%83%20%D8%AD%D8%B8%D8%B1%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%81%D9%83%20%D8%AD%D8%B8%D8%B1%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%81%D9%83%20%D8%AD%D8%B8%D8%B1%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%81%D9%83%20%D8%AD%D8%B8%D8%B1%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%81%D9%83%20%D8%AD%D8%B8%D8%B1%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%81%D9%83%20%D8%AD%D8%B8%D8%B1%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%81%D9%83%20%D8%AD%D8%B8%D8%B1%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%81%D9%83%20%D8%AD%D8%B8%D8%B1%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%81%D9%83%20%D8%AD%D8%B8%D8%B1%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%81%D9%83%20%D8%AD%D8%B8%D8%B1%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "رفع باند",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "رفع حظر",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%AD%D8%B8%D8%B1%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%AD%D8%B8%D8%B1%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%AD%D8%B8%D8%B1%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%AD%D8%B8%D8%B1%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%AD%D8%B8%D8%B1%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%AD%D8%B8%D8%B1%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%AD%D8%B8%D8%B1%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%AD%D8%B8%D8%B1%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%AD%D8%B8%D8%B1%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%B1%D9%81%D8%B9%20%D8%AD%D8%B8%D8%B1%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "ابتزاز الكتروني",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "مبتز",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D9%85%D8%A8%D8%AA%D8%B2%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%85%D8%A8%D8%AA%D8%B2%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%85%D8%A8%D8%AA%D8%B2%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%85%D8%A8%D8%AA%D8%B2%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%85%D8%A8%D8%AA%D8%B2%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%85%D8%A8%D8%AA%D8%B2%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%85%D8%A8%D8%AA%D8%B2%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%85%D8%A8%D8%AA%D8%B2%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%85%D8%A8%D8%AA%D8%B2%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%85%D8%A8%D8%AA%D8%B2%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "يهددني بصور",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20%D8%A8%D8%B5%D9%88%D8%B1%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20%D8%A8%D8%B5%D9%88%D8%B1%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20%D8%A8%D8%B5%D9%88%D8%B1%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20%D8%A8%D8%B5%D9%88%D8%B1%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20%D8%A8%D8%B5%D9%88%D8%B1%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20%D8%A8%D8%B5%D9%88%D8%B1%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20%D8%A8%D8%B5%D9%88%D8%B1%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20%D8%A8%D8%B5%D9%88%D8%B1%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20%D8%A8%D8%B5%D9%88%D8%B1%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20%D8%A8%D8%B5%D9%88%D8%B1%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "ينشر صوري",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D9%8A%D9%86%D8%B4%D8%B1%20%D8%B5%D9%88%D8%B1%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%8A%D9%86%D8%B4%D8%B1%20%D8%B5%D9%88%D8%B1%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%8A%D9%86%D8%B4%D8%B1%20%D8%B5%D9%88%D8%B1%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%8A%D9%86%D8%B4%D8%B1%20%D8%B5%D9%88%D8%B1%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%8A%D9%86%D8%B4%D8%B1%20%D8%B5%D9%88%D8%B1%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%8A%D9%86%D8%B4%D8%B1%20%D8%B5%D9%88%D8%B1%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%8A%D9%86%D8%B4%D8%B1%20%D8%B5%D9%88%D8%B1%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%8A%D9%86%D8%B4%D8%B1%20%D8%B5%D9%88%D8%B1%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%8A%D9%86%D8%B4%D8%B1%20%D8%B5%D9%88%D8%B1%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%8A%D9%86%D8%B4%D8%B1%20%D8%B5%D9%88%D8%B1%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "انتحال شخصيتي",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D9%84%20%D8%B4%D8%AE%D8%B5%D9%8A%D8%AA%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D9%84%20%D8%B4%D8%AE%D8%B5%D9%8A%D8%AA%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D9%84%20%D8%B4%D8%AE%D8%B5%D9%8A%D8%AA%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D9%84%20%D8%B4%D8%AE%D8%B5%D9%8A%D8%AA%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D9%84%20%D8%B4%D8%AE%D8%B5%D9%8A%D8%AA%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D9%84%20%D8%B4%D8%AE%D8%B5%D9%8A%D8%AA%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D9%84%20%D8%B4%D8%AE%D8%B5%D9%8A%D8%AA%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D9%84%20%D8%B4%D8%AE%D8%B5%D9%8A%D8%AA%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D9%84%20%D8%B4%D8%AE%D8%B5%D9%8A%D8%AA%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%A7%D9%86%D8%AA%D8%AD%D8%A7%D9%84%20%D8%B4%D8%AE%D8%B5%D9%8A%D8%AA%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "حساب مزيف باسمي",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%85%D8%B2%D9%8A%D9%81%20%D8%A8%D8%A7%D8%B3%D9%85%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%85%D8%B2%D9%8A%D9%81%20%D8%A8%D8%A7%D8%B3%D9%85%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%85%D8%B2%D9%8A%D9%81%20%D8%A8%D8%A7%D8%B3%D9%85%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%85%D8%B2%D9%8A%D9%81%20%D8%A8%D8%A7%D8%B3%D9%85%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%85%D8%B2%D9%8A%D9%81%20%D8%A8%D8%A7%D8%B3%D9%85%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%85%D8%B2%D9%8A%D9%81%20%D8%A8%D8%A7%D8%B3%D9%85%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%85%D8%B2%D9%8A%D9%81%20%D8%A8%D8%A7%D8%B3%D9%85%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%85%D8%B2%D9%8A%D9%81%20%D8%A8%D8%A7%D8%B3%D9%85%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%85%D8%B2%D9%8A%D9%81%20%D8%A8%D8%A7%D8%B3%D9%85%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%85%D8%B2%D9%8A%D9%81%20%D8%A8%D8%A7%D8%B3%D9%85%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "استرجاع حساب",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%A7%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "استعادة حساب",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%A7%D8%B3%D8%AA%D8%B9%D8%A7%D8%AF%D8%A9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "ما اقدر ادخل حسابي",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D9%85%D8%A7%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%85%D8%A7%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%85%D8%A7%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%85%D8%A7%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%85%D8%A7%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%85%D8%A7%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%85%D8%A7%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%85%D8%A7%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%85%D8%A7%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%85%D8%A7%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "نسيت كلمة السر",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D9%86%D8%B3%D9%8A%D8%AA%20%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%86%D8%B3%D9%8A%D8%AA%20%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%86%D8%B3%D9%8A%D8%AA%20%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%86%D8%B3%D9%8A%D8%AA%20%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%86%D8%B3%D9%8A%D8%AA%20%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%86%D8%B3%D9%8A%D8%AA%20%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%86%D8%B3%D9%8A%D8%AA%20%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%86%D8%B3%D9%8A%D8%AA%20%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%86%D8%B3%D9%8A%D8%AA%20%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%86%D8%B3%D9%8A%D8%AA%20%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "كلمة السر تغيرت",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20%D8%AA%D8%BA%D9%8A%D8%B1%D8%AA%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20%D8%AA%D8%BA%D9%8A%D8%B1%D8%AA%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20%D8%AA%D8%BA%D9%8A%D8%B1%D8%AA%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20%D8%AA%D8%BA%D9%8A%D8%B1%D8%AA%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20%D8%AA%D8%BA%D9%8A%D8%B1%D8%AA%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20%D8%AA%D8%BA%D9%8A%D8%B1%D8%AA%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20%D8%AA%D8%BA%D9%8A%D8%B1%D8%AA%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20%D8%AA%D8%BA%D9%8A%D8%B1%D8%AA%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20%D8%AA%D8%BA%D9%8A%D8%B1%D8%AA%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%83%D9%84%D9%85%D8%A9%20%D8%A7%D9%84%D8%B3%D8%B1%20%D8%AA%D8%BA%D9%8A%D8%B1%D8%AA%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "الرمز ما يوصل",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%A7%D9%84%D8%B1%D9%85%D8%B2%20%D9%85%D8%A7%20%D9%8A%D9%88%D8%B5%D9%84%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%A7%D9%84%D8%B1%D9%85%D8%B2%20%D9%85%D8%A7%20%D9%8A%D9%88%D8%B5%D9%84%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%A7%D9%84%D8%B1%D9%85%D8%B2%20%D9%85%D8%A7%20%D9%8A%D9%88%D8%B5%D9%84%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%A7%D9%84%D8%B1%D9%85%D8%B2%20%D9%85%D8%A7%20%D9%8A%D9%88%D8%B5%D9%84%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%A7%D9%84%D8%B1%D9%85%D8%B2%20%D9%85%D8%A7%20%D9%8A%D9%88%D8%B5%D9%84%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%A7%D9%84%D8%B1%D9%85%D8%B2%20%D9%85%D8%A7%20%D9%8A%D9%88%D8%B5%D9%84%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%A7%D9%84%D8%B1%D9%85%D8%B2%20%D9%85%D8%A7%20%D9%8A%D9%88%D8%B5%D9%84%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%A7%D9%84%D8%B1%D9%85%D8%B2%20%D9%85%D8%A7%20%D9%8A%D9%88%D8%B5%D9%84%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%A7%D9%84%D8%B1%D9%85%D8%B2%20%D9%85%D8%A7%20%D9%8A%D9%88%D8%B5%D9%84%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%A7%D9%84%D8%B1%D9%85%D8%B2%20%D9%85%D8%A7%20%D9%8A%D9%88%D8%B5%D9%84%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "التحقق بخطوتين",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82%20%D8%A8%D8%AE%D8%B7%D9%88%D8%AA%D9%8A%D9%86%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82%20%D8%A8%D8%AE%D8%B7%D9%88%D8%AA%D9%8A%D9%86%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82%20%D8%A8%D8%AE%D8%B7%D9%88%D8%AA%D9%8A%D9%86%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82%20%D8%A8%D8%AE%D8%B7%D9%88%D8%AA%D9%8A%D9%86%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82%20%D8%A8%D8%AE%D8%B7%D9%88%D8%AA%D9%8A%D9%86%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82%20%D8%A8%D8%AE%D8%B7%D9%88%D8%AA%D9%8A%D9%86%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82%20%D8%A8%D8%AE%D8%B7%D9%88%D8%AA%D9%8A%D9%86%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82%20%D8%A8%D8%AE%D8%B7%D9%88%D8%AA%D9%8A%D9%86%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82%20%D8%A8%D8%AE%D8%B7%D9%88%D8%AA%D9%8A%D9%86%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%82%20%D8%A8%D8%AE%D8%B7%D9%88%D8%AA%D9%8A%D9%86%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "اختراق واتساب",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "اختراق سناب",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "اختراق انستقرام",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "اختراق تيك توك",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AA%D9%8A%D9%83%20%D8%AA%D9%88%D9%83%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AA%D9%8A%D9%83%20%D8%AA%D9%88%D9%83%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AA%D9%8A%D9%83%20%D8%AA%D9%88%D9%83%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AA%D9%8A%D9%83%20%D8%AA%D9%88%D9%83%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AA%D9%8A%D9%83%20%D8%AA%D9%88%D9%83%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AA%D9%8A%D9%83%20%D8%AA%D9%88%D9%83%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AA%D9%8A%D9%83%20%D8%AA%D9%88%D9%83%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AA%D9%8A%D9%83%20%D8%AA%D9%88%D9%83%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AA%D9%8A%D9%83%20%D8%AA%D9%88%D9%83%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82%20%D8%AA%D9%8A%D9%83%20%D8%AA%D9%88%D9%83%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "كشف هوية",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D9%83%D8%B4%D9%81%20%D9%87%D9%88%D9%8A%D8%A9%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%83%D8%B4%D9%81%20%D9%87%D9%88%D9%8A%D8%A9%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%83%D8%B4%D9%81%20%D9%87%D9%88%D9%8A%D8%A9%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%83%D8%B4%D9%81%20%D9%87%D9%88%D9%8A%D8%A9%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%83%D8%B4%D9%81%20%D9%87%D9%88%D9%8A%D8%A9%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%83%D8%B4%D9%81%20%D9%87%D9%88%D9%8A%D8%A9%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%83%D8%B4%D9%81%20%D9%87%D9%88%D9%8A%D8%A9%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%83%D8%B4%D9%81%20%D9%87%D9%88%D9%8A%D8%A9%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%83%D8%B4%D9%81%20%D9%87%D9%88%D9%8A%D8%A9%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%83%D8%B4%D9%81%20%D9%87%D9%88%D9%8A%D8%A9%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "معرفة صاحب حساب",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D9%85%D8%B9%D8%B1%D9%81%D8%A9%20%D8%B5%D8%A7%D8%AD%D8%A8%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%85%D8%B9%D8%B1%D9%81%D8%A9%20%D8%B5%D8%A7%D8%AD%D8%A8%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%85%D8%B9%D8%B1%D9%81%D8%A9%20%D8%B5%D8%A7%D8%AD%D8%A8%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%85%D8%B9%D8%B1%D9%81%D8%A9%20%D8%B5%D8%A7%D8%AD%D8%A8%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%85%D8%B9%D8%B1%D9%81%D8%A9%20%D8%B5%D8%A7%D8%AD%D8%A8%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%85%D8%B9%D8%B1%D9%81%D8%A9%20%D8%B5%D8%A7%D8%AD%D8%A8%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%85%D8%B9%D8%B1%D9%81%D8%A9%20%D8%B5%D8%A7%D8%AD%D8%A8%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%85%D8%B9%D8%B1%D9%81%D8%A9%20%D8%B5%D8%A7%D8%AD%D8%A8%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%85%D8%B9%D8%B1%D9%81%D8%A9%20%D8%B5%D8%A7%D8%AD%D8%A8%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%85%D8%B9%D8%B1%D9%81%D8%A9%20%D8%B5%D8%A7%D8%AD%D8%A8%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "حساب وهمي",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%88%D9%87%D9%85%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%88%D9%87%D9%85%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%88%D9%87%D9%85%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%88%D9%87%D9%85%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%88%D9%87%D9%85%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%88%D9%87%D9%85%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%88%D9%87%D9%85%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%88%D9%87%D9%85%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%88%D9%87%D9%85%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%20%D9%88%D9%87%D9%85%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "شخص مجهول يهددني",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%85%D8%AC%D9%87%D9%88%D9%84%20%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%85%D8%AC%D9%87%D9%88%D9%84%20%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%85%D8%AC%D9%87%D9%88%D9%84%20%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%85%D8%AC%D9%87%D9%88%D9%84%20%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%85%D8%AC%D9%87%D9%88%D9%84%20%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%85%D8%AC%D9%87%D9%88%D9%84%20%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%85%D8%AC%D9%87%D9%88%D9%84%20%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%85%D8%AC%D9%87%D9%88%D9%84%20%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%85%D8%AC%D9%87%D9%88%D9%84%20%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%85%D8%AC%D9%87%D9%88%D9%84%20%D9%8A%D9%87%D8%AF%D8%AF%D9%86%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "متجري تهكر",
    "type": "عبارة",
    "links": {
-    "24": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "ابغى استرجع حسابي",
    "type": "لهجة",
    "links": {
-    "24": "https://x.com/search?q=%D8%A7%D8%A8%D8%BA%D9%89%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%A7%D8%A8%D8%BA%D9%89%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%A7%D8%A8%D8%BA%D9%89%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%A7%D8%A8%D8%BA%D9%89%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%A7%D8%A8%D8%BA%D9%89%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%A7%D8%A8%D8%BA%D9%89%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%A7%D8%A8%D8%BA%D9%89%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%A7%D8%A8%D8%BA%D9%89%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%A7%D8%A8%D8%BA%D9%89%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%A7%D8%A8%D8%BA%D9%89%20%D8%A7%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "تكفون ساعدوني حسابي",
    "type": "لهجة",
    "links": {
-    "24": "https://x.com/search?q=%D8%AA%D9%83%D9%81%D9%88%D9%86%20%D8%B3%D8%A7%D8%B9%D8%AF%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%AA%D9%83%D9%81%D9%88%D9%86%20%D8%B3%D8%A7%D8%B9%D8%AF%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%AA%D9%83%D9%81%D9%88%D9%86%20%D8%B3%D8%A7%D8%B9%D8%AF%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%AA%D9%83%D9%81%D9%88%D9%86%20%D8%B3%D8%A7%D8%B9%D8%AF%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%AA%D9%83%D9%81%D9%88%D9%86%20%D8%B3%D8%A7%D8%B9%D8%AF%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%AA%D9%83%D9%81%D9%88%D9%86%20%D8%B3%D8%A7%D8%B9%D8%AF%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%AA%D9%83%D9%81%D9%88%D9%86%20%D8%B3%D8%A7%D8%B9%D8%AF%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%AA%D9%83%D9%81%D9%88%D9%86%20%D8%B3%D8%A7%D8%B9%D8%AF%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%AA%D9%83%D9%81%D9%88%D9%86%20%D8%B3%D8%A7%D8%B9%D8%AF%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%AA%D9%83%D9%81%D9%88%D9%86%20%D8%B3%D8%A7%D8%B9%D8%AF%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "وش الحل حسابي مقفل",
    "type": "لهجة",
    "links": {
-    "24": "https://x.com/search?q=%D9%88%D8%B4%20%D8%A7%D9%84%D8%AD%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%88%D8%B4%20%D8%A7%D9%84%D8%AD%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%88%D8%B4%20%D8%A7%D9%84%D8%AD%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%88%D8%B4%20%D8%A7%D9%84%D8%AD%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%88%D8%B4%20%D8%A7%D9%84%D8%AD%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%88%D8%B4%20%D8%A7%D9%84%D8%AD%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%88%D8%B4%20%D8%A7%D9%84%D8%AD%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%88%D8%B4%20%D8%A7%D9%84%D8%AD%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%88%D8%B4%20%D8%A7%D9%84%D8%AD%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%88%D8%B4%20%D8%A7%D9%84%D8%AD%D9%84%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D9%82%D9%81%D9%84%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "الحقوني حسابي انسرق",
    "type": "لهجة",
    "links": {
-    "24": "https://x.com/search?q=%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%86%D9%8A%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A7%D9%86%D8%B3%D8%B1%D9%82%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "احد يعرف كيف ارجع حسابي",
    "type": "لهجة",
    "links": {
-    "24": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D9%83%D9%8A%D9%81%20%D8%A7%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D9%83%D9%8A%D9%81%20%D8%A7%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D9%83%D9%8A%D9%81%20%D8%A7%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D9%83%D9%8A%D9%81%20%D8%A7%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D9%83%D9%8A%D9%81%20%D8%A7%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D9%83%D9%8A%D9%81%20%D8%A7%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D9%83%D9%8A%D9%81%20%D8%A7%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D9%83%D9%8A%D9%81%20%D8%A7%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D9%83%D9%8A%D9%81%20%D8%A7%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D9%83%D9%8A%D9%81%20%D8%A7%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "حسابي ماراح اقدر ادخله",
    "type": "لهجة",
    "links": {
-    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%A7%D8%B1%D8%A7%D8%AD%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%D9%87%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%A7%D8%B1%D8%A7%D8%AD%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%D9%87%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%A7%D8%B1%D8%A7%D8%AD%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%D9%87%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%A7%D8%B1%D8%A7%D8%AD%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%D9%87%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%A7%D8%B1%D8%A7%D8%AD%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%D9%87%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%A7%D8%B1%D8%A7%D8%AD%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%D9%87%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%A7%D8%B1%D8%A7%D8%AD%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%D9%87%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%A7%D8%B1%D8%A7%D8%AD%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%D9%87%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%A7%D8%B1%D8%A7%D8%AD%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%D9%87%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D9%85%D8%A7%D8%B1%D8%A7%D8%AD%20%D8%A7%D9%82%D8%AF%D8%B1%20%D8%A7%D8%AF%D8%AE%D9%84%D9%87%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "محتاج مساعدة بخصوص حسابي",
    "type": "لهجة",
    "links": {
-    "24": "https://x.com/search?q=%D9%85%D8%AD%D8%AA%D8%A7%D8%AC%20%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9%20%D8%A8%D8%AE%D8%B5%D9%88%D8%B5%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%85%D8%AD%D8%AA%D8%A7%D8%AC%20%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9%20%D8%A8%D8%AE%D8%B5%D9%88%D8%B5%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%85%D8%AD%D8%AA%D8%A7%D8%AC%20%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9%20%D8%A8%D8%AE%D8%B5%D9%88%D8%B5%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%85%D8%AD%D8%AA%D8%A7%D8%AC%20%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9%20%D8%A8%D8%AE%D8%B5%D9%88%D8%B5%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%85%D8%AD%D8%AA%D8%A7%D8%AC%20%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9%20%D8%A8%D8%AE%D8%B5%D9%88%D8%B5%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%85%D8%AD%D8%AA%D8%A7%D8%AC%20%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9%20%D8%A8%D8%AE%D8%B5%D9%88%D8%B5%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%85%D8%AD%D8%AA%D8%A7%D8%AC%20%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9%20%D8%A8%D8%AE%D8%B5%D9%88%D8%B5%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%85%D8%AD%D8%AA%D8%A7%D8%AC%20%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9%20%D8%A8%D8%AE%D8%B5%D9%88%D8%B5%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%85%D8%AD%D8%AA%D8%A7%D8%AC%20%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9%20%D8%A8%D8%AE%D8%B5%D9%88%D8%B5%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%85%D8%AD%D8%AA%D8%A7%D8%AC%20%D9%85%D8%B3%D8%A7%D8%B9%D8%AF%D8%A9%20%D8%A8%D8%AE%D8%B5%D9%88%D8%B5%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "ضايع حسابي",
    "type": "لهجة",
    "links": {
-    "24": "https://x.com/search?q=%D8%B6%D8%A7%D9%8A%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%B6%D8%A7%D9%8A%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%B6%D8%A7%D9%8A%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%B6%D8%A7%D9%8A%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%B6%D8%A7%D9%8A%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%B6%D8%A7%D9%8A%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%B6%D8%A7%D9%8A%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%B6%D8%A7%D9%8A%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%B6%D8%A7%D9%8A%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%B6%D8%A7%D9%8A%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "علّقوا حسابي ظلم",
    "type": "لهجة",
    "links": {
-    "24": "https://x.com/search?q=%D8%B9%D9%84%D9%91%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%B8%D9%84%D9%85%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%B9%D9%84%D9%91%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%B8%D9%84%D9%85%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%B9%D9%84%D9%91%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%B8%D9%84%D9%85%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%B9%D9%84%D9%91%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%B8%D9%84%D9%85%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%B9%D9%84%D9%91%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%B8%D9%84%D9%85%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%B9%D9%84%D9%91%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%B8%D9%84%D9%85%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%B9%D9%84%D9%91%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%B8%D9%84%D9%85%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%B9%D9%84%D9%91%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%B8%D9%84%D9%85%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%B9%D9%84%D9%91%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%B8%D9%84%D9%85%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%B9%D9%84%D9%91%D9%82%D9%88%D8%A7%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%B8%D9%84%D9%85%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "حسابي بالايقاف",
    "type": "لهجة",
    "links": {
-    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A8%D8%A7%D9%84%D8%A7%D9%8A%D9%82%D8%A7%D9%81%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A8%D8%A7%D9%84%D8%A7%D9%8A%D9%82%D8%A7%D9%81%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A8%D8%A7%D9%84%D8%A7%D9%8A%D9%82%D8%A7%D9%81%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A8%D8%A7%D9%84%D8%A7%D9%8A%D9%82%D8%A7%D9%81%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A8%D8%A7%D9%84%D8%A7%D9%8A%D9%82%D8%A7%D9%81%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A8%D8%A7%D9%84%D8%A7%D9%8A%D9%82%D8%A7%D9%81%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A8%D8%A7%D9%84%D8%A7%D9%8A%D9%82%D8%A7%D9%81%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A8%D8%A7%D9%84%D8%A7%D9%8A%D9%82%D8%A7%D9%81%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A8%D8%A7%D9%84%D8%A7%D9%8A%D9%82%D8%A7%D9%81%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20%D8%A8%D8%A7%D9%84%D8%A7%D9%8A%D9%82%D8%A7%D9%81%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "موقعي مخترق",
    "type": "لهجة",
    "links": {
-    "24": "https://x.com/search?q=%D9%85%D9%88%D9%82%D8%B9%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%85%D9%88%D9%82%D8%B9%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%85%D9%88%D9%82%D8%B9%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%85%D9%88%D9%82%D8%B9%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%85%D9%88%D9%82%D8%B9%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%85%D9%88%D9%82%D8%B9%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%85%D9%88%D9%82%D8%B9%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%85%D9%88%D9%82%D8%B9%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%85%D9%88%D9%82%D8%B9%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%85%D9%88%D9%82%D8%B9%D9%8A%20%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "متجري تهكر",
    "type": "لهجة",
    "links": {
-    "24": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%85%D8%AA%D8%AC%D8%B1%D9%8A%20%D8%AA%D9%87%D9%83%D8%B1%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "#حسابي_مسروق",
    "type": "هاشتاق",
    "links": {
-    "24": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%B3%D8%B1%D9%88%D9%82%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "#تم_اختراق_حسابي",
    "type": "هاشتاق",
    "links": {
-    "24": "https://x.com/search?q=%23%D8%AA%D9%85_%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%23%D8%AA%D9%85_%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%23%D8%AA%D9%85_%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%23%D8%AA%D9%85_%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%23%D8%AA%D9%85_%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%23%D8%AA%D9%85_%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%23%D8%AA%D9%85_%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%23%D8%AA%D9%85_%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%23%D8%AA%D9%85_%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%23%D8%AA%D9%85_%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "#اختراق_حسابي",
    "type": "هاشتاق",
    "links": {
-    "24": "https://x.com/search?q=%23%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%23%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%23%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%23%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%23%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%23%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%23%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%23%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%23%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%23%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D9%82_%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "#حسابي_مخترق",
    "type": "هاشتاق",
    "links": {
-    "24": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D8%AE%D8%AA%D8%B1%D9%82%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "#ابتزاز_الكتروني",
    "type": "هاشتاق",
    "links": {
-    "24": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2_%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2_%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2_%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2_%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2_%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2_%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2_%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2_%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2_%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2_%D8%A7%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "#ابتزاز",
    "type": "هاشتاق",
    "links": {
-    "24": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%23%D8%A7%D8%A8%D8%AA%D8%B2%D8%A7%D8%B2%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "#فك_باند",
    "type": "هاشتاق",
    "links": {
-    "24": "https://x.com/search?q=%23%D9%81%D9%83_%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%23%D9%81%D9%83_%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%23%D9%81%D9%83_%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%23%D9%81%D9%83_%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%23%D9%81%D9%83_%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%23%D9%81%D9%83_%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%23%D9%81%D9%83_%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%23%D9%81%D9%83_%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%23%D9%81%D9%83_%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%23%D9%81%D9%83_%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "#سناب_مقفل",
    "type": "هاشتاق",
    "links": {
-    "24": "https://x.com/search?q=%23%D8%B3%D9%86%D8%A7%D8%A8_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%23%D8%B3%D9%86%D8%A7%D8%A8_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%23%D8%B3%D9%86%D8%A7%D8%A8_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%23%D8%B3%D9%86%D8%A7%D8%A8_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%23%D8%B3%D9%86%D8%A7%D8%A8_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%23%D8%B3%D9%86%D8%A7%D8%A8_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%23%D8%B3%D9%86%D8%A7%D8%A8_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%23%D8%B3%D9%86%D8%A7%D8%A8_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%23%D8%B3%D9%86%D8%A7%D8%A8_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%23%D8%B3%D9%86%D8%A7%D8%A8_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "#حسابي_موقوف",
    "type": "هاشتاق",
    "links": {
-    "24": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%23%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "#انستقرام_مقفل",
    "type": "هاشتاق",
    "links": {
-    "24": "https://x.com/search?q=%23%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%23%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%23%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%23%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%23%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%23%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%23%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%23%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%23%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%23%D8%A7%D9%86%D8%B3%D8%AA%D9%82%D8%B1%D8%A7%D9%85_%D9%85%D9%82%D9%81%D9%84%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "#تيك_توك_موقوف",
    "type": "هاشتاق",
    "links": {
-    "24": "https://x.com/search?q=%23%D8%AA%D9%8A%D9%83_%D8%AA%D9%88%D9%83_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%23%D8%AA%D9%8A%D9%83_%D8%AA%D9%88%D9%83_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%23%D8%AA%D9%8A%D9%83_%D8%AA%D9%88%D9%83_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%23%D8%AA%D9%8A%D9%83_%D8%AA%D9%88%D9%83_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%23%D8%AA%D9%8A%D9%83_%D8%AA%D9%88%D9%83_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%23%D8%AA%D9%8A%D9%83_%D8%AA%D9%88%D9%83_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%23%D8%AA%D9%8A%D9%83_%D8%AA%D9%88%D9%83_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%23%D8%AA%D9%8A%D9%83_%D8%AA%D9%88%D9%83_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%23%D8%AA%D9%8A%D9%83_%D8%AA%D9%88%D9%83_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%23%D8%AA%D9%8A%D9%83_%D8%AA%D9%88%D9%83_%D9%85%D9%88%D9%82%D9%88%D9%81%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "#تهكير",
    "type": "هاشتاق",
    "links": {
-    "24": "https://x.com/search?q=%23%D8%AA%D9%87%D9%83%D9%8A%D8%B1%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%23%D8%AA%D9%87%D9%83%D9%8A%D8%B1%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%23%D8%AA%D9%87%D9%83%D9%8A%D8%B1%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%23%D8%AA%D9%87%D9%83%D9%8A%D8%B1%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%23%D8%AA%D9%87%D9%83%D9%8A%D8%B1%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%23%D8%AA%D9%87%D9%83%D9%8A%D8%B1%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%23%D8%AA%D9%87%D9%83%D9%8A%D8%B1%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%23%D8%AA%D9%87%D9%83%D9%8A%D8%B1%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%23%D8%AA%D9%87%D9%83%D9%8A%D8%B1%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%23%D8%AA%D9%87%D9%83%D9%8A%D8%B1%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "احد يعرف شخص يرجع حساب",
    "type": "نية شراء",
    "links": {
-    "24": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B9%D8%B1%D9%81%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "مين يرجع حساب",
    "type": "نية شراء",
    "links": {
-    "24": "https://x.com/search?q=%D9%85%D9%8A%D9%86%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%85%D9%8A%D9%86%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%85%D9%8A%D9%86%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%85%D9%8A%D9%86%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%85%D9%8A%D9%86%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%85%D9%8A%D9%86%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%85%D9%8A%D9%86%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%85%D9%8A%D9%86%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%85%D9%8A%D9%86%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%85%D9%8A%D9%86%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "ابي شخص يرجع حسابي",
    "type": "نية شراء",
    "links": {
-    "24": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "في احد يسترجع حسابات",
    "type": "نية شراء",
    "links": {
-    "24": "https://x.com/search?q=%D9%81%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%81%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%81%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%81%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%81%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%81%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%81%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%81%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%81%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%81%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D8%A7%D8%AA%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "احد يفك باند",
    "type": "نية شراء",
    "links": {
-    "24": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%81%D9%83%20%D8%A8%D8%A7%D9%86%D8%AF%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "من يقدر يرجع حسابي",
    "type": "نية شراء",
    "links": {
-    "24": "https://x.com/search?q=%D9%85%D9%86%20%D9%8A%D9%82%D8%AF%D8%B1%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D9%85%D9%86%20%D9%8A%D9%82%D8%AF%D8%B1%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D9%85%D9%86%20%D9%8A%D9%82%D8%AF%D8%B1%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D9%85%D9%86%20%D9%8A%D9%82%D8%AF%D8%B1%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D9%85%D9%86%20%D9%8A%D9%82%D8%AF%D8%B1%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D9%85%D9%86%20%D9%8A%D9%82%D8%AF%D8%B1%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D9%85%D9%86%20%D9%8A%D9%82%D8%AF%D8%B1%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D9%85%D9%86%20%D9%8A%D9%82%D8%AF%D8%B1%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D9%85%D9%86%20%D9%8A%D9%82%D8%AF%D8%B1%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D9%85%D9%86%20%D9%8A%D9%82%D8%AF%D8%B1%20%D9%8A%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%D9%8A%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "ابي احد يهكر حساب",
    "type": "نية شراء",
    "links": {
-    "24": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%87%D9%83%D8%B1%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%87%D9%83%D8%B1%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%87%D9%83%D8%B1%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%87%D9%83%D8%B1%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%87%D9%83%D8%B1%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%87%D9%83%D8%B1%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%87%D9%83%D8%B1%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%87%D9%83%D8%B1%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%87%D9%83%D8%B1%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%A7%D8%A8%D9%8A%20%D8%A7%D8%AD%D8%AF%20%D9%8A%D9%87%D9%83%D8%B1%20%D8%AD%D8%B3%D8%A7%D8%A8%20since%3A2026-10-14&f=live"
    }
   },
   {
    "term": "شخص يسترجع حساب سناب",
    "type": "نية شراء",
    "links": {
-    "24": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-11-11&f=live",
-    "48": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-11-10&f=live",
-    "72": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-11-09&f=live",
-    "168": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-11-05&f=live",
-    "720": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-10-13&f=live"
+    "24": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-11-12&f=live",
+    "48": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-11-11&f=live",
+    "72": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-11-10&f=live",
+    "168": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-11-06&f=live",
+    "720": "https://x.com/search?q=%D8%B4%D8%AE%D8%B5%20%D9%8A%D8%B3%D8%AA%D8%B1%D8%AC%D8%B9%20%D8%AD%D8%B3%D8%A7%D8%A8%20%D8%B3%D9%86%D8%A7%D8%A8%20since%3A2026-10-14&f=live"
    }
   }
  ]
