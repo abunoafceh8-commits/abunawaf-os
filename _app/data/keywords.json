@@ -1,13 +1,13 @@
 {
  "meta": {
-  "generated_at": "2026-11-17T07:38:41",
+  "generated_at": "2026-11-24T09:34:20",
   "queries_used": 714,
   "engines": [
    "Google Suggest (hl=ar, gl=sa)",
    "Bing Suggest (market=ar-SA)"
   ],
   "seeds": 52,
-  "total_keywords": 858
+  "total_keywords": 1242
  },
  "keywords": [
   {
@@ -25,6 +25,22 @@
    "difficulty": 19,
    "buyer_intent": 95,
    "opportunity": 88.7
+  },
+  {
+   "keyword": "استرجاع حساب فيسبوك بدون رقم الهاتف",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 10,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 96,
+   "difficulty": 8,
+   "buyer_intent": 85,
+   "opportunity": 88.2
   },
   {
    "keyword": "استرجاع حساب جمعية القلب السعودية",
@@ -59,6 +75,24 @@
    "opportunity": 87.8
   },
   {
+   "keyword": "تم اختراق حسابي وتغيير كلمة السر",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 4,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "اختراق حساب",
+    "تم اختراق حسابي"
+   ],
+   "popularity": 62,
+   "difficulty": 13,
+   "buyer_intent": 85,
+   "opportunity": 85.9
+  },
+  {
    "keyword": "حسابي موقوف في اكس وما اقدر اسوي حساب جديد الحل",
    "intent": "استعادة حساب",
    "google_hits": 4,
@@ -76,7 +110,57 @@
    "opportunity": 85.5
   },
   {
+   "keyword": "رابط استرجاع حساب فيسبوك معطل نهائيا",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 4,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 53,
+   "difficulty": 14,
+   "buyer_intent": 85,
+   "opportunity": 85.5
+  },
+  {
+   "keyword": "استعادة حساب بنك الرياض",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب"
+   ],
+   "popularity": 36,
+   "difficulty": 28,
+   "buyer_intent": 95,
+   "opportunity": 84.7
+  },
+  {
    "keyword": "تم اختراق حسابي الفيسبوك وتغيير كلمة السر",
+   "intent": "استعادة حساب",
+   "google_hits": 2,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 49,
+   "difficulty": 16,
+   "buyer_intent": 85,
+   "opportunity": 84.6
+  },
+  {
+   "keyword": "استرجاع حساب اي كلاود بدون رقم هاتف",
    "intent": "استعادة حساب",
    "google_hits": 2,
    "bing_hits": 0,
@@ -84,9 +168,43 @@
     "google"
    ],
    "seeds": [
-    "تم اختراق حسابي"
+    "استرجاع حساب",
+    "استرجاع حساب اي كلاود"
    ],
    "popularity": 42,
+   "difficulty": 17,
+   "buyer_intent": 85,
+   "opportunity": 84.1
+  },
+  {
+   "keyword": "تم اختراق حسابي وتغيير كلمة السر ورقم الهاتف",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 40,
+   "difficulty": 17,
+   "buyer_intent": 85,
+   "opportunity": 84.1
+  },
+  {
+   "keyword": "استرجاع حساب هوتميل بدون رقم هاتف",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 38,
    "difficulty": 17,
    "buyer_intent": 85,
    "opportunity": 84.1
@@ -108,37 +226,40 @@
    "opportunity": 83.8
   },
   {
-   "keyword": "استعادة حساب بنك الرياض",
+   "keyword": "استرجاع حساب فيسبوك معطل",
    "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
+   "google_hits": 0,
+   "bing_hits": 30,
    "engines": [
-    "google"
+    "bing"
    ],
    "seeds": [
-    "استعادة حساب"
+    "استرجاع حساب انستقرام",
+    "استرجاع حساب تلجرام",
+    "استرجاع حساب تويتر",
+    "استرجاع حساب فيس بوك"
    ],
-   "popularity": 29,
-   "difficulty": 30,
-   "buyer_intent": 95,
-   "opportunity": 83.8
+   "popularity": 100,
+   "difficulty": 19,
+   "buyer_intent": 85,
+   "opportunity": 83.2
   },
   {
-   "keyword": "حسابي موقوف في حساب المواطن",
+   "keyword": "تم اختراق حسابي الفيسبوك",
    "intent": "استعادة حساب",
-   "google_hits": 4,
-   "bing_hits": 0,
+   "google_hits": 0,
+   "bing_hits": 11,
    "engines": [
-    "google"
+    "bing"
    ],
    "seeds": [
-    "حسابي موقوف",
-    "حسابي موقوف في حساب المواطن"
+    "اختراق حساب",
+    "تم اختراق حسابي"
    ],
-   "popularity": 58,
-   "difficulty": 18,
+   "popularity": 99,
+   "difficulty": 19,
    "buyer_intent": 85,
-   "opportunity": 83.7
+   "opportunity": 83.2
   },
   {
    "keyword": "استرجاع حساب تليجرام بعد ضياع رقم الهاتف",
@@ -157,38 +278,6 @@
    "opportunity": 83.2
   },
   {
-   "keyword": "تم اختراق حسابي وتغيير كلمة السر",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "تم اختراق حسابي"
-   ],
-   "popularity": 33,
-   "difficulty": 19,
-   "buyer_intent": 85,
-   "opportunity": 83.2
-  },
-  {
-   "keyword": "تم اختراق حسابي وتغيير كلمة السر ورقم الهاتف",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "تم اختراق حسابي"
-   ],
-   "popularity": 33,
-   "difficulty": 19,
-   "buyer_intent": 85,
-   "opportunity": 83.2
-  },
-  {
    "keyword": "تم اختراق حسابي فيسبوك وتغيير كلمة السر ورقم الهاتف",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -198,22 +287,6 @@
    ],
    "seeds": [
     "تم اختراق حسابي"
-   ],
-   "popularity": 33,
-   "difficulty": 19,
-   "buyer_intent": 85,
-   "opportunity": 83.2
-  },
-  {
-   "keyword": "استرجاع حساب اي كلاود بدون رقم هاتف",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب"
    ],
    "popularity": 33,
    "difficulty": 19,
@@ -493,6 +566,166 @@
    "opportunity": 83.2
   },
   {
+   "keyword": "استرجاع حساب ياهو بدون رقم الهاتف",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب ياهو"
+   ],
+   "popularity": 33,
+   "difficulty": 19,
+   "buyer_intent": 85,
+   "opportunity": 83.2
+  },
+  {
+   "keyword": "استرجاع حساب ياهو عن طريق سؤال الأمان",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب ياهو"
+   ],
+   "popularity": 33,
+   "difficulty": 19,
+   "buyer_intent": 85,
+   "opportunity": 83.2
+  },
+  {
+   "keyword": "استرجاع حساب ياهو عن طريق رقم الهاتف",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب ياهو"
+   ],
+   "popularity": 33,
+   "difficulty": 19,
+   "buyer_intent": 85,
+   "opportunity": 83.2
+  },
+  {
+   "keyword": "استرجاع حساب ياهو معطل بسبب عدم النشاط",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب ياهو"
+   ],
+   "popularity": 33,
+   "difficulty": 19,
+   "buyer_intent": 85,
+   "opportunity": 83.2
+  },
+  {
+   "keyword": "استرجاع حسابي على فيسبوك تم تعطيله",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حسابي على فيسبوك"
+   ],
+   "popularity": 33,
+   "difficulty": 19,
+   "buyer_intent": 85,
+   "opportunity": 83.2
+  },
+  {
+   "keyword": "استرجاع حسابي على فيسبوك عن طريق الاسم",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حسابي على فيسبوك"
+   ],
+   "popularity": 33,
+   "difficulty": 19,
+   "buyer_intent": 85,
+   "opportunity": 83.2
+  },
+  {
+   "keyword": "استرجاع حسابي على فيسبوك برقم الهاتف",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حسابي على فيسبوك"
+   ],
+   "popularity": 33,
+   "difficulty": 19,
+   "buyer_intent": 85,
+   "opportunity": 83.2
+  },
+  {
+   "keyword": "استرجاع حسابي على فيسبوك بدون رقم الهاتف",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حسابي على فيسبوك"
+   ],
+   "popularity": 33,
+   "difficulty": 19,
+   "buyer_intent": 85,
+   "opportunity": 83.2
+  },
+  {
+   "keyword": "استرجاع حساب اي كلاود برقم الهاتف",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب اي كلاود"
+   ],
+   "popularity": 33,
+   "difficulty": 19,
+   "buyer_intent": 85,
+   "opportunity": 83.2
+  },
+  {
+   "keyword": "استرجاع حساب اي كلاود رقم هاتف",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب اي كلاود"
+   ],
+   "popularity": 33,
+   "difficulty": 19,
+   "buyer_intent": 85,
+   "opportunity": 83.2
+  },
+  {
    "keyword": "استعادة حساب ابل عن طريق الايميل",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -557,6 +790,137 @@
    "opportunity": 83.2
   },
   {
+   "keyword": "استعادة حساب اي كلاود برقم الجوال",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب اي كلاود"
+   ],
+   "popularity": 33,
+   "difficulty": 19,
+   "buyer_intent": 85,
+   "opportunity": 83.2
+  },
+  {
+   "keyword": "استعادة حساب اي كلاود عن طريق الايميل",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب اي كلاود"
+   ],
+   "popularity": 33,
+   "difficulty": 19,
+   "buyer_intent": 85,
+   "opportunity": 83.2
+  },
+  {
+   "keyword": "استعادة حسابي على فيسبوك اذا لم تتمكن من تسجيل الدخول",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حسابي على فيسبوك"
+   ],
+   "popularity": 33,
+   "difficulty": 19,
+   "buyer_intent": 85,
+   "opportunity": 83.2
+  },
+  {
+   "keyword": "هل يمكنني استعادة حسابي على فيسبوك بالاسم",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حسابي على فيسبوك"
+   ],
+   "popularity": 33,
+   "difficulty": 19,
+   "buyer_intent": 85,
+   "opportunity": 83.2
+  },
+  {
+   "keyword": "خطوات استعادة حساب منصة مدرستي من توكلنا",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب منصة مدرستي"
+   ],
+   "popularity": 33,
+   "difficulty": 19,
+   "buyer_intent": 85,
+   "opportunity": 83.2
+  },
+  {
+   "keyword": "استعادة حساب طالب في منصة مدرستي",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب منصة مدرستي"
+   ],
+   "popularity": 33,
+   "difficulty": 19,
+   "buyer_intent": 85,
+   "opportunity": 83.2
+  },
+  {
+   "keyword": "استرجاع حساب فيسبوك معطل 180 يوم",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 31,
+   "difficulty": 19,
+   "buyer_intent": 85,
+   "opportunity": 83.2
+  },
+  {
+   "keyword": "استعادة حساب منصة مدرستي",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 7,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب",
+    "استعادة حساب مسروق",
+    "استعادة حساب منصة مدرستي"
+   ],
+   "popularity": 79,
+   "difficulty": 20,
+   "buyer_intent": 85,
+   "opportunity": 82.8
+  },
+  {
    "keyword": "حسابي موقوف في بنك الراجحي",
    "intent": "استعادة حساب",
    "google_hits": 3,
@@ -591,6 +955,58 @@
    "opportunity": 82.8
   },
   {
+   "keyword": "حسابي موقوف في حساب المواطن",
+   "intent": "استعادة حساب",
+   "google_hits": 3,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "حسابي موقوف"
+   ],
+   "popularity": 49,
+   "difficulty": 20,
+   "buyer_intent": 85,
+   "opportunity": 82.8
+  },
+  {
+   "keyword": "استرجاع حسابي على فيسبوك",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 6,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب تلجرام",
+    "استرجاع حساب فيس بوك",
+    "استرجاع حسابي على فيسبوك"
+   ],
+   "popularity": 72,
+   "difficulty": 21,
+   "buyer_intent": 85,
+   "opportunity": 82.3
+  },
+  {
+   "keyword": "استرجاع حساب فيسبوك مسروق",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 7,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 70,
+   "difficulty": 21,
+   "buyer_intent": 85,
+   "opportunity": 82.3
+  },
+  {
    "keyword": "استعادة حساب ابل برقم الجوال",
    "intent": "استعادة حساب",
    "google_hits": 2,
@@ -603,6 +1019,40 @@
     "استعادة حساب ابل"
    ],
    "popularity": 40,
+   "difficulty": 21,
+   "buyer_intent": 85,
+   "opportunity": 82.3
+  },
+  {
+   "keyword": "استعادة حساب فيسبوك معطل نهائيا",
+   "intent": "استعادة حساب",
+   "google_hits": 2,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب فيس بوك معطل",
+    "استعادة حساب فيسبوك"
+   ],
+   "popularity": 40,
+   "difficulty": 21,
+   "buyer_intent": 85,
+   "opportunity": 82.3
+  },
+  {
+   "keyword": "استرجاع حساب فيسبوك تم اختراقه",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك",
+    "تم اختراق حسابي"
+   ],
+   "popularity": 36,
    "difficulty": 21,
    "buyer_intent": 85,
    "opportunity": 82.3
@@ -912,7 +1362,7 @@
    "opportunity": 81.4
   },
   {
-   "keyword": "استعادة حساب فيسبوك تم تعطيله",
+   "keyword": "استرجاع حساب انستا معطل نهائيا",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -920,7 +1370,7 @@
     "google"
    ],
    "seeds": [
-    "استعادة حساب فيسبوك"
+    "استرجاع حساب انستا"
    ],
    "popularity": 31,
    "difficulty": 23,
@@ -928,7 +1378,199 @@
    "opportunity": 81.4
   },
   {
-   "keyword": "استعادة حساب فيسبوك معطل نهائيا",
+   "keyword": "استرجاع حساب انستا مبند نهائي",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب انستا"
+   ],
+   "popularity": 31,
+   "difficulty": 23,
+   "buyer_intent": 85,
+   "opportunity": 81.4
+  },
+  {
+   "keyword": "استرجاع حساب ياهو غير نشط",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب ياهو"
+   ],
+   "popularity": 31,
+   "difficulty": 23,
+   "buyer_intent": 85,
+   "opportunity": 81.4
+  },
+  {
+   "keyword": "استرجاع حساب ياهو تم تعطيله",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب ياهو"
+   ],
+   "popularity": 31,
+   "difficulty": 23,
+   "buyer_intent": 85,
+   "opportunity": 81.4
+  },
+  {
+   "keyword": "استرجاع حسابي على فيسبوك معطل",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حسابي على فيسبوك"
+   ],
+   "popularity": 31,
+   "difficulty": 23,
+   "buyer_intent": 85,
+   "opportunity": 81.4
+  },
+  {
+   "keyword": "استرجاع حسابي على فيسبوك مخترق",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حسابي على فيسبوك"
+   ],
+   "popularity": 31,
+   "difficulty": 23,
+   "buyer_intent": 85,
+   "opportunity": 81.4
+  },
+  {
+   "keyword": "استرجاع حسابي على فيسبوك المعطل",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حسابي على فيسبوك"
+   ],
+   "popularity": 31,
+   "difficulty": 23,
+   "buyer_intent": 85,
+   "opportunity": 81.4
+  },
+  {
+   "keyword": "استرجاع حسابي على فيسبوك لايت",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حسابي على فيسبوك"
+   ],
+   "popularity": 31,
+   "difficulty": 23,
+   "buyer_intent": 85,
+   "opportunity": 81.4
+  },
+  {
+   "keyword": "استرجاع حسابي على فيسبوك مسروق",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حسابي على فيسبوك"
+   ],
+   "popularity": 31,
+   "difficulty": 23,
+   "buyer_intent": 85,
+   "opportunity": 81.4
+  },
+  {
+   "keyword": "استرجاع حساب اي كلاود مقفل",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب اي كلاود"
+   ],
+   "popularity": 31,
+   "difficulty": 23,
+   "buyer_intent": 85,
+   "opportunity": 81.4
+  },
+  {
+   "keyword": "استرجاع حساب اي كلاود محذوف",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب اي كلاود"
+   ],
+   "popularity": 31,
+   "difficulty": 23,
+   "buyer_intent": 85,
+   "opportunity": 81.4
+  },
+  {
+   "keyword": "استرجاع حساب اي كلاود بالايميل",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب اي كلاود"
+   ],
+   "popularity": 31,
+   "difficulty": 23,
+   "buyer_intent": 85,
+   "opportunity": 81.4
+  },
+  {
+   "keyword": "استرجاع حساب اي كلاود قديم",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب اي كلاود"
+   ],
+   "popularity": 31,
+   "difficulty": 23,
+   "buyer_intent": 85,
+   "opportunity": 81.4
+  },
+  {
+   "keyword": "استعادة حساب فيسبوك تم تعطيله",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -960,6 +1602,86 @@
    "opportunity": 81.4
   },
   {
+   "keyword": "اريد استعادة حسابي على فيسبوك",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حسابي على فيسبوك"
+   ],
+   "popularity": 31,
+   "difficulty": 23,
+   "buyer_intent": 85,
+   "opportunity": 81.4
+  },
+  {
+   "keyword": "استعادة حسابي المعطل على فيسبوك",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حسابي على فيسبوك"
+   ],
+   "popularity": 31,
+   "difficulty": 23,
+   "buyer_intent": 85,
+   "opportunity": 81.4
+  },
+  {
+   "keyword": "طريقة استعادة حسابي على فيسبوك",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حسابي على فيسبوك"
+   ],
+   "popularity": 31,
+   "difficulty": 23,
+   "buyer_intent": 85,
+   "opportunity": 81.4
+  },
+  {
+   "keyword": "استعادة حساب فيسبوك معطل انتهاك",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب فيس بوك معطل"
+   ],
+   "popularity": 31,
+   "difficulty": 23,
+   "buyer_intent": 85,
+   "opportunity": 81.4
+  },
+  {
+   "keyword": "استعادة حساب تليجرام محذوف",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 5,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 56,
+   "difficulty": 24,
+   "buyer_intent": 85,
+   "opportunity": 81.0
+  },
+  {
    "keyword": "حسابي موقوف بسبب المخالفات",
    "intent": "استعادة حساب",
    "google_hits": 4,
@@ -972,6 +1694,60 @@
     "حسابي موقوف بسبب المخالفات"
    ],
    "popularity": 56,
+   "difficulty": 25,
+   "buyer_intent": 85,
+   "opportunity": 80.5
+  },
+  {
+   "keyword": "استعادة حسابي على فيسبوك",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 3,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب",
+    "استعادة حساب مسروق",
+    "استعادة حسابي على فيسبوك"
+   ],
+   "popularity": 51,
+   "difficulty": 25,
+   "buyer_intent": 85,
+   "opportunity": 80.5
+  },
+  {
+   "keyword": "استرجاع حساب ابل مقفل",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 3,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 51,
+   "difficulty": 25,
+   "buyer_intent": 85,
+   "opportunity": 80.5
+  },
+  {
+   "keyword": "لقد تم اختراق حسابي",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 4,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "اختراق حساب",
+    "تم اختراق حسابي"
+   ],
+   "popularity": 49,
    "difficulty": 25,
    "buyer_intent": 85,
    "opportunity": 80.5
@@ -1028,6 +1804,23 @@
    "opportunity": 79.2
   },
   {
+   "keyword": "استرجاع حساب انستا معطل",
+   "intent": "استعادة حساب",
+   "google_hits": 2,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب انستا"
+   ],
+   "popularity": 38,
+   "difficulty": 28,
+   "buyer_intent": 85,
+   "opportunity": 79.2
+  },
+  {
    "keyword": "استعادة حساب قوقل مقفل",
    "intent": "استعادة حساب",
    "google_hits": 2,
@@ -1060,6 +1853,148 @@
    "difficulty": 28,
    "buyer_intent": 85,
    "opportunity": 79.2
+  },
+  {
+   "keyword": "استرجاع حساب اي كلاود",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب اي كلاود"
+   ],
+   "popularity": 36,
+   "difficulty": 28,
+   "buyer_intent": 85,
+   "opportunity": 79.2
+  },
+  {
+   "keyword": "استعادة حساب اي كلاود",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب",
+    "استعادة حساب اي كلاود"
+   ],
+   "popularity": 36,
+   "difficulty": 28,
+   "buyer_intent": 85,
+   "opportunity": 79.2
+  },
+  {
+   "keyword": "فك حظر حساب المواطن",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "فك حظر"
+   ],
+   "popularity": 34,
+   "difficulty": 28,
+   "buyer_intent": 85,
+   "opportunity": 79.2
+  },
+  {
+   "keyword": "فيسبوك تم اختراق حسابي",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "اختراق حساب",
+    "تم اختراق حسابي"
+   ],
+   "popularity": 34,
+   "difficulty": 28,
+   "buyer_intent": 85,
+   "opportunity": 79.2
+  },
+  {
+   "keyword": "استرجاع حساب فيس بوك عن طريق الاسم",
+   "intent": "استعادة حساب",
+   "google_hits": 5,
+   "bing_hits": 9,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب فيس بوك",
+    "استرجاع حساب فيس بوك عن طريق الاسم"
+   ],
+   "popularity": 100,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
+  },
+  {
+   "keyword": "استرجاع حساب انستقرام عن طريق اسم المستخدم",
+   "intent": "استعادة حساب",
+   "google_hits": 2,
+   "bing_hits": 13,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب انستقرام",
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 100,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
+  },
+  {
+   "keyword": "نموذج استرجاع حساب فيس بوك معطل",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 9,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 89,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
+  },
+  {
+   "keyword": "استرجاع حساب جوجل موقع اسامة شوارب",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 9,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام",
+    "استرجاع حساب تلجرام",
+    "استرجاع حساب تويتر",
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 89,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
   },
   {
    "keyword": "استرجاع حساب تلغرام مسروق",
@@ -1183,38 +2118,6 @@
    ],
    "seeds": [
     "ابتزاز الكتروني"
-   ],
-   "popularity": 29,
-   "difficulty": 30,
-   "buyer_intent": 85,
-   "opportunity": 78.2
-  },
-  {
-   "keyword": "استرجاع حساب ابل مقفل",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب"
-   ],
-   "popularity": 29,
-   "difficulty": 30,
-   "buyer_intent": 85,
-   "opportunity": 78.2
-  },
-  {
-   "keyword": "استرجاع حساب انستا معطل",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب"
    ],
    "popularity": 29,
    "difficulty": 30,
@@ -1478,22 +2381,6 @@
    "opportunity": 78.2
   },
   {
-   "keyword": "استرجاع حسابي قوقل مسروق",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "حسابي مسروق"
-   ],
-   "popularity": 29,
-   "difficulty": 30,
-   "buyer_intent": 85,
-   "opportunity": 78.2
-  },
-  {
    "keyword": "حسابي موقوف في الراجحي",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -1686,6 +2573,134 @@
    "opportunity": 78.2
   },
   {
+   "keyword": "استرجاع حساب انستا مسروق",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب انستا"
+   ],
+   "popularity": 29,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
+  },
+  {
+   "keyword": "استرجاع حساب انستا مبند",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب انستا"
+   ],
+   "popularity": 29,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
+  },
+  {
+   "keyword": "استرجاع حساب انستا محذوف",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب انستا"
+   ],
+   "popularity": 29,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
+  },
+  {
+   "keyword": "استرجاع حساب انستا قديم",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب انستا"
+   ],
+   "popularity": 29,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
+  },
+  {
+   "keyword": "استرجاع حساب انستا باى",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب انستا"
+   ],
+   "popularity": 29,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
+  },
+  {
+   "keyword": "استرجاع حساب ياهو المعطل",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب ياهو"
+   ],
+   "popularity": 29,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
+  },
+  {
+   "keyword": "استرجاع حساب ياهو قديم",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب ياهو"
+   ],
+   "popularity": 29,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
+  },
+  {
+   "keyword": "استرجاع حساب ياهو محذوف",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب ياهو"
+   ],
+   "popularity": 29,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
+  },
+  {
    "keyword": "استعادة حساب ابل ستور",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -1735,22 +2750,6 @@
   },
   {
    "keyword": "استعادة حساب ابل محذوف",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استعادة حساب ابل"
-   ],
-   "popularity": 29,
-   "difficulty": 30,
-   "buyer_intent": 85,
-   "opportunity": 78.2
-  },
-  {
-   "keyword": "استعادة حساب ابل الرسمي",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -1910,38 +2909,6 @@
    "opportunity": 78.2
   },
   {
-   "keyword": "طريقة استعادة حساب هوتميل",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استعادة حساب هوتميل"
-   ],
-   "popularity": 29,
-   "difficulty": 30,
-   "buyer_intent": 85,
-   "opportunity": 78.2
-  },
-  {
-   "keyword": "نموذج استعادة حساب هوتميل",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استعادة حساب هوتميل"
-   ],
-   "popularity": 29,
-   "difficulty": 30,
-   "buyer_intent": 85,
-   "opportunity": 78.2
-  },
-  {
    "keyword": "استرجاع حسابي مخترق فيسبوك",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -2006,6 +2973,169 @@
    "opportunity": 78.2
   },
   {
+   "keyword": "فك باند فورت نايت",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "فك باند"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
+  },
+  {
+   "keyword": "سبوفر فك باند هاردوير",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "فك باند"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
+  },
+  {
+   "keyword": "استرجاع حساب فيسبوك قديم",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
+  },
+  {
+   "keyword": "استرجاع حساب فيسبوك محذوف",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
+  },
+  {
+   "keyword": "تم اختراق حسابي هوتميل",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
+  },
+  {
+   "keyword": "تم اختراق حسابي انستجرام",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
+  },
+  {
+   "keyword": "ابتزاز فى السجل المدنى",
+   "intent": "ابتزاز وتهديد",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "ابتزاز"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 85,
+   "opportunity": 78.2
+  },
+  {
+   "keyword": "استرجاع حساب فيس بوك عن طريق الهوية",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 8,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 82,
+   "difficulty": 31,
+   "buyer_intent": 85,
+   "opportunity": 77.8
+  },
+  {
+   "keyword": "استرجاع حساب سناب شات عن طريق اسم المستخدم",
+   "intent": "استعادة حساب",
+   "google_hits": 6,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب سناب شات",
+    "استرجاع حساب سناب شات عن طريق اسم المستخدم"
+   ],
+   "popularity": 85,
+   "difficulty": 32,
+   "buyer_intent": 85,
+   "opportunity": 77.4
+  },
+  {
+   "keyword": "استرجاع حساب تيك توك بدون رقم هاتف",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 7,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 74,
+   "difficulty": 32,
+   "buyer_intent": 85,
+   "opportunity": 77.4
+  },
+  {
    "keyword": "حسابي مخترق قوقل",
    "intent": "استعادة حساب",
    "google_hits": 4,
@@ -2040,6 +3170,90 @@
    "opportunity": 77.4
   },
   {
+   "keyword": "استرجاع حساب روبلوكس",
+   "intent": "استعادة حساب",
+   "google_hits": 3,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب روبلوكس"
+   ],
+   "popularity": 52,
+   "difficulty": 32,
+   "buyer_intent": 85,
+   "opportunity": 77.4
+  },
+  {
+   "keyword": "استعادة حساب ابل",
+   "intent": "استعادة حساب",
+   "google_hits": 3,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب",
+    "استعادة حساب ابل"
+   ],
+   "popularity": 52,
+   "difficulty": 32,
+   "buyer_intent": 85,
+   "opportunity": 77.4
+  },
+  {
+   "keyword": "ابلاغ عن حساب فيسبوك تم اختراقه",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 9,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 89,
+   "difficulty": 8,
+   "buyer_intent": 65,
+   "opportunity": 77.2
+  },
+  {
+   "keyword": "الابلاغ عن حساب فيسبوك تم اختراقه",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 9,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 89,
+   "difficulty": 8,
+   "buyer_intent": 65,
+   "opportunity": 77.2
+  },
+  {
+   "keyword": "الإبلاغ عن حساب فيسبوك تم اختراقه",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 9,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 89,
+   "difficulty": 8,
+   "buyer_intent": 65,
+   "opportunity": 77.2
+  },
+  {
    "keyword": "استعادة حساب وزارة الصحة السعودية",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -2056,18 +3270,94 @@
    "opportunity": 77.0
   },
   {
-   "keyword": "استعادة حساب ابل",
+   "keyword": "طريقة استرجاع حساب فيس بوك",
    "intent": "استعادة حساب",
-   "google_hits": 3,
-   "bing_hits": 0,
+   "google_hits": 0,
+   "bing_hits": 16,
    "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام",
+    "استرجاع حساب تويتر",
+    "استرجاع حساب فيس بوك",
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 100,
+   "difficulty": 34,
+   "buyer_intent": 85,
+   "opportunity": 76.5
+  },
+  {
+   "keyword": "استعادة حساب فيس بوك معطل",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 9,
+   "engines": [
+    "bing",
     "google"
    ],
    "seeds": [
+    "استرجاع حساب فيس بوك",
     "استعادة حساب",
-    "استعادة حساب ابل"
+    "استعادة حساب فيس بوك معطل",
+    "استعادة حساب مسروق"
    ],
-   "popularity": 45,
+   "popularity": 96,
+   "difficulty": 34,
+   "buyer_intent": 85,
+   "opportunity": 76.5
+  },
+  {
+   "keyword": "تم اختراق حسابي فيس بوك",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 10,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 94,
+   "difficulty": 34,
+   "buyer_intent": 85,
+   "opportunity": 76.5
+  },
+  {
+   "keyword": "استرجاع حساب جوجل بدون رقم الهاتف",
+   "intent": "استعادة حساب",
+   "google_hits": 5,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب تويتر",
+    "استرجاع حساب جوجل",
+    "استرجاع حساب جوجل بدون رقم الهاتف"
+   ],
+   "popularity": 76,
+   "difficulty": 34,
+   "buyer_intent": 85,
+   "opportunity": 76.5
+  },
+  {
+   "keyword": "استرجاع حساب انستقرام عن طريق الدعم الفني",
+   "intent": "استعادة حساب",
+   "google_hits": 2,
+   "bing_hits": 4,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب انستقرام"
+   ],
+   "popularity": 71,
    "difficulty": 34,
    "buyer_intent": 85,
    "opportunity": 76.5
@@ -2124,113 +3414,63 @@
    "opportunity": 76.5
   },
   {
-   "keyword": "استرجاع حساب سناب شات عن طريق اسم المستخدم",
-   "intent": "استعادة حساب",
-   "google_hits": 5,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب",
-    "استرجاع حساب سناب شات",
-    "استرجاع حساب سناب شات عن طريق اسم المستخدم"
-   ],
-   "popularity": 69,
-   "difficulty": 35,
-   "buyer_intent": 85,
-   "opportunity": 76.0
-  },
-  {
-   "keyword": "استرجاع حساب سناب شات المقفل نهائي",
-   "intent": "استعادة حساب",
-   "google_hits": 5,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب سناب شات",
-    "استرجاع حساب سناب شات المقفل نهائي"
-   ],
-   "popularity": 69,
-   "difficulty": 35,
-   "buyer_intent": 85,
-   "opportunity": 76.0
-  },
-  {
-   "keyword": "استرجاع حساب روبلوكس",
+   "keyword": "استرجاع حساب انستا",
    "intent": "استعادة حساب",
    "google_hits": 2,
-   "bing_hits": 0,
+   "bing_hits": 1,
    "engines": [
+    "bing",
     "google"
    ],
    "seeds": [
     "استرجاع حساب",
-    "استرجاع حساب روبلوكس"
+    "استرجاع حساب انستا"
    ],
-   "popularity": 36,
-   "difficulty": 35,
+   "popularity": 43,
+   "difficulty": 34,
    "buyer_intent": 85,
-   "opportunity": 76.0
+   "opportunity": 76.5
   },
   {
    "keyword": "استعادة حساب فيسبوك",
    "intent": "استعادة حساب",
    "google_hits": 2,
-   "bing_hits": 0,
+   "bing_hits": 1,
    "engines": [
+    "bing",
     "google"
    ],
    "seeds": [
     "استعادة حساب",
     "استعادة حساب فيسبوك"
    ],
-   "popularity": 36,
-   "difficulty": 35,
+   "popularity": 43,
+   "difficulty": 34,
    "buyer_intent": 85,
-   "opportunity": 76.0
+   "opportunity": 76.5
   },
   {
-   "keyword": "استعادة حساب هوتميل",
+   "keyword": "تم اختراق حسابي",
    "intent": "استعادة حساب",
-   "google_hits": 2,
-   "bing_hits": 0,
+   "google_hits": 1,
+   "bing_hits": 2,
    "engines": [
+    "bing",
     "google"
    ],
    "seeds": [
-    "استعادة حساب",
-    "استعادة حساب هوتميل"
+    "اختراق حساب",
+    "تم اختراق حسابي"
    ],
-   "popularity": 36,
-   "difficulty": 35,
+   "popularity": 41,
+   "difficulty": 34,
    "buyer_intent": 85,
-   "opportunity": 76.0
-  },
-  {
-   "keyword": "استرجاع حساب جوجل بدون رقم الهاتف",
-   "intent": "استعادة حساب",
-   "google_hits": 4,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب",
-    "استرجاع حساب جوجل",
-    "استرجاع حساب جوجل بدون رقم الهاتف"
-   ],
-   "popularity": 60,
-   "difficulty": 36,
-   "buyer_intent": 85,
-   "opportunity": 75.6
+   "opportunity": 76.5
   },
   {
    "keyword": "استرجاع حساب تيك توك عن طريق الاسم",
    "intent": "استعادة حساب",
-   "google_hits": 4,
+   "google_hits": 5,
    "bing_hits": 0,
    "engines": [
     "google"
@@ -2240,15 +3480,15 @@
     "استرجاع حساب تيك توك",
     "استرجاع حساب تيك توك عن طريق الاسم"
    ],
-   "popularity": 60,
-   "difficulty": 36,
+   "popularity": 69,
+   "difficulty": 35,
    "buyer_intent": 85,
-   "opportunity": 75.6
+   "opportunity": 76.0
   },
   {
    "keyword": "استرجاع حساب تيك توك بدون رقم هاتف وايميل",
    "intent": "استعادة حساب",
-   "google_hits": 4,
+   "google_hits": 5,
    "bing_hits": 0,
    "engines": [
     "google"
@@ -2258,49 +3498,49 @@
     "استرجاع حساب تيك توك",
     "استرجاع حساب تيك توك بدون رقم هاتف وايميل"
    ],
-   "popularity": 60,
-   "difficulty": 36,
+   "popularity": 69,
+   "difficulty": 35,
    "buyer_intent": 85,
-   "opportunity": 75.6
+   "opportunity": 76.0
   },
   {
-   "keyword": "استرجاع حساب سناب شات عن طريق رقم الجوال",
+   "keyword": "استرجاع حساب ياهو",
    "intent": "استعادة حساب",
-   "google_hits": 4,
-   "bing_hits": 0,
+   "google_hits": 1,
+   "bing_hits": 1,
    "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب سناب شات",
-    "استرجاع حساب سناب شات بدون رقم الجوال",
-    "استرجاع حساب سناب شات عن طريق رقم الجوال"
-   ],
-   "popularity": 60,
-   "difficulty": 36,
-   "buyer_intent": 85,
-   "opportunity": 75.6
-  },
-  {
-   "keyword": "استرجاع حساب سناب شات بدون رقم الجوال",
-   "intent": "استعادة حساب",
-   "google_hits": 4,
-   "bing_hits": 0,
-   "engines": [
+    "bing",
     "google"
    ],
    "seeds": [
     "استرجاع حساب",
-    "استرجاع حساب سناب شات",
-    "استرجاع حساب سناب شات بدون رقم الجوال"
+    "استرجاع حساب ياهو"
    ],
-   "popularity": 60,
-   "difficulty": 36,
+   "popularity": 34,
+   "difficulty": 35,
    "buyer_intent": 85,
-   "opportunity": 75.6
+   "opportunity": 76.0
   },
   {
-   "keyword": "استرجاع حساب سناب شات بدون ايميل",
+   "keyword": "استعادة حساب هوتميل",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب",
+    "استعادة حساب هوتميل"
+   ],
+   "popularity": 34,
+   "difficulty": 35,
+   "buyer_intent": 85,
+   "opportunity": 76.0
+  },
+  {
+   "keyword": "استرجاع حساب سناب شات المقفل نهائي",
    "intent": "استعادة حساب",
    "google_hits": 4,
    "bing_hits": 0,
@@ -2308,8 +3548,7 @@
     "google"
    ],
    "seeds": [
-    "استرجاع حساب سناب شات",
-    "استرجاع حساب سناب شات بدون ايميل"
+    "استرجاع حساب سناب شات"
    ],
    "popularity": 60,
    "difficulty": 36,
@@ -2332,6 +3571,56 @@
    "difficulty": 36,
    "buyer_intent": 85,
    "opportunity": 75.6
+  },
+  {
+   "keyword": "الابلاغ عن حساب تم اختراقه",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 9,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 87,
+   "difficulty": 12,
+   "buyer_intent": 65,
+   "opportunity": 75.3
+  },
+  {
+   "keyword": "استرداد حساب فيسبوك تم اختراقه",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 9,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 87,
+   "difficulty": 12,
+   "buyer_intent": 65,
+   "opportunity": 75.3
+  },
+  {
+   "keyword": "كيفية استرجاع حساب فيسبوك",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 6,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 72,
+   "difficulty": 6,
+   "buyer_intent": 60,
+   "opportunity": 75.3
   },
   {
    "keyword": "حسابي مسروق كيف ارجعه",
@@ -2362,6 +3651,23 @@
     "استعادة حساب"
    ],
    "popularity": 40,
+   "difficulty": 6,
+   "buyer_intent": 60,
+   "opportunity": 75.3
+  },
+  {
+   "keyword": "كيفية استرجاع حساب انستا باي",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب"
+   ],
+   "popularity": 38,
    "difficulty": 6,
    "buyer_intent": 60,
    "opportunity": 75.3
@@ -2415,6 +3721,22 @@
    "opportunity": 75.3
   },
   {
+   "keyword": "كيف يمكنني استعادة حسابي على فيسبوك",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حسابي على فيسبوك"
+   ],
+   "popularity": 33,
+   "difficulty": 6,
+   "buyer_intent": 60,
+   "opportunity": 75.3
+  },
+  {
    "keyword": "كيف اعرف أن حسابي مخترق فيسبوك",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -2442,22 +3764,6 @@
     "حسابي موقوف بسبب المخالفات"
    ],
    "popularity": 33,
-   "difficulty": 6,
-   "buyer_intent": 60,
-   "opportunity": 75.3
-  },
-  {
-   "keyword": "كيفية استرجاع حساب انستا باي",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب"
-   ],
-   "popularity": 31,
    "difficulty": 6,
    "buyer_intent": 60,
    "opportunity": 75.3
@@ -2607,6 +3913,22 @@
    "opportunity": 75.3
   },
   {
+   "keyword": "كيفية استرجاع حساب فري فاير",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب"
+   ],
+   "popularity": 29,
+   "difficulty": 6,
+   "buyer_intent": 60,
+   "opportunity": 75.3
+  },
+  {
    "keyword": "استرجاع حساب تلغرام",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -2616,22 +3938,6 @@
    ],
    "seeds": [
     "استرجاع حساب تلجرام"
-   ],
-   "popularity": 27,
-   "difficulty": 37,
-   "buyer_intent": 85,
-   "opportunity": 75.1
-  },
-  {
-   "keyword": "تم اختراق حسابي",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "تم اختراق حسابي"
    ],
    "popularity": 27,
    "difficulty": 37,
@@ -2703,22 +4009,6 @@
    "opportunity": 75.1
   },
   {
-   "keyword": "ابتزاز الكتروني الامارات",
-   "intent": "ابتزاز وتهديد",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "ابتزاز الكتروني"
-   ],
-   "popularity": 27,
-   "difficulty": 37,
-   "buyer_intent": 85,
-   "opportunity": 75.1
-  },
-  {
    "keyword": "ابتزاز الكتروني لبنان",
    "intent": "ابتزاز وتهديد",
    "google_hits": 1,
@@ -2735,15 +4025,15 @@
    "opportunity": 75.1
   },
   {
-   "keyword": "استرجاع حساب انستا",
-   "intent": "استعادة حساب",
+   "keyword": "ابتزاز الكتروني الامارات",
+   "intent": "ابتزاز وتهديد",
    "google_hits": 1,
    "bing_hits": 0,
    "engines": [
     "google"
    ],
    "seeds": [
-    "استرجاع حساب"
+    "ابتزاز الكتروني"
    ],
    "popularity": 27,
    "difficulty": 37,
@@ -3167,6 +4457,22 @@
    "opportunity": 75.1
   },
   {
+   "keyword": "استرجاع حساب انستاباي",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب انستا"
+   ],
+   "popularity": 27,
+   "difficulty": 37,
+   "buyer_intent": 85,
+   "opportunity": 75.1
+  },
+  {
    "keyword": "استعادة حساب hotmail",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -3178,6 +4484,54 @@
     "استعادة حساب هوتميل"
    ],
    "popularity": 27,
+   "difficulty": 37,
+   "buyer_intent": 85,
+   "opportunity": 75.1
+  },
+  {
+   "keyword": "فك باند الهاردوير",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "فك باند"
+   ],
+   "popularity": 25,
+   "difficulty": 37,
+   "buyer_intent": 85,
+   "opportunity": 75.1
+  },
+  {
+   "keyword": "سبوفر فك باند",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "فك باند"
+   ],
+   "popularity": 25,
+   "difficulty": 37,
+   "buyer_intent": 85,
+   "opportunity": 75.1
+  },
+  {
+   "keyword": "ابتزاز in english",
+   "intent": "ابتزاز وتهديد",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "ابتزاز"
+   ],
+   "popularity": 25,
    "difficulty": 37,
    "buyer_intent": 85,
    "opportunity": 75.1
@@ -3200,7 +4554,25 @@
    "opportunity": 74.8
   },
   {
-   "keyword": "استرجاع حساب فيس بوك عن طريق الاسم",
+   "keyword": "استرجاع حساب انستقرام من قوقل",
+   "intent": "استعادة حساب",
+   "google_hits": 6,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب انستقرام",
+    "استرجاع حساب انستقرام من قوقل"
+   ],
+   "popularity": 76,
+   "difficulty": 38,
+   "buyer_intent": 85,
+   "opportunity": 74.7
+  },
+  {
+   "keyword": "استرجاع حساب سناب شات بدون رقم الجوال",
    "intent": "استعادة حساب",
    "google_hits": 3,
    "bing_hits": 0,
@@ -3209,8 +4581,23 @@
    ],
    "seeds": [
     "استرجاع حساب",
-    "استرجاع حساب فيس بوك",
-    "استرجاع حساب فيس بوك عن طريق الاسم"
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 51,
+   "difficulty": 38,
+   "buyer_intent": 85,
+   "opportunity": 74.7
+  },
+  {
+   "keyword": "استرجاع حساب سناب شات بدون ايميل",
+   "intent": "استعادة حساب",
+   "google_hits": 3,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
    ],
    "popularity": 51,
    "difficulty": 38,
@@ -3243,6 +4630,39 @@
    ],
    "seeds": [
     "استرجاع حساب تيك توك"
+   ],
+   "popularity": 51,
+   "difficulty": 38,
+   "buyer_intent": 85,
+   "opportunity": 74.7
+  },
+  {
+   "keyword": "استرجاع حساب فيس بوك عن طريق الاسم ورقم الهاتف",
+   "intent": "استعادة حساب",
+   "google_hits": 3,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك",
+    "استرجاع حساب فيس بوك عن طريق الاسم"
+   ],
+   "popularity": 51,
+   "difficulty": 38,
+   "buyer_intent": 85,
+   "opportunity": 74.7
+  },
+  {
+   "keyword": "استرجاع حساب فيس بوك إذا نسيت كلمة السر ورقم الهاتف",
+   "intent": "استعادة حساب",
+   "google_hits": 3,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
    ],
    "popularity": 51,
    "difficulty": 38,
@@ -3285,19 +4705,54 @@
    "opportunity": 74.7
   },
   {
-   "keyword": "استرجاع حساب انستقرام من قوقل",
+   "keyword": "استرجاع حساب جيميل عن طريق تاريخ الميلاد",
    "intent": "استعادة حساب",
-   "google_hits": 5,
+   "google_hits": 2,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب تلجرام",
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 49,
+   "difficulty": 38,
+   "buyer_intent": 85,
+   "opportunity": 74.7
+  },
+  {
+   "keyword": "استرجاع حساب جيميل عن طريق رقم الهاتف",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 2,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب تلجرام",
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 47,
+   "difficulty": 38,
+   "buyer_intent": 85,
+   "opportunity": 74.7
+  },
+  {
+   "keyword": "استرجاع حساب سناب شات عن طريق رقم الجوال",
+   "intent": "استعادة حساب",
+   "google_hits": 2,
    "bing_hits": 0,
    "engines": [
     "google"
    ],
    "seeds": [
-    "استرجاع حساب",
-    "استرجاع حساب انستقرام",
-    "استرجاع حساب انستقرام من قوقل"
+    "استرجاع حساب سناب شات"
    ],
-   "popularity": 67,
+   "popularity": 42,
    "difficulty": 39,
    "buyer_intent": 85,
    "opportunity": 74.2
@@ -3328,40 +4783,6 @@
    ],
    "seeds": [
     "استرجاع حساب سناب شات"
-   ],
-   "popularity": 42,
-   "difficulty": 39,
-   "buyer_intent": 85,
-   "opportunity": 74.2
-  },
-  {
-   "keyword": "استرجاع حساب انستقرام عن طريق الدعم الفني",
-   "intent": "استعادة حساب",
-   "google_hits": 2,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب",
-    "استرجاع حساب انستقرام"
-   ],
-   "popularity": 42,
-   "difficulty": 39,
-   "buyer_intent": 85,
-   "opportunity": 74.2
-  },
-  {
-   "keyword": "استرجاع حساب انستقرام عن طريق اسم المستخدم",
-   "intent": "استعادة حساب",
-   "google_hits": 2,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب",
-    "استرجاع حساب انستقرام"
    ],
    "popularity": 42,
    "difficulty": 39,
@@ -3433,7 +4854,7 @@
    "opportunity": 74.2
   },
   {
-   "keyword": "استرجاع حساب فيس بوك عن طريق الاسم ورقم الهاتف",
+   "keyword": "استرجاع حساب فيس بوك عن طريق الرابط",
    "intent": "استعادة حساب",
    "google_hits": 2,
    "bing_hits": 0,
@@ -3441,8 +4862,7 @@
     "google"
    ],
    "seeds": [
-    "استرجاع حساب فيس بوك",
-    "استرجاع حساب فيس بوك عن طريق الاسم"
+    "استرجاع حساب فيس بوك"
    ],
    "popularity": 42,
    "difficulty": 39,
@@ -3450,7 +4870,23 @@
    "opportunity": 74.2
   },
   {
-   "keyword": "استرجاع حساب فيس بوك إذا نسيت كلمة السر ورقم الهاتف",
+   "keyword": "استرجاع حساب فيس بوك معطل رقم هاتف",
+   "intent": "استعادة حساب",
+   "google_hits": 2,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 42,
+   "difficulty": 39,
+   "buyer_intent": 85,
+   "opportunity": 74.2
+  },
+  {
+   "keyword": "استرجاع حساب فيس بوك عن طريق الرقم",
    "intent": "استعادة حساب",
    "google_hits": 2,
    "bing_hits": 0,
@@ -3467,23 +4903,6 @@
   },
   {
    "keyword": "استرجاع حساب جيميل عن طريق الاسم",
-   "intent": "استعادة حساب",
-   "google_hits": 2,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب",
-    "استرجاع حساب جيميل"
-   ],
-   "popularity": 42,
-   "difficulty": 39,
-   "buyer_intent": 85,
-   "opportunity": 74.2
-  },
-  {
-   "keyword": "استرجاع حساب جيميل عن طريق تاريخ الميلاد",
    "intent": "استعادة حساب",
    "google_hits": 2,
    "bing_hits": 0,
@@ -3763,6 +5182,22 @@
    "opportunity": 73.8
   },
   {
+   "keyword": "خدمة استرجاع حساب فيسبوك",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب"
+   ],
+   "popularity": 29,
+   "difficulty": 40,
+   "buyer_intent": 85,
+   "opportunity": 73.8
+  },
+  {
    "keyword": "حسابي مخترق كيف ارجعه",
    "intent": "استعادة حساب",
    "google_hits": 2,
@@ -3777,6 +5212,206 @@
    "difficulty": 10,
    "buyer_intent": 60,
    "opportunity": 73.5
+  },
+  {
+   "keyword": "استرجاع حساب سناب شات",
+   "intent": "استعادة حساب",
+   "google_hits": 5,
+   "bing_hits": 5,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 100,
+   "difficulty": 41,
+   "buyer_intent": 85,
+   "opportunity": 73.3
+  },
+  {
+   "keyword": "استرجاع حساب فيس بوك",
+   "intent": "استعادة حساب",
+   "google_hits": 2,
+   "bing_hits": 32,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب انستقرام",
+    "استرجاع حساب تلجرام",
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 100,
+   "difficulty": 41,
+   "buyer_intent": 85,
+   "opportunity": 73.3
+  },
+  {
+   "keyword": "استعادة حساب تيك توك",
+   "intent": "استعادة حساب",
+   "google_hits": 2,
+   "bing_hits": 11,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك",
+    "استعادة حساب",
+    "استعادة حساب تيك توك"
+   ],
+   "popularity": 100,
+   "difficulty": 41,
+   "buyer_intent": 85,
+   "opportunity": 73.3
+  },
+  {
+   "keyword": "استعادة حساب سناب شات",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 10,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات",
+    "استعادة حساب"
+   ],
+   "popularity": 100,
+   "difficulty": 41,
+   "buyer_intent": 85,
+   "opportunity": 73.3
+  },
+  {
+   "keyword": "استرجاع حساب انستقرام معطل",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 13,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام",
+    "استرجاع حساب تلجرام",
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 100,
+   "difficulty": 41,
+   "buyer_intent": 85,
+   "opportunity": 73.3
+  },
+  {
+   "keyword": "استعادة حساب فيس بوك",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 14,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك",
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 100,
+   "difficulty": 41,
+   "buyer_intent": 85,
+   "opportunity": 73.3
+  },
+  {
+   "keyword": "استرجاع حساب تيك توك",
+   "intent": "استعادة حساب",
+   "google_hits": 4,
+   "bing_hits": 6,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 99,
+   "difficulty": 41,
+   "buyer_intent": 85,
+   "opportunity": 73.3
+  },
+  {
+   "keyword": "استرجاع حساب تويتر مقفل",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 10,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام",
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 92,
+   "difficulty": 41,
+   "buyer_intent": 85,
+   "opportunity": 73.3
+  },
+  {
+   "keyword": "استعادة حساب جيميل محذوف",
+   "intent": "استعادة حساب",
+   "google_hits": 2,
+   "bing_hits": 7,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل",
+    "استعادة حساب",
+    "استعادة حساب جيميل",
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 88,
+   "difficulty": 41,
+   "buyer_intent": 85,
+   "opportunity": 73.3
+  },
+  {
+   "keyword": "استعادة حساب جيميل جديد",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 9,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 85,
+   "difficulty": 41,
+   "buyer_intent": 85,
+   "opportunity": 73.3
+  },
+  {
+   "keyword": "ابتزاز الكتروني",
+   "intent": "ابتزاز وتهديد",
+   "google_hits": 1,
+   "bing_hits": 2,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "ابتزاز",
+    "ابتزاز الكتروني"
+   ],
+   "popularity": 39,
+   "difficulty": 41,
+   "buyer_intent": 85,
+   "opportunity": 73.3
   },
   {
    "keyword": "استرجاع حساب انستقرام عن طريق الايميل",
@@ -3859,71 +5494,7 @@
    "opportunity": 73.3
   },
   {
-   "keyword": "استرجاع حساب فيس بوك عن طريق الرابط",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب فيس بوك"
-   ],
-   "popularity": 33,
-   "difficulty": 41,
-   "buyer_intent": 85,
-   "opportunity": 73.3
-  },
-  {
-   "keyword": "استرجاع حساب فيس بوك معطل رقم هاتف",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب فيس بوك"
-   ],
-   "popularity": 33,
-   "difficulty": 41,
-   "buyer_intent": 85,
-   "opportunity": 73.3
-  },
-  {
-   "keyword": "استرجاع حساب فيس بوك عن طريق الرقم",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب فيس بوك"
-   ],
-   "popularity": 33,
-   "difficulty": 41,
-   "buyer_intent": 85,
-   "opportunity": 73.3
-  },
-  {
    "keyword": "استرجاع حساب جيميل تم حذفه مؤخرا",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب جيميل"
-   ],
-   "popularity": 33,
-   "difficulty": 41,
-   "buyer_intent": 85,
-   "opportunity": 73.3
-  },
-  {
-   "keyword": "استرجاع حساب جيميل عن طريق رقم الهاتف",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -4428,22 +5999,6 @@
    ],
    "seeds": [
     "استرجاع حساب تيك توك"
-   ],
-   "popularity": 33,
-   "difficulty": 41,
-   "buyer_intent": 85,
-   "opportunity": 73.3
-  },
-  {
-   "keyword": "استرجاع حساب تويتر اذا نسيت اسم المستخدم",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب تويتر"
    ],
    "popularity": 33,
    "difficulty": 41,
@@ -4995,7 +6550,7 @@
    "opportunity": 73.3
   },
   {
-   "keyword": "تم اختراق حسابي وتغيير كلمة السر جوجل فيسبوك",
+   "keyword": "تم اختراق حسابي الفيسبوك وتغيير كلمة السر جوجل",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -5012,6 +6567,22 @@
   },
   {
    "keyword": "مرحبا جوجل لقد تم اختراق حسابي",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 33,
+   "difficulty": 41,
+   "buyer_intent": 85,
+   "opportunity": 73.3
+  },
+  {
+   "keyword": "تم اختراق حسابي وتغيير كلمة السر ورقم الهاتف جوجل",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -5091,7 +6662,7 @@
    "opportunity": 73.3
   },
   {
-   "keyword": "استرجاع حساب جوجل بدون رقم الهاتف محذوف",
+   "keyword": "استرجاع حساب gmail بدون رقم الهاتف",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -5107,7 +6678,7 @@
    "opportunity": 73.3
   },
   {
-   "keyword": "استرجاع حساب gmail بدون رقم الهاتف",
+   "keyword": "استرجاع حساب جوجل محذوف بدون رقم الهاتف",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -5475,6 +7046,22 @@
    "opportunity": 73.3
   },
   {
+   "keyword": "استعادة حساب محظور تيك توك امان الحساب",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب محظور تيك توك"
+   ],
+   "popularity": 33,
+   "difficulty": 41,
+   "buyer_intent": 85,
+   "opportunity": 73.3
+  },
+  {
    "keyword": "استعادة حساب محظور في تيك توك",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -5555,7 +7142,7 @@
    "opportunity": 73.3
   },
   {
-   "keyword": "استرجاع حسابي تيك توك محظور نهائيا",
+   "keyword": "استعادة حساب تويتر إذا نسيت الباسورد والايميل",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -5563,7 +7150,7 @@
     "google"
    ],
    "seeds": [
-    "حسابي محظور تيك توك"
+    "استعادة حساب تويتر"
    ],
    "popularity": 33,
    "difficulty": 41,
@@ -5571,7 +7158,7 @@
    "opportunity": 73.3
   },
   {
-   "keyword": "استرجاع حساب سناب شات بدون رقم الجوال والايميل",
+   "keyword": "استعادة حساب تويتر إذا نسيت الباسورد",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -5579,7 +7166,7 @@
     "google"
    ],
    "seeds": [
-    "استرجاع حساب سناب شات بدون رقم الجوال"
+    "استعادة حساب تويتر"
    ],
    "popularity": 33,
    "difficulty": 41,
@@ -5587,7 +7174,7 @@
    "opportunity": 73.3
   },
   {
-   "keyword": "استرجاع حساب سناب شات محظور مؤقتا",
+   "keyword": "استعادة حساب فيس بوك معطل عن طريق رقم الهاتف",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -5595,7 +7182,7 @@
     "google"
    ],
    "seeds": [
-    "استرجاع حساب سناب شات محظور"
+    "استعادة حساب فيس بوك معطل"
    ],
    "popularity": 33,
    "difficulty": 41,
@@ -5603,7 +7190,7 @@
    "opportunity": 73.3
   },
   {
-   "keyword": "استرجاع حساب سناب شات محظور دائم",
+   "keyword": "رابط استعادة حساب فيس بوك معطل",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -5611,7 +7198,7 @@
     "google"
    ],
    "seeds": [
-    "استرجاع حساب سناب شات محظور"
+    "استعادة حساب فيس بوك معطل"
    ],
    "popularity": 33,
    "difficulty": 41,
@@ -5619,34 +7206,19 @@
    "opportunity": 73.3
   },
   {
-   "keyword": "استرجاع حساب سناب شات بدون ايميل او رقم",
+   "keyword": "رابط استرجاع حساب انستقرام",
    "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
+   "google_hits": 0,
+   "bing_hits": 8,
    "engines": [
-    "google"
+    "bing"
    ],
    "seeds": [
-    "استرجاع حساب سناب شات بدون ايميل"
+    "استرجاع حساب انستقرام",
+    "استرجاع حساب تلجرام",
+    "استرجاع حساب تويتر"
    ],
-   "popularity": 33,
-   "difficulty": 41,
-   "buyer_intent": 85,
-   "opportunity": 73.3
-  },
-  {
-   "keyword": "استرجاع حساب سناب شات محظور",
-   "intent": "استعادة حساب",
-   "google_hits": 3,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب سناب شات",
-    "استرجاع حساب سناب شات محظور"
-   ],
-   "popularity": 49,
+   "popularity": 78,
    "difficulty": 42,
    "buyer_intent": 85,
    "opportunity": 72.9
@@ -5680,6 +7252,40 @@
     "استرجاع حساب انستقرام"
    ],
    "popularity": 49,
+   "difficulty": 42,
+   "buyer_intent": 85,
+   "opportunity": 72.9
+  },
+  {
+   "keyword": "استرجاع حساب فيس بوك قديم",
+   "intent": "استعادة حساب",
+   "google_hits": 3,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 49,
+   "difficulty": 42,
+   "buyer_intent": 85,
+   "opportunity": 72.9
+  },
+  {
+   "keyword": "استرجاع حساب فيس بوك معطل",
+   "intent": "استعادة حساب",
+   "google_hits": 2,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك",
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 47,
    "difficulty": 42,
    "buyer_intent": 85,
    "opportunity": 72.9
@@ -5733,20 +7339,38 @@
    "opportunity": 72.9
   },
   {
-   "keyword": "كيفية استرجاع حساب فيسبوك",
-   "intent": "استعادة حساب",
+   "keyword": "ابتزاز عاطفي",
+   "intent": "ابتزاز وتهديد",
    "google_hits": 1,
-   "bing_hits": 0,
+   "bing_hits": 1,
    "engines": [
+    "bing",
     "google"
    ],
    "seeds": [
-    "استرجاع حساب"
+    "ابتزاز"
    ],
-   "popularity": 29,
-   "difficulty": 12,
-   "buyer_intent": 60,
-   "opportunity": 72.6
+   "popularity": 32,
+   "difficulty": 42,
+   "buyer_intent": 85,
+   "opportunity": 72.9
+  },
+  {
+   "keyword": "ابتزاز",
+   "intent": "ابتزاز وتهديد",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "ابتزاز"
+   ],
+   "popularity": 30,
+   "difficulty": 42,
+   "buyer_intent": 85,
+   "opportunity": 72.9
   },
   {
    "keyword": "كيفية استرجاع حساب تلغرام",
@@ -5813,6 +7437,38 @@
    "opportunity": 72.6
   },
   {
+   "keyword": "كيفية استعادة حساب هوتميل",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب هوتميل"
+   ],
+   "popularity": 29,
+   "difficulty": 12,
+   "buyer_intent": 60,
+   "opportunity": 72.6
+  },
+  {
+   "keyword": "كيف استعادة حساب هوتميل",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب هوتميل"
+   ],
+   "popularity": 29,
+   "difficulty": 12,
+   "buyer_intent": 60,
+   "opportunity": 72.6
+  },
+  {
    "keyword": "كيفية استرجاع حسابي مسروق",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -5829,6 +7485,57 @@
    "opportunity": 72.6
   },
   {
+   "keyword": "كيف استرجاع حساب فيسبوك",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب"
+   ],
+   "popularity": 27,
+   "difficulty": 12,
+   "buyer_intent": 60,
+   "opportunity": 72.6
+  },
+  {
+   "keyword": "كيفية استرجاع حساب مسار",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب"
+   ],
+   "popularity": 27,
+   "difficulty": 12,
+   "buyer_intent": 60,
+   "opportunity": 72.6
+  },
+  {
+   "keyword": "صفحة استرجاع حساب جوجل",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 7,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام",
+    "استرجاع حساب تلجرام",
+    "استرجاع حساب تويتر",
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 70,
+   "difficulty": 43,
+   "buyer_intent": 85,
+   "opportunity": 72.4
+  },
+  {
    "keyword": "استعادة حساب محظور تيك توك",
    "intent": "استعادة حساب",
    "google_hits": 2,
@@ -5839,6 +7546,22 @@
    "seeds": [
     "استعادة حساب",
     "استعادة حساب محظور تيك توك"
+   ],
+   "popularity": 40,
+   "difficulty": 43,
+   "buyer_intent": 85,
+   "opportunity": 72.4
+  },
+  {
+   "keyword": "استرجاع حساب سناب شات محظور",
+   "intent": "استعادة حساب",
+   "google_hits": 2,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
    ],
    "popularity": 40,
    "difficulty": 43,
@@ -5894,7 +7617,7 @@
    "opportunity": 72.4
   },
   {
-   "keyword": "استرجاع حساب فيس بوك قديم",
+   "keyword": "استرجاع حساب فيس بوك مخترق",
    "intent": "استعادة حساب",
    "google_hits": 2,
    "bing_hits": 0,
@@ -5993,6 +7716,22 @@
    "opportunity": 72.4
   },
   {
+   "keyword": "استرجاع حساب تويتر نسيت الايميل",
+   "intent": "استعادة حساب",
+   "google_hits": 2,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 40,
+   "difficulty": 43,
+   "buyer_intent": 85,
+   "opportunity": 72.4
+  },
+  {
    "keyword": "استرجاع حساب جيميل او جوجل",
    "intent": "استعادة حساب",
    "google_hits": 2,
@@ -6019,23 +7758,6 @@
    "seeds": [
     "استرجاع حسابي مسروق",
     "حسابي مسروق تيك توك"
-   ],
-   "popularity": 40,
-   "difficulty": 43,
-   "buyer_intent": 85,
-   "opportunity": 72.4
-  },
-  {
-   "keyword": "استعادة حسابي محظور تيك توك",
-   "intent": "استعادة حساب",
-   "google_hits": 2,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "حسابي محظور تيك توك",
-    "حسابي محظور في تيك توك"
    ],
    "popularity": 40,
    "difficulty": 43,
@@ -6091,20 +7813,36 @@
    "opportunity": 72.2
   },
   {
-   "keyword": "ابتزاز عاطفي",
-   "intent": "ابتزاز وتهديد",
-   "google_hits": 1,
-   "bing_hits": 0,
+   "keyword": "تقديم التماس بشأن حساب مقفل أو موقوف",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
    "engines": [
-    "google"
+    "bing"
    ],
    "seeds": [
-    "ابتزاز"
+    "حساب مقفل"
    ],
-   "popularity": 25,
-   "difficulty": 44,
-   "buyer_intent": 85,
-   "opportunity": 72.0
+   "popularity": 31,
+   "difficulty": 19,
+   "buyer_intent": 65,
+   "opportunity": 72.2
+  },
+  {
+   "keyword": "الإبلاغ عن حساب فيسبوك تم اختراق",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "اختراق حساب"
+   ],
+   "popularity": 31,
+   "difficulty": 19,
+   "buyer_intent": 65,
+   "opportunity": 72.2
   },
   {
    "keyword": "ابتزاز الالكتروني",
@@ -6139,31 +7877,15 @@
    "opportunity": 72.0
   },
   {
-   "keyword": "ابتزاز الكتروني",
-   "intent": "ابتزاز وتهديد",
-   "google_hits": 1,
-   "bing_hits": 0,
+   "keyword": "استرجاع حساب",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
    "engines": [
-    "google"
+    "bing"
    ],
    "seeds": [
-    "ابتزاز الكتروني"
-   ],
-   "popularity": 25,
-   "difficulty": 44,
-   "buyer_intent": 85,
-   "opportunity": 72.0
-  },
-  {
-   "keyword": "ابتزاز",
-   "intent": "ابتزاز وتهديد",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "ابتزاز"
+    "استرجاع حساب"
    ],
    "popularity": 23,
    "difficulty": 44,
@@ -6171,33 +7893,50 @@
    "opportunity": 72.0
   },
   {
-   "keyword": "استرجاع حساب فيس بوك معطل",
+   "keyword": "فك باند",
    "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
+   "google_hits": 0,
+   "bing_hits": 1,
    "engines": [
-    "google"
+    "bing"
    ],
    "seeds": [
-    "استرجاع حساب فيس بوك"
+    "فك باند"
    ],
-   "popularity": 31,
-   "difficulty": 45,
+   "popularity": 23,
+   "difficulty": 44,
    "buyer_intent": 85,
-   "opportunity": 71.5
+   "opportunity": 72.0
   },
   {
-   "keyword": "استرجاع حساب فيس بوك مخترق",
+   "keyword": "ابلاغ عن حساب تم اختراقه",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 44,
+   "difficulty": 20,
+   "buyer_intent": 65,
+   "opportunity": 71.8
+  },
+  {
+   "keyword": "استرجاع حساب انستقرام محذوف",
    "intent": "استعادة حساب",
    "google_hits": 1,
-   "bing_hits": 0,
+   "bing_hits": 5,
    "engines": [
+    "bing",
     "google"
    ],
    "seeds": [
-    "استرجاع حساب فيس بوك"
+    "استرجاع حساب انستقرام"
    ],
-   "popularity": 31,
+   "popularity": 65,
    "difficulty": 45,
    "buyer_intent": 85,
    "opportunity": 71.5
@@ -6603,7 +8342,7 @@
    "opportunity": 71.5
   },
   {
-   "keyword": "استرجاع حساب تويتر نسيت الايميل",
+   "keyword": "استرجاع حساب تويتر بدون ايميل",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -6891,6 +8630,54 @@
    "opportunity": 71.5
   },
   {
+   "keyword": "استرجاع حساب موظف وزارة الصحة",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب وزارة الصحة"
+   ],
+   "popularity": 31,
+   "difficulty": 45,
+   "buyer_intent": 85,
+   "opportunity": 71.5
+  },
+  {
+   "keyword": "استرجاع حساب ايميل وزارة الصحة",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب وزارة الصحة"
+   ],
+   "popularity": 31,
+   "difficulty": 45,
+   "buyer_intent": 85,
+   "opportunity": 71.5
+  },
+  {
+   "keyword": "استرجاع حساب مايكروسوفت ماين كرافت",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب مايكروسوفت"
+   ],
+   "popularity": 31,
+   "difficulty": 45,
+   "buyer_intent": 85,
+   "opportunity": 71.5
+  },
+  {
    "keyword": "استعادة حساب جيميل محذوف نهائيا",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -7099,6 +8886,38 @@
    "opportunity": 71.5
   },
   {
+   "keyword": "استعادة حساب تويتر برقم الجوال",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب تويتر"
+   ],
+   "popularity": 31,
+   "difficulty": 45,
+   "buyer_intent": 85,
+   "opportunity": 71.5
+  },
+  {
+   "keyword": "استعادة حساب تويتر بعد التعطيل",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب تويتر"
+   ],
+   "popularity": 31,
+   "difficulty": 45,
+   "buyer_intent": 85,
+   "opportunity": 71.5
+  },
+  {
    "keyword": "اعتقد ان حسابي مخترق تويتر",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -7115,21 +8934,86 @@
    "opportunity": 71.5
   },
   {
-   "keyword": "استرجاع حساب سناب شات",
+   "keyword": "استرجاع حساب سناب شات محذوف",
    "intent": "استعادة حساب",
-   "google_hits": 4,
-   "bing_hits": 0,
+   "google_hits": 0,
+   "bing_hits": 1,
    "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 29,
+   "difficulty": 45,
+   "buyer_intent": 85,
+   "opportunity": 71.5
+  },
+  {
+   "keyword": "استرجاع حساب فيس بوك بالاسم",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 29,
+   "difficulty": 45,
+   "buyer_intent": 85,
+   "opportunity": 71.5
+  },
+  {
+   "keyword": "تهكير رسيفر stc tv",
+   "intent": "اختراق وأدوات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تهكير حساب"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 72,
+   "opportunity": 71.1
+  },
+  {
+   "keyword": "تهكير سوني 1 كلاسيك",
+   "intent": "اختراق وأدوات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تهكير حساب"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 72,
+   "opportunity": 71.1
+  },
+  {
+   "keyword": "كيفية استرجاع حساب تويتر موقوف",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 12,
+   "engines": [
+    "bing",
     "google"
    ],
    "seeds": [
-    "استرجاع حساب",
-    "استرجاع حساب سناب شات"
+    "استرجاع حساب تويتر",
+    "استعادة حساب مسروق"
    ],
-   "popularity": 56,
-   "difficulty": 47,
-   "buyer_intent": 85,
-   "opportunity": 70.6
+   "popularity": 100,
+   "difficulty": 16,
+   "buyer_intent": 60,
+   "opportunity": 70.8
   },
   {
    "keyword": "حسابي موقوف في تويتر",
@@ -7148,6 +9032,38 @@
    "difficulty": 47,
    "buyer_intent": 85,
    "opportunity": 70.6
+  },
+  {
+   "keyword": "الابلاغ عن حساب منتحل فيسبوك",
+   "intent": "كشف هوية / OSINT",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "حساب منتحل"
+   ],
+   "popularity": 29,
+   "difficulty": 23,
+   "buyer_intent": 65,
+   "opportunity": 70.4
+  },
+  {
+   "keyword": "ابلاغ عن حساب فيسبوك منتحل",
+   "intent": "كشف هوية / OSINT",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "حساب منتحل"
+   ],
+   "popularity": 29,
+   "difficulty": 23,
+   "buyer_intent": 65,
+   "opportunity": 70.4
   },
   {
    "keyword": "حسابي موقوف في تويتر كيف ارجعه",
@@ -7183,23 +9099,6 @@
    "difficulty": 45,
    "buyer_intent": 82,
    "opportunity": 69.8
-  },
-  {
-   "keyword": "استرجاع حساب تيك توك",
-   "intent": "استعادة حساب",
-   "google_hits": 3,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب",
-    "استرجاع حساب تيك توك"
-   ],
-   "popularity": 47,
-   "difficulty": 49,
-   "buyer_intent": 85,
-   "opportunity": 69.7
   },
   {
    "keyword": "حسابي مسروق تيك توك",
@@ -7354,23 +9253,6 @@
    "opportunity": 69.5
   },
   {
-   "keyword": "استعادة حساب تيك توك",
-   "intent": "استعادة حساب",
-   "google_hits": 2,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استعادة حساب",
-    "استعادة حساب تيك توك"
-   ],
-   "popularity": 38,
-   "difficulty": 50,
-   "buyer_intent": 85,
-   "opportunity": 69.2
-  },
-  {
    "keyword": "استرجاع حساب تويتر قديم",
    "intent": "استعادة حساب",
    "google_hits": 2,
@@ -7454,23 +9336,6 @@
    "opportunity": 69.2
   },
   {
-   "keyword": "استعادة حساب جيميل محذوف",
-   "intent": "استعادة حساب",
-   "google_hits": 2,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استعادة حساب",
-    "استعادة حساب جيميل"
-   ],
-   "popularity": 38,
-   "difficulty": 50,
-   "buyer_intent": 85,
-   "opportunity": 69.2
-  },
-  {
    "keyword": "استعادة حساب جوجل محذوف",
    "intent": "استعادة حساب",
    "google_hits": 2,
@@ -7483,6 +9348,57 @@
     "استعادة حساب جوجل"
    ],
    "popularity": 38,
+   "difficulty": 50,
+   "buyer_intent": 85,
+   "opportunity": 69.2
+  },
+  {
+   "keyword": "استرجاع حساب وزارة الصحة",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب وزارة الصحة"
+   ],
+   "popularity": 36,
+   "difficulty": 50,
+   "buyer_intent": 85,
+   "opportunity": 69.2
+  },
+  {
+   "keyword": "استرجاع حساب تويتر مقفول",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 36,
+   "difficulty": 50,
+   "buyer_intent": 85,
+   "opportunity": 69.2
+  },
+  {
+   "keyword": "استعادة حساب وزارة الصحة",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 34,
    "difficulty": 50,
    "buyer_intent": 85,
    "opportunity": 69.2
@@ -7521,40 +9437,6 @@
    "opportunity": 69.0
   },
   {
-   "keyword": "كيف استرجاع حساب سناب شات بدون ايميل ورقم جوال",
-   "intent": "استعادة حساب",
-   "google_hits": 3,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب سناب شات",
-    "استرجاع حساب سناب شات بدون ايميل"
-   ],
-   "popularity": 51,
-   "difficulty": 20,
-   "buyer_intent": 60,
-   "opportunity": 69.0
-  },
-  {
-   "keyword": "حسابي محظور في الراجحي",
-   "intent": "استعادة حساب",
-   "google_hits": 3,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "حسابي محظور",
-    "حسابي محظور في الراجحي"
-   ],
-   "popularity": 47,
-   "difficulty": 27,
-   "buyer_intent": 65,
-   "opportunity": 68.6
-  },
-  {
    "keyword": "كيفية استرجاع حساب جيميل بعد نسيان كلمة السر ورقم الهاتف",
    "intent": "استعادة حساب",
    "google_hits": 2,
@@ -7582,6 +9464,22 @@
    "seeds": [
     "استرجاع حساب",
     "استرجاع حساب انستقرام"
+   ],
+   "popularity": 42,
+   "difficulty": 21,
+   "buyer_intent": 60,
+   "opportunity": 68.6
+  },
+  {
+   "keyword": "كيف استرجاع حساب سناب شات بدون ايميل ورقم جوال",
+   "intent": "استعادة حساب",
+   "google_hits": 2,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
    ],
    "popularity": 42,
    "difficulty": 21,
@@ -7621,70 +9519,6 @@
    "opportunity": 68.6
   },
   {
-   "keyword": "كيفية استرجاع حساب فيس بوك نسيت كلمة السر على الكمبيوتر",
-   "intent": "استعادة حساب",
-   "google_hits": 2,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب فيس بوك"
-   ],
-   "popularity": 42,
-   "difficulty": 21,
-   "buyer_intent": 60,
-   "opportunity": 68.6
-  },
-  {
-   "keyword": "استرجاع حساب انستقرام محذوف",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب انستقرام"
-   ],
-   "popularity": 29,
-   "difficulty": 52,
-   "buyer_intent": 85,
-   "opportunity": 68.4
-  },
-  {
-   "keyword": "استرجاع حساب انستقرام معطل",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب انستقرام"
-   ],
-   "popularity": 29,
-   "difficulty": 52,
-   "buyer_intent": 85,
-   "opportunity": 68.4
-  },
-  {
-   "keyword": "استرجاع حساب تويتر مقفول",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب تويتر"
-   ],
-   "popularity": 29,
-   "difficulty": 52,
-   "buyer_intent": 85,
-   "opportunity": 68.4
-  },
-  {
    "keyword": "استرجاع حساب تويتر معطل",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -7710,22 +9544,6 @@
    ],
    "seeds": [
     "استرجاع حساب تويتر"
-   ],
-   "popularity": 29,
-   "difficulty": 52,
-   "buyer_intent": 85,
-   "opportunity": 68.4
-  },
-  {
-   "keyword": "استرجاع حساب فيس بوك",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب فيس بوك"
    ],
    "popularity": 29,
    "difficulty": 52,
@@ -7886,22 +9704,6 @@
    ],
    "seeds": [
     "استرجاع حساب"
-   ],
-   "popularity": 29,
-   "difficulty": 52,
-   "buyer_intent": 85,
-   "opportunity": 68.4
-  },
-  {
-   "keyword": "استعادة حساب سناب شات",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استعادة حساب"
    ],
    "popularity": 29,
    "difficulty": 52,
@@ -8102,22 +9904,6 @@
   },
   {
    "keyword": "استرجاع حساب تويتر المحذوف",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب تويتر"
-   ],
-   "popularity": 29,
-   "difficulty": 52,
-   "buyer_intent": 85,
-   "opportunity": 68.4
-  },
-  {
-   "keyword": "استرجاع حساب تويتر المخترق",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -8357,6 +10143,54 @@
    "opportunity": 68.4
   },
   {
+   "keyword": "استرجاع حساب مايكروسوفت مخترق",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب مايكروسوفت"
+   ],
+   "popularity": 29,
+   "difficulty": 52,
+   "buyer_intent": 85,
+   "opportunity": 68.4
+  },
+  {
+   "keyword": "صفحة استرجاع حساب مايكروسوفت",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب مايكروسوفت"
+   ],
+   "popularity": 29,
+   "difficulty": 52,
+   "buyer_intent": 85,
+   "opportunity": 68.4
+  },
+  {
+   "keyword": "نموذج استرجاع حساب مايكروسوفت",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب مايكروسوفت"
+   ],
+   "popularity": 29,
+   "difficulty": 52,
+   "buyer_intent": 85,
+   "opportunity": 68.4
+  },
+  {
    "keyword": "استعادة حساب جيميل قديم",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -8549,6 +10383,166 @@
    "opportunity": 68.4
   },
   {
+   "keyword": "استعادة حساب تويتر بالايميل",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب تويتر"
+   ],
+   "popularity": 29,
+   "difficulty": 52,
+   "buyer_intent": 85,
+   "opportunity": 68.4
+  },
+  {
+   "keyword": "استعادة حساب تويتر محذوف",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب تويتر"
+   ],
+   "popularity": 29,
+   "difficulty": 52,
+   "buyer_intent": 85,
+   "opportunity": 68.4
+  },
+  {
+   "keyword": "استعادة حساب تويتر موقوف",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب تويتر"
+   ],
+   "popularity": 29,
+   "difficulty": 52,
+   "buyer_intent": 85,
+   "opportunity": 68.4
+  },
+  {
+   "keyword": "استعادة حساب تويتر مخترق",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب تويتر"
+   ],
+   "popularity": 29,
+   "difficulty": 52,
+   "buyer_intent": 85,
+   "opportunity": 68.4
+  },
+  {
+   "keyword": "استعادة حساب تويتر معطل",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب تويتر"
+   ],
+   "popularity": 29,
+   "difficulty": 52,
+   "buyer_intent": 85,
+   "opportunity": 68.4
+  },
+  {
+   "keyword": "صفحة استعادة حساب مايكروسوفت",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب مايكروسوفت"
+   ],
+   "popularity": 29,
+   "difficulty": 52,
+   "buyer_intent": 85,
+   "opportunity": 68.4
+  },
+  {
+   "keyword": "نموذج استعادة حساب مايكروسوفت",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب مايكروسوفت"
+   ],
+   "popularity": 29,
+   "difficulty": 52,
+   "buyer_intent": 85,
+   "opportunity": 68.4
+  },
+  {
+   "keyword": "فك باند سناب ss06",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "فك باند"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 85,
+   "opportunity": 68.4
+  },
+  {
+   "keyword": "تم اختراق حسابي instagram",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 85,
+   "opportunity": 68.4
+  },
+  {
+   "keyword": "طريقة استرجاع حساب جوجل",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 85,
+   "opportunity": 68.4
+  },
+  {
    "keyword": "رجوع حساب انستا باي",
    "intent": "استعادة حساب",
    "google_hits": 2,
@@ -8560,6 +10554,23 @@
     "رجوع حساب"
    ],
    "popularity": 38,
+   "difficulty": 28,
+   "buyer_intent": 65,
+   "opportunity": 68.2
+  },
+  {
+   "keyword": "انتحال شخصية رجل امن",
+   "intent": "كشف هوية / OSINT",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "انتحال شخصية"
+   ],
+   "popularity": 36,
    "difficulty": 28,
    "buyer_intent": 65,
    "opportunity": 68.2
@@ -8629,6 +10640,72 @@
    "opportunity": 68.0
   },
   {
+   "keyword": "تهكير سوني 3",
+   "intent": "اختراق وأدوات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تهكير حساب"
+   ],
+   "popularity": 25,
+   "difficulty": 37,
+   "buyer_intent": 72,
+   "opportunity": 68.0
+  },
+  {
+   "keyword": "تهكير سوني 2",
+   "intent": "اختراق وأدوات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تهكير حساب"
+   ],
+   "popularity": 25,
+   "difficulty": 37,
+   "buyer_intent": 72,
+   "opportunity": 68.0
+  },
+  {
+   "keyword": "تهكير سوني ثري",
+   "intent": "اختراق وأدوات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تهكير حساب"
+   ],
+   "popularity": 25,
+   "difficulty": 37,
+   "buyer_intent": 72,
+   "opportunity": 68.0
+  },
+  {
+   "keyword": "استرجاع حساب جوجل",
+   "intent": "استعادة حساب",
+   "google_hits": 4,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب جوجل"
+   ],
+   "popularity": 61,
+   "difficulty": 53,
+   "buyer_intent": 85,
+   "opportunity": 67.9
+  },
+  {
    "keyword": "خدمة استرجاع حساب تيك توك",
    "intent": "استعادة حساب",
    "google_hits": 2,
@@ -8644,6 +10721,26 @@
    "difficulty": 53,
    "buyer_intent": 85,
    "opportunity": 67.9
+  },
+  {
+   "keyword": "كيفية استرجاع حساب جيميل",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 12,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام",
+    "استرجاع حساب تلجرام",
+    "استرجاع حساب جيميل",
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 100,
+   "difficulty": 23,
+   "buyer_intent": 60,
+   "opportunity": 67.7
   },
   {
    "keyword": "كيفية استرجاع حساب جوجل على هاتف أندرويد",
@@ -9078,6 +11175,22 @@
    "opportunity": 67.7
   },
   {
+   "keyword": "كيفية استرجاع حساب فيس بوك نسيت كلمة السر على الكمبيوتر",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 33,
+   "difficulty": 23,
+   "buyer_intent": 60,
+   "opportunity": 67.7
+  },
+  {
    "keyword": "كيفية استرجاع حساب فيس بوك نسيت كلمة السر ورقم الهاتف",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -9095,6 +11208,22 @@
   },
   {
    "keyword": "كيفية استرجاع حساب فيس بوك تم تعطيله",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 33,
+   "difficulty": 23,
+   "buyer_intent": 60,
+   "opportunity": 67.7
+  },
+  {
+   "keyword": "كيفية استرجاع حساب فيس بوك نسيت كلمة السر والايميل",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -9142,7 +11271,7 @@
    "opportunity": 67.7
   },
   {
-   "keyword": "كيفية استرجاع حساب فيس بوك نسيت كلمة السر والايميل",
+   "keyword": "كيفية استرجاع حساب فيس بوك عن طريق بطاقة الهوية",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -9158,7 +11287,7 @@
    "opportunity": 67.7
   },
   {
-   "keyword": "كيفية استرجاع حساب فيس بوك عن طريق بطاقة الهوية",
+   "keyword": "كيفية استرجاع حساب فيس بوك محذوف نهائيا",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -9238,7 +11367,7 @@
    "opportunity": 67.7
   },
   {
-   "keyword": "كيف استرجاع حساب جيميل بدون رقم هاتف",
+   "keyword": "كيف استرجاع حساب جيميل نسيت كلمة السر",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -9254,7 +11383,7 @@
    "opportunity": 67.7
   },
   {
-   "keyword": "كيف استرجاع حساب جيميل نسيت كلمة السر",
+   "keyword": "كيف استرجاع حساب جيميل بدون رقم هاتف",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -9382,6 +11511,22 @@
    "opportunity": 67.7
   },
   {
+   "keyword": "كيفية استعادة حساب فيس بوك معطل",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب فيس بوك معطل"
+   ],
+   "popularity": 33,
+   "difficulty": 23,
+   "buyer_intent": 60,
+   "opportunity": 67.7
+  },
+  {
    "keyword": "كيف ارجع حسابي موقوف في تويتر",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -9450,6 +11595,60 @@
    "opportunity": 67.5
   },
   {
+   "keyword": "استعادة حساب جيميل",
+   "intent": "استعادة حساب",
+   "google_hits": 3,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب",
+    "استعادة حساب جيميل"
+   ],
+   "popularity": 52,
+   "difficulty": 54,
+   "buyer_intent": 85,
+   "opportunity": 67.5
+  },
+  {
+   "keyword": "استعادة حساب جوجل",
+   "intent": "استعادة حساب",
+   "google_hits": 3,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب",
+    "استعادة حساب جوجل"
+   ],
+   "popularity": 52,
+   "difficulty": 54,
+   "buyer_intent": 85,
+   "opportunity": 67.5
+  },
+  {
+   "keyword": "استعادة حساب انستقرام",
+   "intent": "استعادة حساب",
+   "google_hits": 3,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب",
+    "استعادة حساب انستقرام"
+   ],
+   "popularity": 52,
+   "difficulty": 54,
+   "buyer_intent": 85,
+   "opportunity": 67.5
+  },
+  {
    "keyword": "ابتزاز الصور",
    "intent": "ابتزاز وتهديد",
    "google_hits": 2,
@@ -9464,6 +11663,56 @@
    "popularity": 34,
    "difficulty": 24,
    "buyer_intent": 60,
+   "opportunity": 67.2
+  },
+  {
+   "keyword": "ابتزاز بالانجليزي",
+   "intent": "ابتزاز وتهديد",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "ابتزاز"
+   ],
+   "popularity": 32,
+   "difficulty": 24,
+   "buyer_intent": 60,
+   "opportunity": 67.2
+  },
+  {
+   "keyword": "ابتزاز بالانجليزية",
+   "intent": "ابتزاز وتهديد",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "ابتزاز"
+   ],
+   "popularity": 32,
+   "difficulty": 24,
+   "buyer_intent": 60,
+   "opportunity": 67.2
+  },
+  {
+   "keyword": "حسابي محظور في الراجحي",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "حسابي محظور"
+   ],
+   "popularity": 29,
+   "difficulty": 30,
+   "buyer_intent": 65,
    "opportunity": 67.2
   },
   {
@@ -9499,20 +11748,84 @@
    "opportunity": 67.2
   },
   {
-   "keyword": "انتحال شخصية رجل امن",
-   "intent": "كشف هوية / OSINT",
+   "keyword": "استعاده حساب ابل الرسمي",
+   "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
    "engines": [
     "google"
    ],
    "seeds": [
-    "انتحال شخصية"
+    "استعادة حساب ابل"
    ],
    "popularity": 29,
    "difficulty": 30,
    "buyer_intent": 65,
    "opportunity": 67.2
+  },
+  {
+   "keyword": "حساب فيسبوك تم اختراق",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "اختراق حساب"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 65,
+   "opportunity": 67.2
+  },
+  {
+   "keyword": "الابلاغ عن حساب منتحل",
+   "intent": "كشف هوية / OSINT",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "حساب منتحل"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 65,
+   "opportunity": 67.2
+  },
+  {
+   "keyword": "انتحال شخصية in english",
+   "intent": "كشف هوية / OSINT",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "انتحال شخصية"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 65,
+   "opportunity": 67.2
+  },
+  {
+   "keyword": "استعادة الملفات برنامج مجاني",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 27,
+   "difficulty": 12,
+   "buyer_intent": 50,
+   "opportunity": 67.1
   },
   {
    "keyword": "لماذا حسابي موقوف في تويتر",
@@ -9530,74 +11843,6 @@
    "difficulty": 25,
    "buyer_intent": 60,
    "opportunity": 66.8
-  },
-  {
-   "keyword": "استرجاع حساب جوجل",
-   "intent": "استعادة حساب",
-   "google_hits": 3,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب",
-    "استرجاع حساب جوجل"
-   ],
-   "popularity": 45,
-   "difficulty": 56,
-   "buyer_intent": 85,
-   "opportunity": 66.6
-  },
-  {
-   "keyword": "استعادة حساب جيميل",
-   "intent": "استعادة حساب",
-   "google_hits": 3,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استعادة حساب",
-    "استعادة حساب جيميل"
-   ],
-   "popularity": 45,
-   "difficulty": 56,
-   "buyer_intent": 85,
-   "opportunity": 66.6
-  },
-  {
-   "keyword": "استعادة حساب جوجل",
-   "intent": "استعادة حساب",
-   "google_hits": 3,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استعادة حساب",
-    "استعادة حساب جوجل"
-   ],
-   "popularity": 45,
-   "difficulty": 56,
-   "buyer_intent": 85,
-   "opportunity": 66.6
-  },
-  {
-   "keyword": "استعادة حساب انستقرام",
-   "intent": "استعادة حساب",
-   "google_hits": 3,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استعادة حساب",
-    "استعادة حساب انستقرام"
-   ],
-   "popularity": 45,
-   "difficulty": 56,
-   "buyer_intent": 85,
-   "opportunity": 66.6
   },
   {
    "keyword": "حسابي مخترق سناب",
@@ -9667,38 +11912,6 @@
    "opportunity": 66.6
   },
   {
-   "keyword": "ابتزاز بالانجليزي",
-   "intent": "ابتزاز وتهديد",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "ابتزاز"
-   ],
-   "popularity": 25,
-   "difficulty": 26,
-   "buyer_intent": 60,
-   "opportunity": 66.3
-  },
-  {
-   "keyword": "ابتزاز بالانجليزية",
-   "intent": "ابتزاز وتهديد",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "ابتزاز"
-   ],
-   "popularity": 25,
-   "difficulty": 26,
-   "buyer_intent": 60,
-   "opportunity": 66.3
-  },
-  {
    "keyword": "ابتزاز معنى",
    "intent": "ابتزاز وتهديد",
    "google_hits": 1,
@@ -9732,6 +11945,23 @@
    "opportunity": 66.1
   },
   {
+   "keyword": "استعادة حساب تويتر",
+   "intent": "استعادة حساب",
+   "google_hits": 2,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب",
+    "استعادة حساب تويتر"
+   ],
+   "popularity": 36,
+   "difficulty": 57,
+   "buyer_intent": 85,
+   "opportunity": 66.1
+  },
+  {
    "keyword": "استرجاع حساب جيميل",
    "intent": "استعادة حساب",
    "google_hits": 2,
@@ -9744,6 +11974,59 @@
     "استرجاع حساب جيميل"
    ],
    "popularity": 36,
+   "difficulty": 57,
+   "buyer_intent": 85,
+   "opportunity": 66.1
+  },
+  {
+   "keyword": "استرجاع حساب مايكروسوفت",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب",
+    "استرجاع حساب مايكروسوفت"
+   ],
+   "popularity": 34,
+   "difficulty": 57,
+   "buyer_intent": 85,
+   "opportunity": 66.1
+  },
+  {
+   "keyword": "استعادة حساب مايكروسوفت",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب",
+    "استعادة حساب مايكروسوفت"
+   ],
+   "popularity": 34,
+   "difficulty": 57,
+   "buyer_intent": 85,
+   "opportunity": 66.1
+  },
+  {
+   "keyword": "استرجاع حساب تويتر",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 34,
    "difficulty": 57,
    "buyer_intent": 85,
    "opportunity": 66.1
@@ -9870,22 +12153,6 @@
    ],
    "seeds": [
     "استرجاع حساب تيك توك"
-   ],
-   "popularity": 31,
-   "difficulty": 27,
-   "buyer_intent": 60,
-   "opportunity": 65.8
-  },
-  {
-   "keyword": "كيفية استرجاع حساب تويتر موقوف",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب تويتر"
    ],
    "popularity": 31,
    "difficulty": 27,
@@ -10133,6 +12400,22 @@
    "opportunity": 65.8
   },
   {
+   "keyword": "كيفية استعادة حساب الفيس بوك",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب"
+   ],
+   "popularity": 29,
+   "difficulty": 27,
+   "buyer_intent": 60,
+   "opportunity": 65.8
+  },
+  {
    "keyword": "استرجاع حساب انستقرام",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -10142,22 +12425,6 @@
    ],
    "seeds": [
     "استرجاع حساب انستقرام"
-   ],
-   "popularity": 27,
-   "difficulty": 59,
-   "buyer_intent": 85,
-   "opportunity": 65.2
-  },
-  {
-   "keyword": "استرجاع حساب تويتر",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استرجاع حساب تويتر"
    ],
    "popularity": 27,
    "difficulty": 59,
@@ -10208,6 +12475,22 @@
     "حسابي مخترق"
    ],
    "popularity": 27,
+   "difficulty": 59,
+   "buyer_intent": 85,
+   "opportunity": 65.2
+  },
+  {
+   "keyword": "فك باند سناب",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "فك باند"
+   ],
+   "popularity": 25,
    "difficulty": 59,
    "buyer_intent": 85,
    "opportunity": 65.2
@@ -10310,7 +12593,7 @@
    "opportunity": 64.3
   },
   {
-   "keyword": "كيف ارجع حسابي فيسبوك مسروق",
+   "keyword": "كيفيه استعاده حسابي على فيسبوك",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -10318,7 +12601,7 @@
     "google"
    ],
    "seeds": [
-    "حسابي مسروق فيسبوك"
+    "استعادة حسابي على فيسبوك"
    ],
    "popularity": 31,
    "difficulty": 6,
@@ -10614,7 +12897,7 @@
    "opportunity": 64.1
   },
   {
-   "keyword": "حساب وهمي تلقرام",
+   "keyword": "حساب وهمي قوقل",
    "intent": "كشف هوية / OSINT",
    "google_hits": 1,
    "bing_hits": 0,
@@ -10662,6 +12945,87 @@
    "opportunity": 64.1
   },
   {
+   "keyword": "رجوع حساب التليجرام",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "رجوع حساب"
+   ],
+   "popularity": 27,
+   "difficulty": 37,
+   "buyer_intent": 65,
+   "opportunity": 64.1
+  },
+  {
+   "keyword": "انتحال شخصية فيسبوك",
+   "intent": "كشف هوية / OSINT",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "انتحال شخصية"
+   ],
+   "popularity": 25,
+   "difficulty": 37,
+   "buyer_intent": 65,
+   "opportunity": 64.1
+  },
+  {
+   "keyword": "استعادة الوصول إلى حسابك على فيسبوك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 31,
+   "difficulty": 19,
+   "buyer_intent": 50,
+   "opportunity": 64.0
+  },
+  {
+   "keyword": "برنامج استعادة الملفات المحذوفة كامل مجانا",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 31,
+   "difficulty": 19,
+   "buyer_intent": 50,
+   "opportunity": 64.0
+  },
+  {
+   "keyword": "كيفية استعادة حساب جوجل",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب"
+   ],
+   "popularity": 36,
+   "difficulty": 32,
+   "buyer_intent": 60,
+   "opportunity": 63.6
+  },
+  {
    "keyword": "هكر اخلاقي سعودي",
    "intent": "اختراق وأدوات",
    "google_hits": 2,
@@ -10677,25 +13041,6 @@
    "difficulty": 35,
    "buyer_intent": 62,
    "opportunity": 63.4
-  },
-  {
-   "keyword": "حسابي محظور مؤقتا تيك توك",
-   "intent": "استعادة حساب",
-   "google_hits": 5,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "حسابي محظور",
-    "حسابي محظور تيك توك",
-    "حسابي محظور في تيك توك",
-    "حسابي محظور مؤقتا تيك توك"
-   ],
-   "popularity": 67,
-   "difficulty": 39,
-   "buyer_intent": 65,
-   "opportunity": 63.2
   },
   {
    "keyword": "شركة امن سيبراني في السعودية",
@@ -10714,22 +13059,36 @@
    "opportunity": 63.2
   },
   {
-   "keyword": "حسابي محظور في تيك توك",
-   "intent": "استعادة حساب",
-   "google_hits": 4,
-   "bing_hits": 0,
+   "keyword": "استرجاع ارقام الهاتف من الماسنجر",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
    "engines": [
-    "google"
+    "bing"
    ],
    "seeds": [
-    "حسابي محظور",
-    "حسابي محظور تيك توك",
-    "حسابي محظور في تيك توك"
+    "استرجاع حساب تلجرام"
    ],
-   "popularity": 58,
-   "difficulty": 40,
-   "buyer_intent": 65,
-   "opportunity": 62.8
+   "popularity": 36,
+   "difficulty": 21,
+   "buyer_intent": 50,
+   "opportunity": 63.1
+  },
+  {
+   "keyword": "برنامج استعادة الملفات المحذوفة كامل",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 36,
+   "difficulty": 21,
+   "buyer_intent": 50,
+   "opportunity": 63.1
   },
   {
    "keyword": "كيفية استرجاع حساب جوجل",
@@ -10741,22 +13100,6 @@
    ],
    "seeds": [
     "استرجاع حساب"
-   ],
-   "popularity": 29,
-   "difficulty": 34,
-   "buyer_intent": 60,
-   "opportunity": 62.7
-  },
-  {
-   "keyword": "كيفية استعادة حساب جوجل",
-   "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "استعادة حساب"
    ],
    "popularity": 29,
    "difficulty": 34,
@@ -10828,20 +13171,20 @@
    "opportunity": 62.7
   },
   {
-   "keyword": "كيفية استرجاع حساب جيميل",
+   "keyword": "استعاده حساب تيك توك",
    "intent": "استعادة حساب",
-   "google_hits": 1,
-   "bing_hits": 0,
+   "google_hits": 0,
+   "bing_hits": 9,
    "engines": [
-    "google"
+    "bing"
    ],
    "seeds": [
-    "استرجاع حساب جيميل"
+    "استرجاع حساب تيك توك"
    ],
-   "popularity": 29,
-   "difficulty": 34,
-   "buyer_intent": 60,
-   "opportunity": 62.7
+   "popularity": 85,
+   "difficulty": 41,
+   "buyer_intent": 65,
+   "opportunity": 62.3
   },
   {
    "keyword": "استعاده حساب محظور تيك توك فئه عمريه",
@@ -10860,35 +13203,84 @@
    "opportunity": 62.3
   },
   {
-   "keyword": "حسابي محظور نهائيا تيك توك",
-   "intent": "استعادة حساب",
-   "google_hits": 3,
-   "bing_hits": 0,
+   "keyword": "فتح حساب شركة الرياض",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 4,
    "engines": [
-    "google"
+    "bing"
    ],
    "seeds": [
-    "حسابي محظور",
-    "حسابي محظور تيك توك",
-    "حسابي محظور في تيك توك"
+    "استرجاع حساب فيس بوك",
+    "استعادة حساب مسروق",
+    "تم اختراق حسابي"
    ],
    "popularity": 49,
-   "difficulty": 42,
-   "buyer_intent": 65,
-   "opportunity": 61.9
+   "difficulty": 35,
+   "buyer_intent": 60,
+   "opportunity": 62.2
   },
   {
-   "keyword": "حسابي محظور",
-   "intent": "استعادة حساب",
-   "google_hits": 2,
+   "keyword": "استعادة وصول حسابي على فيسبوك",
+   "intent": "عام",
+   "google_hits": 1,
    "bing_hits": 0,
    "engines": [
     "google"
    ],
    "seeds": [
-    "حسابي محظور"
+    "استعادة حسابي على فيسبوك"
    ],
-   "popularity": 34,
+   "popularity": 31,
+   "difficulty": 23,
+   "buyer_intent": 50,
+   "opportunity": 62.2
+  },
+  {
+   "keyword": "استعادة الحصول على حسابي فيسبوك",
+   "intent": "عام",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حسابي على فيسبوك"
+   ],
+   "popularity": 31,
+   "difficulty": 23,
+   "buyer_intent": 50,
+   "opportunity": 62.2
+  },
+  {
+   "keyword": "برنامج استعادة الملفات المحذوفة مجانا",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 29,
+   "difficulty": 23,
+   "buyer_intent": 50,
+   "opportunity": 62.2
+  },
+  {
+   "keyword": "انتحال شخصية",
+   "intent": "كشف هوية / OSINT",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "انتحال شخصية"
+   ],
+   "popularity": 32,
    "difficulty": 42,
    "buyer_intent": 65,
    "opportunity": 61.9
@@ -10942,6 +13334,22 @@
    "opportunity": 61.6
   },
   {
+   "keyword": "كيف ارجع حسابي انستا",
+   "intent": "استعادة حساب",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام"
+   ],
+   "popularity": 27,
+   "difficulty": 12,
+   "buyer_intent": 40,
+   "opportunity": 61.6
+  },
+  {
    "keyword": "اختراق حسابي سناب شات",
    "intent": "اختراق وأدوات",
    "google_hits": 1,
@@ -10972,6 +13380,22 @@
    "difficulty": 52,
    "buyer_intent": 72,
    "opportunity": 61.2
+  },
+  {
+   "keyword": "حسابي محظور",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "حسابي محظور"
+   ],
+   "popularity": 25,
+   "difficulty": 44,
+   "buyer_intent": 65,
+   "opportunity": 61.0
   },
   {
    "keyword": "حساب مقفل",
@@ -11038,22 +13462,6 @@
    "opportunity": 61.0
   },
   {
-   "keyword": "انتحال شخصية",
-   "intent": "كشف هوية / OSINT",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "انتحال شخصية"
-   ],
-   "popularity": 25,
-   "difficulty": 44,
-   "buyer_intent": 65,
-   "opportunity": 61.0
-  },
-  {
    "keyword": "حساب وهمي",
    "intent": "كشف هوية / OSINT",
    "google_hits": 1,
@@ -11068,6 +13476,38 @@
    "difficulty": 44,
    "buyer_intent": 65,
    "opportunity": 61.0
+  },
+  {
+   "keyword": "حسابي محظور في تيك توك",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "حسابي محظور"
+   ],
+   "popularity": 31,
+   "difficulty": 45,
+   "buyer_intent": 65,
+   "opportunity": 60.5
+  },
+  {
+   "keyword": "حسابي محظور مؤقتا تيك توك",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "حسابي محظور"
+   ],
+   "popularity": 31,
+   "difficulty": 45,
+   "buyer_intent": 65,
+   "opportunity": 60.5
   },
   {
    "keyword": "رجوع حساب فيس بوك معطل",
@@ -11087,6 +13527,22 @@
   },
   {
    "keyword": "حسابي محظور في التيك توك",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "حسابي محظور"
+   ],
+   "popularity": 31,
+   "difficulty": 45,
+   "buyer_intent": 65,
+   "opportunity": 60.5
+  },
+  {
+   "keyword": "حسابي محظور نهائيا تيك توك",
    "intent": "استعادة حساب",
    "google_hits": 1,
    "bing_hits": 0,
@@ -11182,58 +13638,85 @@
    "opportunity": 60.1
   },
   {
-   "keyword": "حسابي محظور في تيك توك كيف ارجعه",
-   "intent": "استعادة حساب",
-   "google_hits": 6,
-   "bing_hits": 0,
+   "keyword": "انتحال شخصية بالانجليزي",
+   "intent": "كشف هوية / OSINT",
+   "google_hits": 1,
+   "bing_hits": 1,
    "engines": [
+    "bing",
     "google"
    ],
    "seeds": [
-    "حسابي محظور",
-    "حسابي محظور تيك توك",
-    "حسابي محظور في تيك توك",
-    "حسابي محظور في تيك توك كيف ارجعه"
+    "انتحال شخصية"
    ],
-   "popularity": 78,
-   "difficulty": 16,
+   "popularity": 34,
+   "difficulty": 17,
    "buyer_intent": 40,
-   "opportunity": 59.8
+   "opportunity": 59.4
   },
   {
-   "keyword": "حسابي محظور تيك توك",
-   "intent": "استعادة حساب",
-   "google_hits": 4,
-   "bing_hits": 0,
+   "keyword": "استعادة الرقم السري نفاذ",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
    "engines": [
-    "google"
+    "bing"
    ],
    "seeds": [
-    "حسابي محظور",
-    "حسابي محظور تيك توك",
-    "حسابي محظور في تيك توك"
+    "استعادة حساب مسروق"
    ],
-   "popularity": 56,
-   "difficulty": 47,
-   "buyer_intent": 65,
-   "opportunity": 59.6
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 50,
+   "opportunity": 59.0
   },
   {
-   "keyword": "حسابي محظور في واتساب",
-   "intent": "استعادة حساب",
-   "google_hits": 3,
-   "bing_hits": 0,
+   "keyword": "استعادة الملفات المحذوفة مجانا",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
    "engines": [
-    "google"
+    "bing"
    ],
    "seeds": [
-    "حسابي محظور",
-    "حسابي محظور في واتساب"
+    "استعادة حساب مسروق"
    ],
-   "popularity": 47,
-   "difficulty": 49,
-   "buyer_intent": 65,
-   "opportunity": 58.7
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 50,
+   "opportunity": 59.0
+  },
+  {
+   "keyword": "تنزيل برنامج حسابات مجاني عربي",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 29,
+   "difficulty": 6,
+   "buyer_intent": 30,
+   "opportunity": 58.8
+  },
+  {
+   "keyword": "الامن السيبراني في المملكه العربيه السعوديه",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "شركة امن سيبراني السعودية"
+   ],
+   "popularity": 31,
+   "difficulty": 19,
+   "buyer_intent": 40,
+   "opportunity": 58.5
   },
   {
    "keyword": "حساب مقفل صور",
@@ -11300,22 +13783,6 @@
    "opportunity": 58.5
   },
   {
-   "keyword": "انتحال شخصية بالانجليزي",
-   "intent": "كشف هوية / OSINT",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "انتحال شخصية"
-   ],
-   "popularity": 27,
-   "difficulty": 19,
-   "buyer_intent": 40,
-   "opportunity": 58.5
-  },
-  {
    "keyword": "حساب وهمي بالانجليزي",
    "intent": "كشف هوية / OSINT",
    "google_hits": 1,
@@ -11348,22 +13815,6 @@
    "opportunity": 58.0
   },
   {
-   "keyword": "اختراق حساب جيميل",
-   "intent": "اختراق وأدوات",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "اختراق حساب"
-   ],
-   "popularity": 27,
-   "difficulty": 59,
-   "buyer_intent": 72,
-   "opportunity": 58.0
-  },
-  {
    "keyword": "تهكير حساب ببجي",
    "intent": "اختراق وأدوات",
    "google_hits": 1,
@@ -11378,6 +13829,22 @@
    "difficulty": 59,
    "buyer_intent": 72,
    "opportunity": 58.0
+  },
+  {
+   "keyword": "حسابي محظور في تيك توك كيف ارجعه",
+   "intent": "استعادة حساب",
+   "google_hits": 2,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "حسابي محظور"
+   ],
+   "popularity": 42,
+   "difficulty": 21,
+   "buyer_intent": 40,
+   "opportunity": 57.6
   },
   {
    "keyword": "كيفية رجوع حساب الفيس بوك المعطل",
@@ -11396,21 +13863,68 @@
    "opportunity": 57.6
   },
   {
-   "keyword": "كيف اعرف حسابي محظور في تيك توك",
+   "keyword": "بنك الرياض اعادة تفعيل مستخدم",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 36,
+   "difficulty": 21,
+   "buyer_intent": 40,
+   "opportunity": 57.6
+  },
+  {
+   "keyword": "نسيت رمز التحقق بخطوتين واتس اب",
+   "intent": "حماية وتأمين",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "التحقق بخطوتين"
+   ],
+   "popularity": 31,
+   "difficulty": 19,
+   "buyer_intent": 38,
+   "opportunity": 57.4
+  },
+  {
+   "keyword": "حسابي محظور تيك توك",
    "intent": "استعادة حساب",
-   "google_hits": 2,
+   "google_hits": 1,
    "bing_hits": 0,
    "engines": [
     "google"
    ],
    "seeds": [
-    "حسابي محظور تيك توك",
-    "حسابي محظور في تيك توك"
+    "حسابي محظور"
    ],
-   "popularity": 42,
-   "difficulty": 21,
-   "buyer_intent": 40,
-   "opportunity": 57.6
+   "popularity": 29,
+   "difficulty": 52,
+   "buyer_intent": 65,
+   "opportunity": 57.4
+  },
+  {
+   "keyword": "حسابي محظور في واتساب",
+   "intent": "استعادة حساب",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "حسابي محظور"
+   ],
+   "popularity": 29,
+   "difficulty": 52,
+   "buyer_intent": 65,
+   "opportunity": 57.4
   },
   {
    "keyword": "رجوع حساب فيس بوك",
@@ -11557,6 +14071,24 @@
    "opportunity": 57.4
   },
   {
+   "keyword": "كيف تصبح هاكر اخلاقي",
+   "intent": "اختراق وأدوات",
+   "google_hits": 1,
+   "bing_hits": 6,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "هاكر اخلاقي",
+    "هكر اخلاقي سعودي"
+   ],
+   "popularity": 72,
+   "difficulty": 6,
+   "buyer_intent": 27,
+   "opportunity": 57.2
+  },
+  {
    "keyword": "هاتفي مخترق كيف أزيل الاختراق؟",
    "intent": "اختراق وأدوات",
    "google_hits": 1,
@@ -11640,22 +14172,6 @@
   },
   {
    "keyword": "كورسات هاكر اخلاقي",
-   "intent": "اختراق وأدوات",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "هاكر اخلاقي"
-   ],
-   "popularity": 27,
-   "difficulty": 37,
-   "buyer_intent": 52,
-   "opportunity": 57.0
-  },
-  {
-   "keyword": "دورات هاكر اخلاقي",
    "intent": "اختراق وأدوات",
    "google_hits": 1,
    "bing_hits": 0,
@@ -11783,6 +14299,22 @@
    "opportunity": 57.0
   },
   {
+   "keyword": "اريد هكر اخلاقي",
+   "intent": "اختراق وأدوات",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "هكر اخلاقي"
+   ],
+   "popularity": 27,
+   "difficulty": 37,
+   "buyer_intent": 52,
+   "opportunity": 57.0
+  },
+  {
    "keyword": "احتاج هكر اخلاقي",
    "intent": "اختراق وأدوات",
    "google_hits": 1,
@@ -11800,22 +14332,6 @@
   },
   {
    "keyword": "انا هكر اخلاقي",
-   "intent": "اختراق وأدوات",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "هكر اخلاقي"
-   ],
-   "popularity": 27,
-   "difficulty": 37,
-   "buyer_intent": 52,
-   "opportunity": 57.0
-  },
-  {
-   "keyword": "اريد هكر اخلاقي",
    "intent": "اختراق وأدوات",
    "google_hits": 1,
    "bing_hits": 0,
@@ -11863,6 +14379,70 @@
    "opportunity": 57.0
   },
   {
+   "keyword": "هكر غير اخلاقي",
+   "intent": "اختراق وأدوات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "هكر اخلاقي"
+   ],
+   "popularity": 25,
+   "difficulty": 37,
+   "buyer_intent": 52,
+   "opportunity": 57.0
+  },
+  {
+   "keyword": "تعليم هكر اخلاقي",
+   "intent": "اختراق وأدوات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "هكر اخلاقي"
+   ],
+   "popularity": 25,
+   "difficulty": 37,
+   "buyer_intent": 52,
+   "opportunity": 57.0
+  },
+  {
+   "keyword": "دورات هكر اخلاقي",
+   "intent": "اختراق وأدوات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "هكر اخلاقي"
+   ],
+   "popularity": 25,
+   "difficulty": 37,
+   "buyer_intent": 52,
+   "opportunity": 57.0
+  },
+  {
+   "keyword": "استعادة كلمة مرور حساب مايكروسوفت",
+   "intent": "حماية وتأمين",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب مايكروسوفت"
+   ],
+   "popularity": 31,
+   "difficulty": 45,
+   "buyer_intent": 58,
+   "opportunity": 56.7
+  },
+  {
    "keyword": "حسابي في سناب محظور كيف ارجعه",
    "intent": "استعادة حساب",
    "google_hits": 1,
@@ -11895,21 +14475,148 @@
    "opportunity": 56.6
   },
   {
-   "keyword": "حسابي محظور انستقرام",
-   "intent": "استعادة حساب",
-   "google_hits": 4,
+   "keyword": "شركات الأمن السيبراني في السعودية",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "شركة امن سيبراني السعودية"
+   ],
+   "popularity": 29,
+   "difficulty": 23,
+   "buyer_intent": 40,
+   "opportunity": 56.6
+  },
+  {
+   "keyword": "تدريب تعاوني امن سيبراني الرياض",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "شركة امن سيبراني السعودية"
+   ],
+   "popularity": 29,
+   "difficulty": 23,
+   "buyer_intent": 40,
+   "opportunity": 56.6
+  },
+  {
+   "keyword": "ابحث عن عمل في جدة",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 29,
+   "difficulty": 23,
+   "buyer_intent": 40,
+   "opportunity": 56.6
+  },
+  {
+   "keyword": "ادرس في السعودية انشاء حساب",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 29,
+   "difficulty": 23,
+   "buyer_intent": 40,
+   "opportunity": 56.6
+  },
+  {
+   "keyword": "فتح حساب باي بال السعودية",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 29,
+   "difficulty": 23,
+   "buyer_intent": 40,
+   "opportunity": 56.6
+  },
+  {
+   "keyword": "الرياض اون لاين فتح حساب",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 29,
+   "difficulty": 23,
+   "buyer_intent": 40,
+   "opportunity": 56.6
+  },
+  {
+   "keyword": "استرجاع الصور من حساب اي كلاود",
+   "intent": "عام",
+   "google_hits": 1,
    "bing_hits": 0,
    "engines": [
     "google"
    ],
    "seeds": [
-    "حسابي محظور",
-    "حسابي محظور انستقرام"
+    "استرجاع حساب اي كلاود"
    ],
-   "popularity": 54,
-   "difficulty": 54,
-   "buyer_intent": 65,
-   "opportunity": 56.5
+   "popularity": 33,
+   "difficulty": 6,
+   "buyer_intent": 25,
+   "opportunity": 56.1
+  },
+  {
+   "keyword": "دورات امن سيبراني مجانيه",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "شركة امن سيبراني السعودية"
+   ],
+   "popularity": 27,
+   "difficulty": 12,
+   "buyer_intent": 30,
+   "opportunity": 56.1
+  },
+  {
+   "keyword": "تحميل برنامج حسابات مجاني",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 27,
+   "difficulty": 12,
+   "buyer_intent": 30,
+   "opportunity": 56.1
   },
   {
    "keyword": "كلمات مرور قوية للواي فاي",
@@ -11944,6 +14651,22 @@
    "opportunity": 55.5
   },
   {
+   "keyword": "نسيت التحقق بخطوتين واتس اب",
+   "intent": "حماية وتأمين",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "التحقق بخطوتين"
+   ],
+   "popularity": 29,
+   "difficulty": 23,
+   "buyer_intent": 38,
+   "opportunity": 55.5
+  },
+  {
    "keyword": "تأمين حساب انستقرام وحمايته من الهكر",
    "intent": "اختراق وأدوات",
    "google_hits": 1,
@@ -11958,6 +14681,22 @@
    "difficulty": 41,
    "buyer_intent": 52,
    "opportunity": 55.2
+  },
+  {
+   "keyword": "حسابي محظور انستقرام",
+   "intent": "استعادة حساب",
+   "google_hits": 2,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "حسابي محظور"
+   ],
+   "popularity": 36,
+   "difficulty": 57,
+   "buyer_intent": 65,
+   "opportunity": 55.1
   },
   {
    "keyword": "حساب مقفل انستقرام",
@@ -11990,6 +14729,24 @@
    "difficulty": 57,
    "buyer_intent": 65,
    "opportunity": 55.1
+  },
+  {
+   "keyword": "فتح حساب في الرياض",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك",
+    "استعادة حساب مسروق",
+    "تم اختراق حسابي"
+   ],
+   "popularity": 42,
+   "difficulty": 27,
+   "buyer_intent": 40,
+   "opportunity": 54.9
   },
   {
    "keyword": "كيفيه رجوع حساب التيك توك",
@@ -12056,7 +14813,24 @@
    "opportunity": 54.9
   },
   {
-   "keyword": "كيف تصبح هاكر اخلاقي",
+   "keyword": "هكر اخلاقي",
+   "intent": "اختراق وأدوات",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "هاكر اخلاقي",
+    "هكر اخلاقي"
+   ],
+   "popularity": 30,
+   "difficulty": 42,
+   "buyer_intent": 52,
+   "opportunity": 54.7
+  },
+  {
+   "keyword": "دورة هكر اخلاقي مجانية",
    "intent": "اختراق وأدوات",
    "google_hits": 1,
    "bing_hits": 0,
@@ -12064,12 +14838,62 @@
     "google"
    ],
    "seeds": [
-    "هاكر اخلاقي"
+    "هكر اخلاقي"
    ],
    "popularity": 29,
    "difficulty": 12,
    "buyer_intent": 27,
    "opportunity": 54.5
+  },
+  {
+   "keyword": "حساب نهاية خدمة موظف",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 27,
+   "difficulty": 40,
+   "buyer_intent": 50,
+   "opportunity": 54.5
+  },
+  {
+   "keyword": "حساب الرياض اون لاين",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق",
+    "تم اختراق حسابي"
+   ],
+   "popularity": 34,
+   "difficulty": 28,
+   "buyer_intent": 40,
+   "opportunity": 54.4
+  },
+  {
+   "keyword": "فتح حساب الرياض مؤسسات",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق",
+    "تم اختراق حسابي"
+   ],
+   "popularity": 34,
+   "difficulty": 28,
+   "buyer_intent": 40,
+   "opportunity": 54.4
   },
   {
    "keyword": "حساب مقفل سناب",
@@ -12152,20 +14976,20 @@
    "opportunity": 54.2
   },
   {
-   "keyword": "استرجاع سناب شات بدون ايميل ورقم",
+   "keyword": "تغيير حساب مستخدم محلي إلى حساب مسؤول",
    "intent": "عام",
-   "google_hits": 1,
-   "bing_hits": 0,
+   "google_hits": 0,
+   "bing_hits": 2,
    "engines": [
-    "google"
+    "bing"
    ],
    "seeds": [
-    "استرجاع حساب سناب شات بدون ايميل"
+    "استعادة حساب مسروق"
    ],
-   "popularity": 33,
-   "difficulty": 41,
-   "buyer_intent": 50,
-   "opportunity": 54.1
+   "popularity": 38,
+   "difficulty": 17,
+   "buyer_intent": 30,
+   "opportunity": 53.9
   },
   {
    "keyword": "هكر أخلاقي",
@@ -12214,6 +15038,214 @@
    "difficulty": 44,
    "buyer_intent": 52,
    "opportunity": 53.8
+  },
+  {
+   "keyword": "وظائف امن سيبراني الرياض",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "شركة امن سيبراني السعودية"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 40,
+   "opportunity": 53.5
+  },
+  {
+   "keyword": "الأمن السيبراني في السعودية",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "شركة امن سيبراني السعودية"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 40,
+   "opportunity": 53.5
+  },
+  {
+   "keyword": "الامن السيبراني في السعودية",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "شركة امن سيبراني السعودية"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 40,
+   "opportunity": 53.5
+  },
+  {
+   "keyword": "فتح حساب تجاري الرياض",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 40,
+   "opportunity": 53.5
+  },
+  {
+   "keyword": "رقم الجرائم الالكترونية السعودية",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 40,
+   "opportunity": 53.5
+  },
+  {
+   "keyword": "متاجر الكترونية في السعودية",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 40,
+   "opportunity": 53.5
+  },
+  {
+   "keyword": "الجرائم الالكترونية في السعودية",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 40,
+   "opportunity": 53.5
+  },
+  {
+   "keyword": "فتح حساب الرياض افراد",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 40,
+   "opportunity": 53.5
+  },
+  {
+   "keyword": "وظائف عن بعد جدة",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 40,
+   "opportunity": 53.5
+  },
+  {
+   "keyword": "مطلوب محاسب في جدة",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 40,
+   "opportunity": 53.5
+  },
+  {
+   "keyword": "الرياض فتح حساب مؤسسة",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 40,
+   "opportunity": 53.5
+  },
+  {
+   "keyword": "فتح حساب منشأة الرياض",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 40,
+   "opportunity": 53.5
+  },
+  {
+   "keyword": "كيفية استعادة الملفات المحذوفة",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 27,
+   "difficulty": 12,
+   "buyer_intent": 25,
+   "opportunity": 53.4
   },
   {
    "keyword": "حذف حساب شخص متوفي في الإنستقرام",
@@ -12280,6 +15312,38 @@
    "opportunity": 53.0
   },
   {
+   "keyword": "حذف حساب الضمان والتسجيل من جديد",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 31,
+   "difficulty": 19,
+   "buyer_intent": 30,
+   "opportunity": 53.0
+  },
+  {
+   "keyword": "طريقة اضافة مولود في حساب المواطن",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 31,
+   "difficulty": 19,
+   "buyer_intent": 30,
+   "opportunity": 53.0
+  },
+  {
    "keyword": "كيفية رجوع حساب الانستقرام",
    "intent": "استعادة حساب",
    "google_hits": 2,
@@ -12310,6 +15374,22 @@
    "difficulty": 32,
    "buyer_intent": 40,
    "opportunity": 52.6
+  },
+  {
+   "keyword": "حساب للعمل أو حساب مدرسي",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 44,
+   "difficulty": 20,
+   "buyer_intent": 30,
+   "opportunity": 52.5
   },
   {
    "keyword": "هكر اخلاقي معتمد",
@@ -12504,20 +15584,52 @@
    "opportunity": 52.4
   },
   {
-   "keyword": "استرجاع سناب شات بدون ايميل",
-   "intent": "عام",
-   "google_hits": 1,
-   "bing_hits": 0,
+   "keyword": "التحقق بخطوتين جامعة الامام",
+   "intent": "حماية وتأمين",
+   "google_hits": 0,
+   "bing_hits": 1,
    "engines": [
-    "google"
+    "bing"
    ],
    "seeds": [
-    "استرجاع حساب سناب شات بدون ايميل"
+    "التحقق بخطوتين"
    ],
-   "popularity": 31,
-   "difficulty": 45,
-   "buyer_intent": 50,
-   "opportunity": 52.2
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 38,
+   "opportunity": 52.4
+  },
+  {
+   "keyword": "اقتراح كلمات مرور قوية",
+   "intent": "حماية وتأمين",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "كلمات مرور قوية"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 38,
+   "opportunity": 52.4
+  },
+  {
+   "keyword": "اخلاق الملك عبدالعزيز ال سعود",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "هكر اخلاقي سعودي"
+   ],
+   "popularity": 36,
+   "difficulty": 21,
+   "buyer_intent": 30,
+   "opportunity": 52.1
   },
   {
    "keyword": "كيف تصبح خبير امن معلومات",
@@ -12579,6 +15691,38 @@
     "هكر اخلاقي"
    ],
    "popularity": 27,
+   "difficulty": 19,
+   "buyer_intent": 27,
+   "opportunity": 51.3
+  },
+  {
+   "keyword": "هاكر اخلاقي بالانجليزي",
+   "intent": "اختراق وأدوات",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "هاكر اخلاقي"
+   ],
+   "popularity": 27,
+   "difficulty": 19,
+   "buyer_intent": 27,
+   "opportunity": 51.3
+  },
+  {
+   "keyword": "صور هكر اخلاقي",
+   "intent": "اختراق وأدوات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "هكر اخلاقي"
+   ],
+   "popularity": 25,
    "difficulty": 19,
    "buyer_intent": 27,
    "opportunity": 51.3
@@ -12680,20 +15824,68 @@
    "opportunity": 51.1
   },
   {
-   "keyword": "اختراق واتساب عبر الرقم",
-   "intent": "اختراق وأدوات",
-   "google_hits": 1,
-   "bing_hits": 0,
+   "keyword": "طريقة حذف حساب من الكمبيوتر",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 1,
    "engines": [
-    "google"
+    "bing"
    ],
    "seeds": [
-    "اختراق واتساب"
+    "حذف حساب شخص متوفي"
    ],
    "popularity": 29,
-   "difficulty": 52,
-   "buyer_intent": 52,
-   "opportunity": 50.2
+   "difficulty": 23,
+   "buyer_intent": 30,
+   "opportunity": 51.1
+  },
+  {
+   "keyword": "حساب ضريبة كسب العمل 2026",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 29,
+   "difficulty": 23,
+   "buyer_intent": 30,
+   "opportunity": 51.1
+  },
+  {
+   "keyword": "راف فور 2026 استهلاك الوقود",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 29,
+   "difficulty": 23,
+   "buyer_intent": 30,
+   "opportunity": 51.1
+  },
+  {
+   "keyword": "استعلام عن رقم حساب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 42,
+   "difficulty": 27,
+   "buyer_intent": 30,
+   "opportunity": 49.4
   },
   {
    "keyword": "حماية الحسابات البنكية",
@@ -12840,6 +16032,103 @@
    "opportunity": 49.1
   },
   {
+   "keyword": "استعادة فيس بوك معطل",
+   "intent": "عام",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "استعادة حساب فيس بوك معطل"
+   ],
+   "popularity": 29,
+   "difficulty": 52,
+   "buyer_intent": 50,
+   "opportunity": 49.1
+  },
+  {
+   "keyword": "استرجاع صفحة فيس بوك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 50,
+   "opportunity": 49.1
+  },
+  {
+   "keyword": "تيليجرام تسجيل حساب جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 34,
+   "difficulty": 28,
+   "buyer_intent": 30,
+   "opportunity": 48.9
+  },
+  {
+   "keyword": "طريقة عمل كشف حساب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 34,
+   "difficulty": 28,
+   "buyer_intent": 30,
+   "opportunity": 48.9
+  },
+  {
+   "keyword": "طريقة حساب الضمان المطور",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق",
+    "تم اختراق حسابي"
+   ],
+   "popularity": 34,
+   "difficulty": 28,
+   "buyer_intent": 30,
+   "opportunity": 48.9
+  },
+  {
+   "keyword": "اعادة تفعيل حساب الراجحي",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 34,
+   "difficulty": 28,
+   "buyer_intent": 30,
+   "opportunity": 48.9
+  },
+  {
    "keyword": "حذف حساب شخص متوفي",
    "intent": "حذف وإغلاق حسابات",
    "google_hits": 1,
@@ -12856,7 +16145,7 @@
    "opportunity": 48.0
   },
   {
-   "keyword": "هل هاتفي مخترق الان؟",
+   "keyword": "هل هاتفي مخترق الان",
    "intent": "عام",
    "google_hits": 1,
    "bing_hits": 0,
@@ -12904,36 +16193,550 @@
    "opportunity": 48.0
   },
   {
+   "keyword": "فتح حساب ابل مقفل",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "حساب مقفل"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "كشف متابعة الطلاب 1447",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "كشف مبتز"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "كشف متابعة الطلاب وورد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "كشف مبتز"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "كشف متابعة الطلاب 1445",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "كشف مبتز"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "كشف متابعة الطلاب اليومي",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "كشف مبتز"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "كشف متابعة الطالبات اليومي",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "كشف مبتز"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "طريقة حذف حساب فيسبوك",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "حذف حساب شخص متوفي"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "حذف حساب من الكمبيوتر",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "حذف حساب شخص متوفي"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "طريقة حذف حساب المواطن",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "حذف حساب شخص متوفي"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "برامج تسجيل الشاشة للكمبيوتر",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "برامج تجسس"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "برنامج تحسين جودة الصوت",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "برامج تجسس"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "برامج تحسين وتنظيف الفيديوهات",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "برامج تجسس"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "دوره امن سيبراني مجانا",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "شركة امن سيبراني السعودية"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "تقديم وظائف امن سيبراني",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "شركة امن سيبراني السعودية"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "تدريب تعاوني امن سيبراني",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "شركة امن سيبراني السعودية"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "حساب استحقاق الضمان المطور",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "استمارة جرد رقم 11",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "حساب التاجر stc pay",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "تطبيق حساب الأجور 2026",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "حساب الضمان المطور دخول",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "حاسبة حساب الضمان المطور",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "حذف حساب الضمان المطور",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "طريقة عمل اختبار الكتروني",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "برنامج حسابات كامل مجانا",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "مراقب قياس تسجيل دخول",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "التسجيل مراقب في قياس",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "اعادة طلب حساب المواطن",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "فتح حساب مستثمر جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 30,
+   "opportunity": 48.0
+  },
+  {
+   "keyword": "استرداد حساب جيميل بدون رقم هاتف",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 8,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 82,
+   "difficulty": 31,
+   "buyer_intent": 30,
+   "opportunity": 47.5
+  },
+  {
    "keyword": "حماية الحسابات",
    "intent": "حماية وتأمين",
    "google_hits": 1,
-   "bing_hits": 0,
+   "bing_hits": 1,
    "engines": [
+    "bing",
     "google"
    ],
    "seeds": [
     "حماية الحسابات"
    ],
-   "popularity": 25,
-   "difficulty": 44,
+   "popularity": 32,
+   "difficulty": 42,
    "buyer_intent": 38,
-   "opportunity": 46.1
+   "opportunity": 47.0
   },
   {
    "keyword": "التحقق بخطوتين",
    "intent": "حماية وتأمين",
    "google_hits": 1,
-   "bing_hits": 0,
+   "bing_hits": 1,
    "engines": [
+    "bing",
     "google"
    ],
    "seeds": [
     "التحقق بخطوتين"
    ],
-   "popularity": 25,
-   "difficulty": 44,
+   "popularity": 32,
+   "difficulty": 42,
    "buyer_intent": 38,
-   "opportunity": 46.1
+   "opportunity": 47.0
+  },
+  {
+   "keyword": "يوتيوب الصفحة الرئيسية السعودية امن",
+   "intent": "خدمات تجارية",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "شركة امن سيبراني السعودية"
+   ],
+   "popularity": 29,
+   "difficulty": 45,
+   "buyer_intent": 40,
+   "opportunity": 46.8
+  },
+  {
+   "keyword": "كيف افعل التحقق بخطوتين",
+   "intent": "حماية وتأمين",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "التحقق بخطوتين"
+   ],
+   "popularity": 27,
+   "difficulty": 12,
+   "buyer_intent": 13,
+   "opportunity": 46.8
+  },
+  {
+   "keyword": "انشاء حساب جيميل مجاني",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 27,
+   "difficulty": 34,
+   "buyer_intent": 30,
+   "opportunity": 46.2
   },
   {
    "keyword": "تسريب بيانات",
@@ -12950,6 +16753,38 @@
    "difficulty": 44,
    "buyer_intent": 38,
    "opportunity": 46.1
+  },
+  {
+   "keyword": "انشاء حساب جيميل خدمة",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 42,
+   "difficulty": 59,
+   "buyer_intent": 50,
+   "opportunity": 46.0
+  },
+  {
+   "keyword": "سناب شات تسجيل حساب جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 8,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 80,
+   "difficulty": 35,
+   "buyer_intent": 30,
+   "opportunity": 45.8
   },
   {
    "keyword": "كلمات مرور قوية للسناب شات",
@@ -12998,6 +16833,71 @@
    "difficulty": 45,
    "buyer_intent": 38,
    "opportunity": 45.7
+  },
+  {
+   "keyword": "نسيت رمز التحقق بخطوتين جيميل",
+   "intent": "حماية وتأمين",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "التحقق بخطوتين"
+   ],
+   "popularity": 29,
+   "difficulty": 45,
+   "buyer_intent": 38,
+   "opportunity": 45.7
+  },
+  {
+   "keyword": "البحث في تويتر بدون حساب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 7,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 72,
+   "difficulty": 36,
+   "buyer_intent": 30,
+   "opportunity": 45.3
+  },
+  {
+   "keyword": "استرداد حساب جيميل برقم الجوال",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 7,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 72,
+   "difficulty": 36,
+   "buyer_intent": 30,
+   "opportunity": 45.3
+  },
+  {
+   "keyword": "كيف اعرف ان هاتفي مراقب او مخترق",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي",
+    "هاتفي مخترق"
+   ],
+   "popularity": 46,
+   "difficulty": 6,
+   "buyer_intent": 5,
+   "opportunity": 45.1
   },
   {
    "keyword": "كيف اعرف حسابي قوقل مخترق",
@@ -13049,7 +16949,7 @@
    "opportunity": 45.1
   },
   {
-   "keyword": "هل هاتفي مخترق",
+   "keyword": "كيف اعرف هاتفي مخترق ايفون",
    "intent": "عام",
    "google_hits": 1,
    "bing_hits": 0,
@@ -13059,13 +16959,141 @@
    "seeds": [
     "هاتفي مخترق"
    ],
-   "popularity": 27,
-   "difficulty": 37,
-   "buyer_intent": 30,
-   "opportunity": 44.9
+   "popularity": 31,
+   "difficulty": 6,
+   "buyer_intent": 5,
+   "opportunity": 45.1
   },
   {
-   "keyword": "رقم هاتفي مخترق",
+   "keyword": "كيف استرجع حسابي فيسبوك مسروق",
+   "intent": "عام",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "حسابي مسروق فيسبوك"
+   ],
+   "popularity": 31,
+   "difficulty": 6,
+   "buyer_intent": 5,
+   "opportunity": 45.1
+  },
+  {
+   "keyword": "كيف اعرف ان هاتفي مخترق",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "هاتفي مخترق"
+   ],
+   "popularity": 29,
+   "difficulty": 6,
+   "buyer_intent": 5,
+   "opportunity": 45.1
+  },
+  {
+   "keyword": "برامج تحسين الصور بالذكاء الاصطناعي",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "برامج تجسس"
+   ],
+   "popularity": 29,
+   "difficulty": 6,
+   "buyer_intent": 5,
+   "opportunity": 45.1
+  },
+  {
+   "keyword": "كيف تعرف ان جهازك مخترق",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 29,
+   "difficulty": 6,
+   "buyer_intent": 5,
+   "opportunity": 45.1
+  },
+  {
+   "keyword": "كيف اعرف اذا جهازي مخترق",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 29,
+   "difficulty": 6,
+   "buyer_intent": 5,
+   "opportunity": 45.1
+  },
+  {
+   "keyword": "كيف اعرف ان جهازي مخترق",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 29,
+   "difficulty": 6,
+   "buyer_intent": 5,
+   "opportunity": 45.1
+  },
+  {
+   "keyword": "كيف اسوي حساب ستيم امريكي",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "تم اختراق حسابي"
+   ],
+   "popularity": 29,
+   "difficulty": 6,
+   "buyer_intent": 5,
+   "opportunity": 45.1
+  },
+  {
+   "keyword": "كيف اسوي حساب في قوقل",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 29,
+   "difficulty": 6,
+   "buyer_intent": 5,
+   "opportunity": 45.1
+  },
+  {
+   "keyword": "هل هاتفي مخترق",
    "intent": "عام",
    "google_hits": 1,
    "bing_hits": 0,
@@ -13337,6 +17365,182 @@
    "opportunity": 44.9
   },
   {
+   "keyword": "كشف متابعة يومي",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "كشف مبتز"
+   ],
+   "popularity": 25,
+   "difficulty": 37,
+   "buyer_intent": 30,
+   "opportunity": 44.9
+  },
+  {
+   "keyword": "كشف متابعة الطلاب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "كشف مبتز"
+   ],
+   "popularity": 25,
+   "difficulty": 37,
+   "buyer_intent": 30,
+   "opportunity": 44.9
+  },
+  {
+   "keyword": "كشف مرتبات الموظفين",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "كشف مبتز"
+   ],
+   "popularity": 25,
+   "difficulty": 37,
+   "buyer_intent": 30,
+   "opportunity": 44.9
+  },
+  {
+   "keyword": "كشف متابعة 1448",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "كشف مبتز"
+   ],
+   "popularity": 25,
+   "difficulty": 37,
+   "buyer_intent": 30,
+   "opportunity": 44.9
+  },
+  {
+   "keyword": "كشف متابعة الطالبات",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "كشف مبتز"
+   ],
+   "popularity": 25,
+   "difficulty": 37,
+   "buyer_intent": 30,
+   "opportunity": 44.9
+  },
+  {
+   "keyword": "برنامج تحسين الصوت",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "برامج تجسس"
+   ],
+   "popularity": 25,
+   "difficulty": 37,
+   "buyer_intent": 30,
+   "opportunity": 44.9
+  },
+  {
+   "keyword": "برنامج تحسين الالعاب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "برامج تجسس"
+   ],
+   "popularity": 25,
+   "difficulty": 37,
+   "buyer_intent": 30,
+   "opportunity": 44.9
+  },
+  {
+   "keyword": "تسجيل دخول حساب سناب شات",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 6,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 65,
+   "difficulty": 38,
+   "buyer_intent": 30,
+   "opportunity": 44.4
+  },
+  {
+   "keyword": "البحث عن حساب فيس بوك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 5,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 58,
+   "difficulty": 39,
+   "buyer_intent": 30,
+   "opportunity": 44.0
+  },
+  {
+   "keyword": "انشاء حساب سناب شات تجاري",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 5,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 58,
+   "difficulty": 39,
+   "buyer_intent": 30,
+   "opportunity": 44.0
+  },
+  {
+   "keyword": "طلب توثيق حساب تيك توك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 5,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 58,
+   "difficulty": 39,
+   "buyer_intent": 30,
+   "opportunity": 44.0
+  },
+  {
    "keyword": "حسابي في تويتر موقوف بشكل دائم",
    "intent": "عام",
    "google_hits": 2,
@@ -13354,6 +17558,103 @@
    "opportunity": 44.0
   },
   {
+   "keyword": "كيف اسوي حساب جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق",
+    "تم اختراق حسابي"
+   ],
+   "popularity": 42,
+   "difficulty": 9,
+   "buyer_intent": 5,
+   "opportunity": 43.7
+  },
+  {
+   "keyword": "فتح حساب سناب شات اعمال",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 4,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 51,
+   "difficulty": 40,
+   "buyer_intent": 30,
+   "opportunity": 43.5
+  },
+  {
+   "keyword": "فتح حساب سناب شات تجاري",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 4,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 51,
+   "difficulty": 40,
+   "buyer_intent": 30,
+   "opportunity": 43.5
+  },
+  {
+   "keyword": "تسجيل دخول حساب تيك توك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 4,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 51,
+   "difficulty": 40,
+   "buyer_intent": 30,
+   "opportunity": 43.5
+  },
+  {
+   "keyword": "تويتر بدون حساب تصفح فقط",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 4,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 51,
+   "difficulty": 40,
+   "buyer_intent": 30,
+   "opportunity": 43.5
+  },
+  {
+   "keyword": "كيف استرجع حسابي فيسبوك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 34,
+   "difficulty": 10,
+   "buyer_intent": 5,
+   "opportunity": 43.2
+  },
+  {
    "keyword": "تعلم هاكر اخلاقي",
    "intent": "اختراق وأدوات",
    "google_hits": 1,
@@ -13368,6 +17669,214 @@
    "difficulty": 37,
    "buyer_intent": 27,
    "opportunity": 43.2
+  },
+  {
+   "keyword": "دورة هكر اخلاقي",
+   "intent": "اختراق وأدوات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "هكر اخلاقي"
+   ],
+   "popularity": 25,
+   "difficulty": 37,
+   "buyer_intent": 27,
+   "opportunity": 43.2
+  },
+  {
+   "keyword": "استرداد حساب سناب شات",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 10,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 92,
+   "difficulty": 41,
+   "buyer_intent": 30,
+   "opportunity": 43.0
+  },
+  {
+   "keyword": "دخول حساب سناب شات",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 10,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 92,
+   "difficulty": 41,
+   "buyer_intent": 30,
+   "opportunity": 43.0
+  },
+  {
+   "keyword": "استرداد حساب تيك توك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 10,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 92,
+   "difficulty": 41,
+   "buyer_intent": 30,
+   "opportunity": 43.0
+  },
+  {
+   "keyword": "تسجيل حساب سناب شات",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 9,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 85,
+   "difficulty": 41,
+   "buyer_intent": 30,
+   "opportunity": 43.0
+  },
+  {
+   "keyword": "عمل حساب تيك توك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 9,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 85,
+   "difficulty": 41,
+   "buyer_intent": 30,
+   "opportunity": 43.0
+  },
+  {
+   "keyword": "تسجيل حساب تيك توك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 9,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 85,
+   "difficulty": 41,
+   "buyer_intent": 30,
+   "opportunity": 43.0
+  },
+  {
+   "keyword": "انشاء حساب تيك توك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 9,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 85,
+   "difficulty": 41,
+   "buyer_intent": 30,
+   "opportunity": 43.0
+  },
+  {
+   "keyword": "انشاء حساب في انستقرام",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 9,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام"
+   ],
+   "popularity": 85,
+   "difficulty": 41,
+   "buyer_intent": 30,
+   "opportunity": 43.0
+  },
+  {
+   "keyword": "انشاء حساب انستقرام جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 9,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام"
+   ],
+   "popularity": 85,
+   "difficulty": 41,
+   "buyer_intent": 30,
+   "opportunity": 43.0
+  },
+  {
+   "keyword": "استرداد حساب جيميل محذوف",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 9,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 85,
+   "difficulty": 41,
+   "buyer_intent": 30,
+   "opportunity": 43.0
+  },
+  {
+   "keyword": "عمل حساب جيميل جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 9,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 85,
+   "difficulty": 41,
+   "buyer_intent": 30,
+   "opportunity": 43.0
+  },
+  {
+   "keyword": "انشاء حساب تلجرام بالايميل",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 9,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 85,
+   "difficulty": 41,
+   "buyer_intent": 30,
+   "opportunity": 43.0
   },
   {
    "keyword": "حذف حساب شخص متوفي تيك توك",
@@ -13402,6 +17911,150 @@
    "opportunity": 43.0
   },
   {
+   "keyword": "تم الغاء تنشيط حسابي على انستقرام",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام"
+   ],
+   "popularity": 31,
+   "difficulty": 41,
+   "buyer_intent": 30,
+   "opportunity": 43.0
+  },
+  {
+   "keyword": "توثيق حساب سناب شات",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 8,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 78,
+   "difficulty": 42,
+   "buyer_intent": 30,
+   "opportunity": 42.6
+  },
+  {
+   "keyword": "سناب شات بدون حساب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 8,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 78,
+   "difficulty": 42,
+   "buyer_intent": 30,
+   "opportunity": 42.6
+  },
+  {
+   "keyword": "تسجيل حساب في تويتر",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 8,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 78,
+   "difficulty": 42,
+   "buyer_intent": 30,
+   "opportunity": 42.6
+  },
+  {
+   "keyword": "انشاء حساب تيك توك جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 44,
+   "difficulty": 42,
+   "buyer_intent": 30,
+   "opportunity": 42.6
+  },
+  {
+   "keyword": "تسجيل دخول تويتر بدون حساب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 44,
+   "difficulty": 42,
+   "buyer_intent": 30,
+   "opportunity": 42.6
+  },
+  {
+   "keyword": "تسجيل الدخول إلى حساب تويتر",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 44,
+   "difficulty": 42,
+   "buyer_intent": 30,
+   "opportunity": 42.6
+  },
+  {
+   "keyword": "البحث عن حسابي فيس بوك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 44,
+   "difficulty": 42,
+   "buyer_intent": 30,
+   "opportunity": 42.6
+  },
+  {
+   "keyword": "تسجيل دخول على تلجرام ويب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 44,
+   "difficulty": 42,
+   "buyer_intent": 30,
+   "opportunity": 42.6
+  },
+  {
    "keyword": "التحقق بخطوتين تيك توك",
    "intent": "حماية وتأمين",
    "google_hits": 1,
@@ -13429,6 +18082,22 @@
     "كلمات مرور قوية"
    ],
    "popularity": 29,
+   "difficulty": 52,
+   "buyer_intent": 38,
+   "opportunity": 42.5
+  },
+  {
+   "keyword": "الغاء التحقق بخطوتين جوجل",
+   "intent": "حماية وتأمين",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "التحقق بخطوتين"
+   ],
+   "popularity": 27,
    "difficulty": 52,
    "buyer_intent": 38,
    "opportunity": 42.5
@@ -13466,6 +18135,230 @@
    "opportunity": 42.4
   },
   {
+   "keyword": "كيفية حذف حساب microsoft",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "حذف حساب شخص متوفي"
+   ],
+   "popularity": 27,
+   "difficulty": 12,
+   "buyer_intent": 5,
+   "opportunity": 42.4
+  },
+  {
+   "keyword": "برنامج تحسين جودة الصور",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "برامج تجسس"
+   ],
+   "popularity": 27,
+   "difficulty": 12,
+   "buyer_intent": 5,
+   "opportunity": 42.4
+  },
+  {
+   "keyword": "برامج تحسين الصور للكمبيوتر",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "برامج تجسس"
+   ],
+   "popularity": 27,
+   "difficulty": 12,
+   "buyer_intent": 5,
+   "opportunity": 42.4
+  },
+  {
+   "keyword": "برامج تحسين جودة الصورة",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "برامج تجسس"
+   ],
+   "popularity": 27,
+   "difficulty": 12,
+   "buyer_intent": 5,
+   "opportunity": 42.4
+  },
+  {
+   "keyword": "كيف اجعل حسابي مسؤول",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 27,
+   "difficulty": 12,
+   "buyer_intent": 5,
+   "opportunity": 42.4
+  },
+  {
+   "keyword": "كيفية إعادة تسجيل الدخول",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 27,
+   "difficulty": 12,
+   "buyer_intent": 5,
+   "opportunity": 42.4
+  },
+  {
+   "keyword": "سناب شات انشاء حساب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 7,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 70,
+   "difficulty": 43,
+   "buyer_intent": 30,
+   "opportunity": 42.2
+  },
+  {
+   "keyword": "تيك توك دون حساب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 7,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 70,
+   "difficulty": 43,
+   "buyer_intent": 30,
+   "opportunity": 42.2
+  },
+  {
+   "keyword": "سناب شات حساب جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 7,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 70,
+   "difficulty": 43,
+   "buyer_intent": 30,
+   "opportunity": 42.2
+  },
+  {
+   "keyword": "تصفح انستقرام بدون حساب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 7,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام"
+   ],
+   "popularity": 70,
+   "difficulty": 43,
+   "buyer_intent": 30,
+   "opportunity": 42.2
+  },
+  {
+   "keyword": "تسجيل حساب جديد تويتر",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 7,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 70,
+   "difficulty": 43,
+   "buyer_intent": 30,
+   "opportunity": 42.2
+  },
+  {
+   "keyword": "تيك توك من دون حساب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 36,
+   "difficulty": 43,
+   "buyer_intent": 30,
+   "opportunity": 42.2
+  },
+  {
+   "keyword": "رابط حذف حساب انستقرام نهائيا",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام"
+   ],
+   "popularity": 36,
+   "difficulty": 43,
+   "buyer_intent": 30,
+   "opportunity": 42.2
+  },
+  {
+   "keyword": "انشاء حساب جديد في تويتر",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 36,
+   "difficulty": 43,
+   "buyer_intent": 30,
+   "opportunity": 42.2
+  },
+  {
    "keyword": "هاتفي مخترق",
    "intent": "عام",
    "google_hits": 1,
@@ -13480,6 +18373,134 @@
    "difficulty": 44,
    "buyer_intent": 30,
    "opportunity": 41.7
+  },
+  {
+   "keyword": "ابتسام لطفي",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "ابتزاز"
+   ],
+   "popularity": 23,
+   "difficulty": 44,
+   "buyer_intent": 30,
+   "opportunity": 41.7
+  },
+  {
+   "keyword": "اتز ماين",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "ابتزاز"
+   ],
+   "popularity": 23,
+   "difficulty": 44,
+   "buyer_intent": 30,
+   "opportunity": 41.7
+  },
+  {
+   "keyword": "كشف متابعة",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "كشف مبتز"
+   ],
+   "popularity": 23,
+   "difficulty": 44,
+   "buyer_intent": 30,
+   "opportunity": 41.7
+  },
+  {
+   "keyword": "كشف مرتبات",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "كشف مبتز"
+   ],
+   "popularity": 23,
+   "difficulty": 44,
+   "buyer_intent": 30,
+   "opportunity": 41.7
+  },
+  {
+   "keyword": "برنامج تجسير",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "برامج تجسس"
+   ],
+   "popularity": 23,
+   "difficulty": 44,
+   "buyer_intent": 30,
+   "opportunity": 41.7
+  },
+  {
+   "keyword": "سناب شات حذف حساب",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 6,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 63,
+   "difficulty": 45,
+   "buyer_intent": 30,
+   "opportunity": 41.2
+  },
+  {
+   "keyword": "توثيق حساب تيك توك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 6,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 63,
+   "difficulty": 45,
+   "buyer_intent": 30,
+   "opportunity": 41.2
+  },
+  {
+   "keyword": "فتح تلجرام تسجيل دخول",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 6,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 63,
+   "difficulty": 45,
+   "buyer_intent": 30,
+   "opportunity": 41.2
   },
   {
    "keyword": "حسابي بتويتر موقوف ايش الحل",
@@ -13514,6 +18535,616 @@
    "opportunity": 41.2
   },
   {
+   "keyword": "حذف حساب الفيس بوك نهائيا",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "حذف حساب شخص متوفي"
+   ],
+   "popularity": 29,
+   "difficulty": 45,
+   "buyer_intent": 30,
+   "opportunity": 41.2
+  },
+  {
+   "keyword": "انشاء حساب اعلاني سناب شات",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 29,
+   "difficulty": 45,
+   "buyer_intent": 30,
+   "opportunity": 41.2
+  },
+  {
+   "keyword": "فتح حساب تيك توك اعمال",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 29,
+   "difficulty": 45,
+   "buyer_intent": 30,
+   "opportunity": 41.2
+  },
+  {
+   "keyword": "دخول الى تويتر بدون حساب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 29,
+   "difficulty": 45,
+   "buyer_intent": 30,
+   "opportunity": 41.2
+  },
+  {
+   "keyword": "تويتر بحث بدون حساب 2021",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 29,
+   "difficulty": 45,
+   "buyer_intent": 30,
+   "opportunity": 41.2
+  },
+  {
+   "keyword": "تويتر بحث بدون حساب تصفح",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 29,
+   "difficulty": 45,
+   "buyer_intent": 30,
+   "opportunity": 41.2
+  },
+  {
+   "keyword": "طريقة حذف حساب فيس بوك",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 29,
+   "difficulty": 45,
+   "buyer_intent": 30,
+   "opportunity": 41.2
+  },
+  {
+   "keyword": "عمل حساب فيس بوك جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 29,
+   "difficulty": 45,
+   "buyer_intent": 30,
+   "opportunity": 41.2
+  },
+  {
+   "keyword": "تسجيل الدخول الى حساب جيميل",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 29,
+   "difficulty": 45,
+   "buyer_intent": 30,
+   "opportunity": 41.2
+  },
+  {
+   "keyword": "تسجيل الدخول إلى حساب جيميل",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 29,
+   "difficulty": 45,
+   "buyer_intent": 30,
+   "opportunity": 41.2
+  },
+  {
+   "keyword": "انشاء حساب جيميل جديد شخصي",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 29,
+   "difficulty": 45,
+   "buyer_intent": 30,
+   "opportunity": 41.2
+  },
+  {
+   "keyword": "فتح حساب تيك توك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 5,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 56,
+   "difficulty": 46,
+   "buyer_intent": 30,
+   "opportunity": 40.8
+  },
+  {
+   "keyword": "فتح حساب سناب شات",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 5,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 56,
+   "difficulty": 46,
+   "buyer_intent": 30,
+   "opportunity": 40.8
+  },
+  {
+   "keyword": "فتح حساب انستقرام جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 5,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام"
+   ],
+   "popularity": 56,
+   "difficulty": 46,
+   "buyer_intent": 30,
+   "opportunity": 40.8
+  },
+  {
+   "keyword": "انشاء حساب في تويتر",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 5,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 56,
+   "difficulty": 46,
+   "buyer_intent": 30,
+   "opportunity": 40.8
+  },
+  {
+   "keyword": "تيك توك بدون حساب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 4,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 49,
+   "difficulty": 47,
+   "buyer_intent": 30,
+   "opportunity": 40.4
+  },
+  {
+   "keyword": "طريقة حذف حساب انستقرام",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 4,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام"
+   ],
+   "popularity": 49,
+   "difficulty": 47,
+   "buyer_intent": 30,
+   "opportunity": 40.4
+  },
+  {
+   "keyword": "تم تعطيل حسابي انستقرام",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 4,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام"
+   ],
+   "popularity": 49,
+   "difficulty": 47,
+   "buyer_intent": 30,
+   "opportunity": 40.4
+  },
+  {
+   "keyword": "فتح حساب في جيميل",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 4,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 49,
+   "difficulty": 47,
+   "buyer_intent": 30,
+   "opportunity": 40.4
+  },
+  {
+   "keyword": "دخول على حساب جيميل",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 4,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 49,
+   "difficulty": 47,
+   "buyer_intent": 30,
+   "opportunity": 40.4
+  },
+  {
+   "keyword": "انشاء حساب في جيميل",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 4,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 49,
+   "difficulty": 47,
+   "buyer_intent": 30,
+   "opportunity": 40.4
+  },
+  {
+   "keyword": "تلجرام ويب تسجيل الدخول",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 4,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 49,
+   "difficulty": 47,
+   "buyer_intent": 30,
+   "opportunity": 40.4
+  },
+  {
+   "keyword": "تلجرام ويب تسجيل دخول",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 4,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تلجرام"
+   ],
+   "popularity": 49,
+   "difficulty": 47,
+   "buyer_intent": 30,
+   "opportunity": 40.4
+  },
+  {
+   "keyword": "التحقق بخطوتين جوجل",
+   "intent": "حماية وتأمين",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "التحقق بخطوتين"
+   ],
+   "popularity": 34,
+   "difficulty": 57,
+   "buyer_intent": 38,
+   "opportunity": 40.2
+  },
+  {
+   "keyword": "التحقق بخطوتين جيميل",
+   "intent": "حماية وتأمين",
+   "google_hits": 1,
+   "bing_hits": 1,
+   "engines": [
+    "bing",
+    "google"
+   ],
+   "seeds": [
+    "التحقق بخطوتين"
+   ],
+   "popularity": 34,
+   "difficulty": 57,
+   "buyer_intent": 38,
+   "opportunity": 40.2
+  },
+  {
+   "keyword": "كيف اسوي حساب تيك توك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 8,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 80,
+   "difficulty": 17,
+   "buyer_intent": 5,
+   "opportunity": 40.1
+  },
+  {
+   "keyword": "كيف اسوي حساب جيميل جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 7,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 72,
+   "difficulty": 18,
+   "buyer_intent": 5,
+   "opportunity": 39.6
+  },
+  {
+   "keyword": "حساب جديد سناب شات",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 42,
+   "difficulty": 49,
+   "buyer_intent": 30,
+   "opportunity": 39.5
+  },
+  {
+   "keyword": "انشاء حساب سناب شات",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب سناب شات"
+   ],
+   "popularity": 42,
+   "difficulty": 49,
+   "buyer_intent": 30,
+   "opportunity": 39.5
+  },
+  {
+   "keyword": "تويتر دخول دون حساب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 42,
+   "difficulty": 49,
+   "buyer_intent": 30,
+   "opportunity": 39.5
+  },
+  {
+   "keyword": "تويتر عربي بدون حساب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 42,
+   "difficulty": 49,
+   "buyer_intent": 30,
+   "opportunity": 39.5
+  },
+  {
+   "keyword": "عمل حساب فيس بوك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 42,
+   "difficulty": 49,
+   "buyer_intent": 30,
+   "opportunity": 39.5
+  },
+  {
+   "keyword": "استرداد حساب فيس بوك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 42,
+   "difficulty": 49,
+   "buyer_intent": 30,
+   "opportunity": 39.5
+  },
+  {
+   "keyword": "حساب جديد فيس بوك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 42,
+   "difficulty": 49,
+   "buyer_intent": 30,
+   "opportunity": 39.5
+  },
+  {
+   "keyword": "google انشاء حساب جيميل",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 42,
+   "difficulty": 49,
+   "buyer_intent": 30,
+   "opportunity": 39.5
+  },
+  {
+   "keyword": "إنشاء حساب جيميل جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 42,
+   "difficulty": 49,
+   "buyer_intent": 30,
+   "opportunity": 39.5
+  },
+  {
+   "keyword": "حساب جيميل تسجيل دخول",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 42,
+   "difficulty": 49,
+   "buyer_intent": 30,
+   "opportunity": 39.5
+  },
+  {
+   "keyword": "تسجيل حساب جيميل جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 42,
+   "difficulty": 49,
+   "buyer_intent": 30,
+   "opportunity": 39.5
+  },
+  {
    "keyword": "تأمين حساب انستقرام",
    "intent": "حماية وتأمين",
    "google_hits": 1,
@@ -13531,38 +19162,6 @@
   },
   {
    "keyword": "التحقق بخطوتين واتساب",
-   "intent": "حماية وتأمين",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "التحقق بخطوتين"
-   ],
-   "popularity": 27,
-   "difficulty": 59,
-   "buyer_intent": 38,
-   "opportunity": 39.4
-  },
-  {
-   "keyword": "التحقق بخطوتين جوجل",
-   "intent": "حماية وتأمين",
-   "google_hits": 1,
-   "bing_hits": 0,
-   "engines": [
-    "google"
-   ],
-   "seeds": [
-    "التحقق بخطوتين"
-   ],
-   "popularity": 27,
-   "difficulty": 59,
-   "buyer_intent": 38,
-   "opportunity": 39.4
-  },
-  {
-   "keyword": "التحقق بخطوتين جيميل",
    "intent": "حماية وتأمين",
    "google_hits": 1,
    "bing_hits": 0,
@@ -13658,6 +19257,215 @@
    "opportunity": 39.4
   },
   {
+   "keyword": "برامج تحسين الصور",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "برامج تجسس"
+   ],
+   "popularity": 25,
+   "difficulty": 19,
+   "buyer_intent": 5,
+   "opportunity": 39.2
+  },
+  {
+   "keyword": "عمل حساب انستقرام جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام"
+   ],
+   "popularity": 34,
+   "difficulty": 50,
+   "buyer_intent": 30,
+   "opportunity": 39.0
+  },
+  {
+   "keyword": "صفحة استرداد حساب جوجل",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام",
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 34,
+   "difficulty": 50,
+   "buyer_intent": 30,
+   "opportunity": 39.0
+  },
+  {
+   "keyword": "حسابات تيك توك مجانا",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 34,
+   "difficulty": 50,
+   "buyer_intent": 30,
+   "opportunity": 39.0
+  },
+  {
+   "keyword": "متجر حسابات تيك توك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 34,
+   "difficulty": 50,
+   "buyer_intent": 30,
+   "opportunity": 39.0
+  },
+  {
+   "keyword": "فتح حساب في تويتر",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 34,
+   "difficulty": 50,
+   "buyer_intent": 30,
+   "opportunity": 39.0
+  },
+  {
+   "keyword": "فتح حساب تويتر جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 34,
+   "difficulty": 50,
+   "buyer_intent": 30,
+   "opportunity": 39.0
+  },
+  {
+   "keyword": "تصفح تويتر بدون حساب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 34,
+   "difficulty": 50,
+   "buyer_intent": 30,
+   "opportunity": 39.0
+  },
+  {
+   "keyword": "تويتر انشاء حساب جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 34,
+   "difficulty": 50,
+   "buyer_intent": 30,
+   "opportunity": 39.0
+  },
+  {
+   "keyword": "تويتر بدون حساب تصفح",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 34,
+   "difficulty": 50,
+   "buyer_intent": 30,
+   "opportunity": 39.0
+  },
+  {
+   "keyword": "طريقة حذف حساب جيميل",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 34,
+   "difficulty": 50,
+   "buyer_intent": 30,
+   "opportunity": 39.0
+  },
+  {
+   "keyword": "الدخول الى حساب جيميل",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 34,
+   "difficulty": 50,
+   "buyer_intent": 30,
+   "opportunity": 39.0
+  },
+  {
+   "keyword": "استرداد حسابي جوجل مخترق",
+   "intent": "عام",
+   "google_hits": 1,
+   "bing_hits": 0,
+   "engines": [
+    "google"
+   ],
+   "seeds": [
+    "حسابي مخترق"
+   ],
+   "popularity": 29,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
    "keyword": "استرداد حساب جوجل مقفل",
    "intent": "عام",
    "google_hits": 1,
@@ -13688,6 +19496,310 @@
    "difficulty": 52,
    "buyer_intent": 30,
    "opportunity": 38.1
+  },
+  {
+   "keyword": "طريقة حذف حساب مايكروسوفت",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "حذف حساب شخص متوفي"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
+   "keyword": "حذف حساب الفيس بوك",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "حذف حساب شخص متوفي"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
+   "keyword": "حذف حسابي في مايكروسوفت",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "حذف حساب شخص متوفي"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
+   "keyword": "حذف حساب مايكروسوفت نهائيا",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "حذف حساب شخص متوفي"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
+   "keyword": "تسجيل دخول حساب انستقرام",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
+   "keyword": "حذف حساب تيك توك",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
+   "keyword": "تيك توك حساب ضيف",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
+   "keyword": "حساب تيك توك للبيع",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تيك توك"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
+   "keyword": "دخول تويتر بدون حساب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
+   "keyword": "انشاء حساب تويتر جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
+   "keyword": "تويتر بحث بدون حساب",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
+   "keyword": "تعطيل حساب فيس بوك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
+   "keyword": "طريقة انشاء حساب جيميل",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
+   "keyword": "انشاء حساب جيميل جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
+   "keyword": "إنشاء حساب جيميل مجانا",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
+   "keyword": "جيميل انشاء حساب جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
+   "keyword": "فتح حساب جيميل جديد",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
+   "keyword": "استرداد حساب جوجل محذوف",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استعادة حساب مسروق"
+   ],
+   "popularity": 27,
+   "difficulty": 52,
+   "buyer_intent": 30,
+   "opportunity": 38.1
+  },
+  {
+   "keyword": "كيف استرجع حساب انستقرام",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 9,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام"
+   ],
+   "popularity": 85,
+   "difficulty": 23,
+   "buyer_intent": 5,
+   "opportunity": 37.4
   },
   {
    "keyword": "كيفية معرفة حساب شخص مقفل في الفيس بوك",
@@ -13723,6 +19835,39 @@
    "opportunity": 37.2
   },
   {
+   "keyword": "كيف احذف حسابي في تويتر",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 3,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب تويتر"
+   ],
+   "popularity": 44,
+   "difficulty": 24,
+   "buyer_intent": 5,
+   "opportunity": 37.0
+  },
+  {
+   "keyword": "كيفية حذف حساب فيس بوك",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك",
+    "حذف حساب شخص متوفي"
+   ],
+   "popularity": 36,
+   "difficulty": 25,
+   "buyer_intent": 5,
+   "opportunity": 36.5
+  },
+  {
    "keyword": "حسابي واتساب مسروق",
    "intent": "عام",
    "google_hits": 3,
@@ -13754,6 +19899,54 @@
    "difficulty": 27,
    "buyer_intent": 5,
    "opportunity": 35.6
+  },
+  {
+   "keyword": "كيفية الغاء حساب فيس بوك",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب فيس بوك"
+   ],
+   "popularity": 29,
+   "difficulty": 27,
+   "buyer_intent": 5,
+   "opportunity": 35.6
+  },
+  {
+   "keyword": "كيفية حذف حساب انستقرام",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 5,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب انستقرام"
+   ],
+   "popularity": 56,
+   "difficulty": 28,
+   "buyer_intent": 5,
+   "opportunity": 35.1
+  },
+  {
+   "keyword": "كيف اسوي حساب جيميل",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 5,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 56,
+   "difficulty": 28,
+   "buyer_intent": 5,
+   "opportunity": 35.1
   },
   {
    "keyword": "حسابي التلجرام مخترق",
@@ -13866,6 +20059,70 @@
    "difficulty": 59,
    "buyer_intent": 30,
    "opportunity": 35.0
+  },
+  {
+   "keyword": "برامج تحسين نواتج التعلم",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "برامج تجسس"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 5,
+   "opportunity": 34.2
+  },
+  {
+   "keyword": "دورة امن سيبراني مجانا",
+   "intent": "عام",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "شركة امن سيبراني السعودية"
+   ],
+   "popularity": 27,
+   "difficulty": 30,
+   "buyer_intent": 5,
+   "opportunity": 34.2
+  },
+  {
+   "keyword": "كيفية حذف حساب جيميل",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 2,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "استرجاع حساب جيميل"
+   ],
+   "popularity": 34,
+   "difficulty": 32,
+   "buyer_intent": 5,
+   "opportunity": 33.4
+  },
+  {
+   "keyword": "كيفيه حذف حساب مايكروسوفت",
+   "intent": "حذف وإغلاق حسابات",
+   "google_hits": 0,
+   "bing_hits": 1,
+   "engines": [
+    "bing"
+   ],
+   "seeds": [
+    "حذف حساب شخص متوفي"
+   ],
+   "popularity": 27,
+   "difficulty": 34,
+   "buyer_intent": 5,
+   "opportunity": 32.5
   }
  ]
 }
